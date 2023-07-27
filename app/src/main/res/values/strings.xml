@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BTT SG</string>
+
+    <string name="in_app_update_compose_update_complete_title">Update Complete</string>
+    <string name="in_app_update_compose_update_complete_body">Update Complete\n</string>
+    <string name="in_app_update_compose_update_complete_button">Install</string>
+    <string name="in_app_update_compose_update_required_title">Update required</string>
+    <string name="in_app_update_compose_update_required_body">This app need to be update.</string>
+    <string name="in_app_update_compose_update_required_button">Update</string>
+    <string name="in_app_update_compose_update_progress_title">Downloading</string>
+    <string name="in_app_update_compose_update_progress_body">Downloading update...</string>
+    <string name="practice_desc">Question are arranged topically which is helpful to find out your weakest topical.</string>
+    <string name="random_desc">Questions are from topical but arranged randomly</string>
+    <string name="test_desc">These are questions similar to the actual BTT test . Practice it before siting it</string>
+    <string name="history_desc">View your previous attempt</string>
+</resources>

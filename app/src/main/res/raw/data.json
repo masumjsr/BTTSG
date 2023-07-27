@@ -1,0 +1,4562 @@
+[
+  {
+    "type": "Test 1 ",
+    "imageName": "one_circle",
+    "questions": [
+      {
+        "question": "Driving on a bend the car is being pulled. What is it called?",
+        "answer": 0,
+        "choice0": "Centrifugal Force",
+        "choice1": "Frictional force",
+        "choice2": "Gravitational Force",
+        "explaination": "Centrifugal Force",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is true?",
+        "answer": 0,
+        "choice0": "Sound your horn to prevent accident",
+        "choice1": "Sound your horn when in jam",
+        "choice2": "Never sound your horn at all",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "There is slow moving bus in front of you. Should you overtake it?",
+        "answer": 0,
+        "choice0": "No",
+        "choice1": "Yes if it is safe",
+        "choice2": "Yes because the bus is slow and there is enought time to do so",
+        "explaination": "Answer A - because you cannot see what is ahead of you as the bus is blocking the view",
+        "imageName": ""
+      },
+      {
+        "question": "How should you adjust the side mirror?",
+        "answer": 1,
+        "choice0": "Until the horizon is at the top.",
+        "choice1": "Until the horizon is slighly above the centre line.",
+        "choice2": "Until you see the back of the car.",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when the car you are overtaking sunddenly moves to the right",
+        "answer": 0,
+        "choice0": "Slow down and return back to your lane",
+        "choice1": "Horn and speed up",
+        "choice2": "Switch and overtake it on the left side",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "This indicator means",
+        "answer": 1,
+        "choice0": "Low beam indicator",
+        "choice1": "High beam indicator",
+        "choice2": "Light indicator",
+        "explaination": "Answer B - High beam indicator",
+        "imageName": "highbeamindicator"
+      },
+      {
+        "question": "Cyclist are not allow to ride on _______",
+        "answer": 1,
+        "choice0": "private road",
+        "choice1": "expressway",
+        "choice2": "carpark",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when you see a pedestrians using a zebra crossing?",
+        "answer": 2,
+        "choice0": "Signal them to proceed",
+        "choice1": "Prepare to accelerate",
+        "choice2": "Slow down and stop before the stop line",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Why you should dipping your vehicle's headlights at night when facing oncoming traffic?",
+        "answer": 2,
+        "choice0": "a safety requirement",
+        "choice1": "practisting courtesy",
+        "choice2": "avoid blinding the oncoming drivers",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "On a slope how should you park or stop your vehicle?",
+        "answer": 1,
+        "choice0": "Pull your handbrake",
+        "choice1": "Press on the brake first and than use handbrake",
+        "choice2": "Use handbrake 1st and the press on the brake pedal",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When should you use the 5th gear?",
+        "answer": 2,
+        "choice0": "Travelling at a speed of over 30km/h",
+        "choice1": "Travelling at a speed of over 50km/h",
+        "choice2": "Travelling at a speed of over 70km/h",
+        "explaination": "Answer C - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "What should you know before overtaking a long vehicles?",
+        "answer": 1,
+        "choice0": "Know when to speed up",
+        "choice1": "Know that you required a longer time to overtake than a shorter vehicles",
+        "choice2": "Know when to go fast or slow",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "How should you react when a stationary school bus is preparing to move off?",
+        "answer": 2,
+        "choice0": "Stop immediately and give way",
+        "choice1": "Speed up and pass it quickly",
+        "choice2": "Be ready to slow down or stop",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Where should you turn your steering wheel when reversing to the right?",
+        "answer": 1,
+        "choice0": "left",
+        "choice1": "right",
+        "choice2": "right tha left",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when you are reaching the junction which is controlled by the traffic light?",
+        "answer": 2,
+        "choice0": "Maintain the same speed",
+        "choice1": "speed up",
+        "choice2": "reduced speed",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When the pedal is fully released, the clutch is ______. Engine power is transmitted to the ______.",
+        "answer": 0,
+        "choice0": "engaged, gear-box",
+        "choice1": "engaged, engine",
+        "choice2": "disengage, gear-box",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Weaving in and out of slow moving traffic",
+        "answer": 2,
+        "choice0": "Helps in easing traffic jams",
+        "choice1": "is only for better drivers",
+        "choice2": "puts other road users in danger",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Why are elderly prone to accidents?",
+        "answer": 0,
+        "choice0": "Slow reflexes",
+        "choice1": "Forgetful",
+        "choice2": "Medical proven",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do after you changed lane?",
+        "answer": 1,
+        "choice0": "Look at the mirrors",
+        "choice1": "Off the signal",
+        "choice2": "Check blind spots",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "You are at the major road and what should you do when you see a cehicle trying to move into the major road from a minor road?",
+        "answer": 2,
+        "choice0": "You have a right of way",
+        "choice1": "Continue the same speed",
+        "choice2": "Sloow down and allow it to filter in",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What is the distance you should keep when approaching a pedestrians facing the traffic?",
+        "answer": 0,
+        "choice0": "1.0m",
+        "choice1": "1.5m",
+        "choice2": "2.0m",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When travelling down a long slope, you should use a engine brake. Why?",
+        "answer": 0,
+        "choice0": "Prevent wearing out the brake lining",
+        "choice1": "Prevent unnecessary emergency braking",
+        "choice2": "Rest you foot",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Your arms should be _____ when you are holding the steering wheel",
+        "answer": 1,
+        "choice0": "90 degrees",
+        "choice1": "Slighly bent",
+        "choice2": "Completely straight",
+        "explaination": "Answer B - No further explanation ",
+        "imageName": ""
+      },
+      {
+        "question": "Centrifugal force will resulted in",
+        "answer": 2,
+        "choice0": "Smaller turning radius",
+        "choice1": "Smaller the travel path",
+        "choice2": "Wider the turning radius",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Why is it more difficult to reverse than moving forward?",
+        "answer": 2,
+        "choice0": "reverse gear has a low speed",
+        "choice1": "reverse gear is less sensitive",
+        "choice2": "reverse steering requires time to take effect",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "On uneven surface, it is better to",
+        "answer": 0,
+        "choice0": "avoid turning your vehicle",
+        "choice1": "accelerate quickly",
+        "choice2": "hold on the steering loosely",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What causes your engine to stall while driving?",
+        "answer": 2,
+        "choice0": "Fully depress the accelerator",
+        "choice1": "Did not fully depress the brake",
+        "choice2": "Insufficiently depressed the accelerator pedal",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When you tigten the grip on the steering wheel?",
+        "answer": 0,
+        "choice0": "Anytime when it required",
+        "choice1": "When turning",
+        "choice2": "To concentrate properly",
+        "explaination": "Answer A - No further explanation ",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do first after overtaking>",
+        "answer": 0,
+        "choice0": "Signak left",
+        "choice1": "Horn to thank the driver",
+        "choice2": "Brakes lightly",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "This image shows",
+        "answer": 1,
+        "choice0": "Brake Warning Light",
+        "choice1": "Signal Indicators",
+        "choice2": "Door Warning light",
+        "explaination": "Answer B - Indicator lights will flicker when the indicator is activated in the desired direction",
+        "imageName": "signalindicators"
+      },
+      {
+        "question": "What qualities do you need to be a good driver? ?",
+        "answer": 2,
+        "choice0": "Impulsive",
+        "choice1": "Raging",
+        "choice2": "Considerate",
+        "explaination": "Answer: C",
+        "imageName": ""
+      },
+      {
+        "question": "You are allowed to overtake",
+        "answer": 0,
+        "choice0": "On the right",
+        "choice1": "On the left",
+        "choice2": "At the road junctions",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Changing down means",
+        "answer": 1,
+        "choice0": "Changing from lower gear to higher gear",
+        "choice1": "Changing from higher gear to lower gear",
+        "choice2": "Changing from higher gear to park",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Centrifugal force affects",
+        "answer": 2,
+        "choice0": "Only cars",
+        "choice1": "Only heavy vehicles",
+        "choice2": "All tpes of vehicles",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when you are near the top of a hill?",
+        "answer": 2,
+        "choice0": "Acclearate",
+        "choice1": "Slow down and keep right and stop if needed",
+        "choice2": "Slow down and keep left",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is correct meaning for Changing-up ?",
+        "answer": 0,
+        "choice0": "Changing-up is the process of changing gear from 1st to 2nd, 2nd to 3rd and onwards",
+        "choice1": "Changing-up is the process of changing gear from 1st to 4th gear.",
+        "choice2": "Changing up is when you change gear from neutal to 1st gear",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do on an uneven surfaces?",
+        "answer": 1,
+        "choice0": "Speed up",
+        "choice1": "Reduce speed",
+        "choice2": "Use handbrake",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Why should you always adjust your speed to the general flow of traffic and the situation on the road?",
+        "answer": 0,
+        "choice0": "Circumstances and traffic patterns change all the time",
+        "choice1": "Failing to do so puts yourself in danger",
+        "choice2": "Must be flexible and adaptable",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when parking your vehicle facing downhill?",
+        "answer": 0,
+        "choice0": "Turn your front wheel inward towards the kerb",
+        "choice1": "Turn your front wheel outward away from the kerb",
+        "choice2": "None",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When travelling uphill, you should",
+        "answer": 2,
+        "choice0": "Accelerate immediately",
+        "choice1": "Change to higher gear and accelerate",
+        "choice2": "Change to lower gear and accelerate",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "All drivers are required to switch on their headlights from",
+        "answer": 0,
+        "choice0": "7.00 pm to 7.00 am",
+        "choice1": "7.15 pm to 7.15 am",
+        "choice2": "7.30 pm to 7.00 am",
+        "explaination": "Answer A - no further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "This indicator means",
+        "answer": 2,
+        "choice0": "Battery Warning light",
+        "choice1": "Speed Warning light",
+        "choice2": "Brake Warning light",
+        "explaination": "Answer C - Brake Warning light",
+        "imageName": "brakewarninglight"
+      },
+      {
+        "question": "Moving off an upslope you are required to use",
+        "answer": 1,
+        "choice0": "Clutch pedal, accelerator and brake",
+        "choice1": "Handbrake, clutch pedal and accelerator",
+        "choice2": "Accelerator and brake",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What is the function of the overdrive in an automatic vehicle?",
+        "answer": 0,
+        "choice0": "Save fuel",
+        "choice1": "Overtake other vehicles effectively",
+        "choice2": "Save on engine wear",
+        "explaination": "Answer A - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "What distance should you kept when a pedestrains is walking away from the traffic?",
+        "answer": 1,
+        "choice0": "1.0m",
+        "choice1": "1.5m",
+        "choice2": "2.0m",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "At the zebra crossing, who has the right of way?",
+        "answer": 0,
+        "choice0": "Pedestrians",
+        "choice1": "Vehicles",
+        "choice2": "Whoever that arrives first",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When stopping and you step on the clutch too late, what will happened?",
+        "answer": 2,
+        "choice0": "Engine break down",
+        "choice1": "Car jerk",
+        "choice2": "Engine stall",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Bind spots is.",
+        "answer": 0,
+        "choice0": "The two areas on the right and left of your vehicle whcih cnanot be viewed from your mirror.",
+        "choice1": "The back areas of your vehicle whcih cnanot be viewed from your mirror",
+        "choice2": "The front areas of your vehicle whcih cnanot be viewed from your mirror",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "How far should you place the vehicle breakdown sign behind the broken down vehicle?",
+        "answer": 2,
+        "choice0": "Not more than 10 metres away",
+        "choice1": "15 metres away",
+        "choice2": "20 metres or more",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "This image shows",
+        "answer": 0,
+        "choice0": "Fuel Guage",
+        "choice1": "Water Guage",
+        "choice2": "Temperature Gauge",
+        "explaination": "Answer A - Fuel Guage",
+        "imageName": "fuelgauge"
+      }
+    ]
+  },
+  {
+    "type": "Test 2 ",
+    "imageName": "two_circle",
+    "questions": [
+      {
+        "question": "What should you do when going up a slope?",
+        "answer": 1,
+        "choice0": "Maintain the same distance when you are driving on a level road",
+        "choice1": "Give more distance then normal",
+        "choice2": "Drive close to the vehicle in front of you",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When clutch pedal is fully depressed, ",
+        "answer": 0,
+        "choice0": "The clutch is disengaged and engine power is not transmitted to the gear-box",
+        "choice1": "The clutch is disengaged and engine power is transmitted to the gear-box",
+        "choice2": "The clutch is engaged and engine power is transmitted to the gear-box",
+        "explaination": "Answer A - C happened when the pedal is fully released.",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the followings are the correct way of holding",
+        "answer": 1,
+        "choice0": "Ten-to-six and six-to-six postion",
+        "choice1": "Ten-to-two and Quarter-to-three Position",
+        "choice2": "The way a good driver teach you",
+        "explaination": "Answer B - the two postions are Ten-to-two and Quarter-to-three Position",
+        "imageName": ""
+      },
+      {
+        "question": "When you are passing stationary vehicle you should?",
+        "answer": 1,
+        "choice0": "Crash into the vehicle ",
+        "choice1": "Give way to oncoming vehicles",
+        "choice2": "Accelerate",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "The yellow car behind a truck and the traffic light turn green.",
+        "answer": 2,
+        "choice0": "The yellow car should follow the truck and go straight",
+        "choice1": "The yellow car should speed up and overtake the truck",
+        "choice2": "The yellow car is in an unsafe position",
+        "explaination": "Answer C",
+        "imageName": "onenineseven"
+      },
+      {
+        "question": "You are allowed to stop your vehicle and wait if",
+        "answer": 1,
+        "choice0": "it is convenient for you or your passengers",
+        "choice1": "the places that will not cause demerit points",
+        "choice2": "Not allowed as it causes inconveience to road user",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Making a turn without signalling your intention would",
+        "answer": 2,
+        "choice0": "help save time",
+        "choice1": "make no difference",
+        "choice2": "mislead other road drivers",
+        "explaination": "",
+        "imageName": ""
+      },
+      {
+        "question": "A good driver must not only be skillful but also ",
+        "answer": 2,
+        "choice0": "be patient",
+        "choice1": "be considerate and courteous",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When someone overtake you. You should",
+        "answer": 2,
+        "choice0": "Speed up",
+        "choice1": "Horn and speed up",
+        "choice2": "Slow down and allow them to overtake you",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which type of vehicles are not allowed on the expressways?",
+        "answer": 0,
+        "choice0": "Trishaws",
+        "choice1": "Motorcycles",
+        "choice2": "Cars havig a red number plates",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "The safe distance between vehicles going uphill should be _____  when travelling on the level road",
+        "answer": 1,
+        "choice0": "less than",
+        "choice1": "more than",
+        "choice2": "equal to",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What shoud you do before changing lanes in order?",
+        "answer": 1,
+        "choice0": "Check mirrors, blind spots and then signal",
+        "choice1": "Check mirrors, signals and then blind spots",
+        "choice2": "Signal, check mirrors and then blind spots",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Red car can take which exits?",
+        "answer": 2,
+        "choice0": "3, 6 & 8",
+        "choice1": "2, 4, 6 & 8",
+        "choice2": "4, 6 & 8",
+        "explaination": "Answer C",
+        "imageName": "twotwofour"
+      },
+      {
+        "question": "What should you do before entering the car?",
+        "answer": 2,
+        "choice0": "Check the condition of the vehicle including registration plates and the lights",
+        "choice1": "Check the tyres",
+        "choice2": "A and B",
+        "explaination": "Answer C, Check the condition of the car and tyres before entering",
+        "imageName": ""
+      },
+      {
+        "question": "When should you move back into the keft lane after overtaking?",
+        "answer": 2,
+        "choice0": "When you are able to see the overtaken vehicle on your side mirror",
+        "choice1": "As soon as you passed the vehicle",
+        "choice2": "When you are able to see the overtaken vehicle on your rear mirror",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When braking you should",
+        "answer": 1,
+        "choice0": "Apply pressure on the foot brake firmly first and increase the pressure gradually",
+        "choice1": "Apply pressure on the foot brake firmly first and decrease the pressure gradually",
+        "choice2": "Slam the foot-brake hard and increase pressure further",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Yellow car can take which exits?",
+        "answer": 0,
+        "choice0": "1 & 3",
+        "choice1": "3 & 5",
+        "choice2": "6 & 8",
+        "explaination": "Answer A",
+        "imageName": "twotwothree"
+      },
+      {
+        "question": "How should you position your vehicles to the parking lot?",
+        "answer": 1,
+        "choice0": "close to the left line",
+        "choice1": "centre",
+        "choice2": "close to the right line",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When you are reaching an uncontrolled junctions, you",
+        "answer": 1,
+        "choice0": "have the right of way",
+        "choice1": "should slow down and apply the give way rule",
+        "choice2": "speed up to pass the other road",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "This indicator means",
+        "answer": 0,
+        "choice0": "Battery Warning light",
+        "choice1": "Battery Pressure Warning light",
+        "choice2": "Oil Pressure Warning light",
+        "explaination": "Answer A - Battery Warning Light",
+        "imageName": "batterywarninglight"
+      },
+      {
+        "question": "What is the correct thing to do when there is an heavy traffic",
+        "answer": 0,
+        "choice0": "stay in your lane",
+        "choice1": "switch lane",
+        "choice2": "overtake",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "You are the red car and you should look out of",
+        "answer": 2,
+        "choice0": "Blue car",
+        "choice1": "Yellow car",
+        "choice2": "Pedestrians",
+        "explaination": "Answer C",
+        "imageName": "twozerosix"
+      },
+      {
+        "question": "What does D stands for in the small selector lever of most automatics car",
+        "answer": 0,
+        "choice0": "Drive",
+        "choice1": "Dive",
+        "choice2": "Deep",
+        "explaination": "Answer A - Drive",
+        "imageName": ""
+      },
+      {
+        "question": "When seated inside the vehicle, your vehicle appears",
+        "answer": 0,
+        "choice0": "Wider",
+        "choice1": "Smaller",
+        "choice2": "Larger",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Do you need to engage the handbrake when parking your vehicle facing uphill",
+        "answer": 1,
+        "choice0": "No",
+        "choice1": "Yes",
+        "choice2": "Depend on the steepness",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When driving at 2nd gear, which speed should you accelerate to?",
+        "answer": 0,
+        "choice0": "30-35 km/h",
+        "choice1": "35-40 km/h",
+        "choice2": "40-45 km/h",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which lane should the red car turn to",
+        "answer": 2,
+        "choice0": "1",
+        "choice1": "2",
+        "choice2": "3",
+        "explaination": "Answer C - lane 3",
+        "imageName": "twothreenine"
+      },
+      {
+        "question": "When confronted with a punctured tyre, you should hold on firmly to the steering wheel and guide the vehicle",
+        "answer": 2,
+        "choice0": "forward",
+        "choice1": "towards the pull of the vehicle",
+        "choice2": "against the pull on the vehicle",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When turning into the side road, what should you do?",
+        "answer": 2,
+        "choice0": "Look out for pedestrians and overtake them if they jaywalk",
+        "choice1": "Look out for pedestrians and horn them if they jaywalking",
+        "choice2": "Look out for pedestrians and allow them to cross",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "In which situation overtaking is allowed but not recommended?",
+        "answer": 2,
+        "choice0": "On a steep slope",
+        "choice1": "Near or around a sharp bend",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "From the diagram",
+        "answer": 2,
+        "choice0": "Yellow car should give way to blue and red car",
+        "choice1": "Blue car should give way to both yellow and red car",
+        "choice2": "Red car should give way to both yellow and blue car",
+        "explaination": "Answer C",
+        "imageName": "twotwosix"
+      },
+      {
+        "question": "Which of the following may resulted in engine overheating?",
+        "answer": 2,
+        "choice0": "Driving at gear 1 for too long",
+        "choice1": "Engine breaking for too long",
+        "choice2": "Water pup faulty",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Who should give way",
+        "answer": 0,
+        "choice0": "Red car",
+        "choice1": "Green car",
+        "choice2": "Depending",
+        "explaination": "Answer A",
+        "imageName": "twothreeone"
+      },
+      {
+        "question": "When you see a 'Give Way' sign at a junction",
+        "answer": 1,
+        "choice0": "you must always stop in order to give way",
+        "choice1": "you should slow down and proceed only if the road ahead is clear",
+        "choice2": "speed up as you have the right of way",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What is the reason for causing the overheating of engine?",
+        "answer": 0,
+        "choice0": "Poor car maintenance",
+        "choice1": "Loack of quality control of the car",
+        "choice2": "Over run the engine",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do before exiting the car?",
+        "answer": 0,
+        "choice0": "Look out for traffic",
+        "choice1": "Look at the rear-view mirror",
+        "choice2": "Ensure that u have engaged the handbrake",
+        "explaination": "Answer A, Ensure that there is no pedestrians or vehicles before you exit and open the door",
+        "imageName": ""
+      },
+      {
+        "question": "How should you avoid the effect of the centrifugal force?",
+        "answer": 1,
+        "choice0": "speed up",
+        "choice1": "slow down",
+        "choice2": "brake on and off",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when cross the road when seeing an elderly person?",
+        "answer": 2,
+        "choice0": "Stop immediately",
+        "choice1": "Sound horn and alert him/her",
+        "choice2": "slow down and prepared to stop",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "How do you stop engine braking?",
+        "answer": 1,
+        "choice0": "Switching off the engine",
+        "choice1": "Stepping on the clutch",
+        "choice2": "Releasing the accelerator",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "You should reduce your speed by ____ on wet roads as compare to dry road",
+        "answer": 1,
+        "choice0": "25%",
+        "choice1": "50%",
+        "choice2": "75%",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "How should you apply the brake pedal?",
+        "answer": 0,
+        "choice0": "Use your ball of your right foot to depress while your heel touches the floor board",
+        "choice1": "Use your ball of your right foot to depress and your heel should not touch the floor board",
+        "choice2": "Use your ball of your left foot to depress while your heel touches the floor board",
+        "explaination": "Answer B - You should use the ball of your right foot and your sheel should not touch the board when the brake pedal is used.",
+        "imageName": ""
+      },
+      {
+        "question": "When should you change into a higher gear?",
+        "answer": 0,
+        "choice0": "Position when going uphill",
+        "choice1": "when going downhill",
+        "choice2": "None of the above",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is incorrect to avoid getting into traffic jam ",
+        "answer": 2,
+        "choice0": "Plan your route",
+        "choice1": "Turn on car radio for announcement of accidents ,jam and etc",
+        "choice2": "Choose peak hour to go out ",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you engage when parking your vehicle facing downhill",
+        "answer": 2,
+        "choice0": "1st gear",
+        "choice1": "4th gear",
+        "choice2": "reverse gear",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when the car you are intended to overtake signal right?",
+        "answer": 2,
+        "choice0": "Pull back and stop",
+        "choice1": "Sound horn and overtake",
+        "choice2": "Overtake on the left if there is space to do so",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when you are not able to see the oncoming vehicles over the top of the slope?",
+        "answer": 1,
+        "choice0": "You should then exercise greater caution",
+        "choice1": "Keep left and reduce speed when reaching the crest",
+        "choice2": "Drive normally",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "You should keep a safe distance when passing a parked vehicle what is this distance?",
+        "answer": 1,
+        "choice0": "0.5m",
+        "choice1": "1.0m",
+        "choice2": "2.0m",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Before changing lanes, you must",
+        "answer": 2,
+        "choice0": "Speed up",
+        "choice1": "Look at the rear mirror",
+        "choice2": "Give the correct signals",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when changing lanes?",
+        "answer": 2,
+        "choice0": "Speed up",
+        "choice1": "Slow down",
+        "choice2": "Speed up or slow down depending of situation",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do first before you overtake?",
+        "answer": 1,
+        "choice0": "Drives as close as possible to the vehicle",
+        "choice1": "Look out for on coming vehicles",
+        "choice2": "Speed up",
+        "explaination": "Answer B",
+        "imageName": ""
+      }
+    ]
+  },
+  {
+    "type": "Test 3",
+    "imageName": "three_circle",
+    "questions": [
+      {
+        "question": "When you want to do a right turn in a junction, you should",
+        "answer": 1,
+        "choice0": "Turn slowly",
+        "choice1": "Get into the right lane as soon as possible",
+        "choice2": "Turn fast",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What is tailgating?",
+        "answer": 2,
+        "choice0": "A technique to drive close to the vehicle in front",
+        "choice1": "Blocking the entry on other vehicle forming a gate",
+        "choice2": "Following too closely behind another vehicle",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Two second rule applies",
+        "answer": 1,
+        "choice0": "only to vehicles travelling at the same speeds",
+        "choice1": "to vehicles travelling at any speed",
+        "choice2": "to vehicles travelling above 60km/h",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Can you turn on your headlight in daytime?",
+        "answer": 1,
+        "choice0": "No",
+        "choice1": "Yes to increase visiability",
+        "choice2": "Yes to drain the vehicle battery",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "How should you react when a school bus has just stopped in front of you.",
+        "answer": 2,
+        "choice0": "Stop and sound your horn",
+        "choice1": "overtake it immediately",
+        "choice2": "Slow down and be prepared to stop",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "You have missed a lane which you wanted to turn into it. What should you do?",
+        "answer": 0,
+        "choice0": "Continue going and turn at the next turning lane",
+        "choice1": "Stop, reverse and make your turn",
+        "choice2": "Stop and swerve round into the lane",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "You should overtake _________",
+        "answer": 0,
+        "choice0": "when it is necessary",
+        "choice1": "when you are in a traffic jam",
+        "choice2": "when everybody is doing it",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What is the distance you should keep when approaching a pedestrain who is facing the traffic?",
+        "answer": 1,
+        "choice0": "0.5m",
+        "choice1": "1.0m",
+        "choice2": "1.5m",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Hazard Warning witch turns on how many direction indicator lights simultaneously?",
+        "answer": 2,
+        "choice0": "2 front direction lights",
+        "choice1": "2 back direction lights",
+        "choice2": "All 4",
+        "explaination": "Answer C - four direction indicator lights",
+        "imageName": ""
+      },
+      {
+        "question": "All the three car are going straight. Which car have the right of way?",
+        "answer": 1,
+        "choice0": "Red and yellow",
+        "choice1": "Red and green",
+        "choice2": "Yellow and green",
+        "explaination": "Answer B - yellow car need to give way to both red and green car",
+        "imageName": "twothreethree"
+      },
+      {
+        "question": "When should you stop at the stop line?",
+        "answer": 0,
+        "choice0": "close to the stopline",
+        "choice1": "within 2 car length from the stop line",
+        "choice2": "within 1 car length from the stop line",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "How should you seat when driving through a bend",
+        "answer": 2,
+        "choice0": "Sit forward to have a better view",
+        "choice1": "Shift to the left or right",
+        "choice2": "Sit straight and upright without shifting",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "The four most basic types of selection in automatics are",
+        "answer": 2,
+        "choice0": "P, F, N, D",
+        "choice1": "P, R, N, B",
+        "choice2": "P, R, N, D",
+        "explaination": "Answer C, Park, Reverse, Neutral, Drive",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when you see a cyclist carrying a heavy weight?",
+        "answer": 0,
+        "choice0": "Slow down and keep a safe distance",
+        "choice1": "Overtake the cyclist quickly",
+        "choice2": "Flash your headlights at the cyclist",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do if you are unable to see the road clearly?",
+        "answer": 1,
+        "choice0": "Find the nearest car park and stop",
+        "choice1": "Move to a safe spot, stop and switch on the hazard lights",
+        "choice2": "Turn on the hazard lights and proceed",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What is the L (Lock-up or Hold) position on the selector for?",
+        "answer": 1,
+        "choice0": "Prevent the selector from changing",
+        "choice1": "Enables you to keep in low gear",
+        "choice2": "Use when you are in a slope to prevent it to move down",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What might happen if you step on the brake pedal?",
+        "answer": 1,
+        "choice0": "Easy control",
+        "choice1": "Vehicle may skid",
+        "choice2": "Vehicle is easier to stop",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Why you should not maintain half-clutch position for a long time?",
+        "answer": 1,
+        "choice0": "May cause overheat",
+        "choice1": "Wear out the lining of the clutch",
+        "choice2": "Jam the clutch",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "This image shows a steering wheel. What will happened to the vehicle if the steering wheel is turned to the left?",
+        "answer": 2,
+        "choice0": "The vehicle will move left.",
+        "choice1": "The vehicle will move forward or reverse to the left",
+        "choice2": "TThe vehicle will move forward or reverse to the right",
+        "explaination": "Answer C",
+        "imageName": "steering wheel left"
+      },
+      {
+        "question": "When must you switch on your vehicle's headlights?",
+        "answer": 1,
+        "choice0": "6.30pm to 7am",
+        "choice1": "7pm to 7am",
+        "choice2": "7.30pm to 7am",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "If you are unsure about the depth of the flooded area, you should",
+        "answer": 1,
+        "choice0": "Use your front wheel to test the depth",
+        "choice1": "Re-route",
+        "choice2": "Drive through it as quickly as possible",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Driving at a same speed with the traffic around you",
+        "answer": 0,
+        "choice0": "will not slow down traffic behind you",
+        "choice1": "is not recommended",
+        "choice2": "is applicable only when driving on expressways",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following make up a good driver?",
+        "answer": 2,
+        "choice0": "Good juidgement and reaction",
+        "choice1": "Able to concentrate and keen observation",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Insurance is mandatory for",
+        "answer": 2,
+        "choice0": "motorcyclists only",
+        "choice1": "Large vehicle only",
+        "choice2": "All motorists",
+        "explaination": "Amswer C",
+        "imageName": ""
+      },
+      {
+        "question": "When are you allowed to hold the steering wheel with only one hand?",
+        "answer": 1,
+        "choice0": "To relaxed of your arm",
+        "choice1": "When another control is being operate",
+        "choice2": "When travelling in slow speed",
+        "explaination": "Answer B - After operating another control, you must returned to the wheel immediately",
+        "imageName": ""
+      },
+      {
+        "question": "What will you suspect if you hear a loud noises from your car and it is moving from side to side?",
+        "answer": 1,
+        "choice0": "The brake is failling",
+        "choice1": "The wheel is loose",
+        "choice2": "The brake is broken",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "You are planning to turn right. At which position should you slow down?",
+        "answer": 2,
+        "choice0": "1",
+        "choice1": "2",
+        "choice2": "3",
+        "explaination": "Answer C",
+        "imageName": "twotwofive"
+      },
+      {
+        "question": "This image shows a steering wheel. What will happened to the vehicle if the steering wheel is turned to the left?",
+        "answer": 1,
+        "choice0": "The vehicle will move left.",
+        "choice1": "The vehicle will move forward or reverse to the left",
+        "choice2": "TThe vehicle will move forward or reverse to the right",
+        "explaination": "Answer B",
+        "imageName": "steering wheel right"
+      },
+      {
+        "question": "In order to reverse towards the right, your should turn the steering wheel to the ",
+        "answer": 0,
+        "choice0": "Left",
+        "choice1": "Right",
+        "choice2": "Anti-closewise",
+        "explaination": "Answer A -  No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "Which pedal should you use when want to stop the vehicle?",
+        "answer": 2,
+        "choice0": "Brake pedal only",
+        "choice1": "Clutch pedal only",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "You should change gear from ____ to ____ when approaching a bend?",
+        "answer": 1,
+        "choice0": "2nd to 3rd gear",
+        "choice1": "4th gear to 3rd gear",
+        "choice2": "4th gear to 5th gear",
+        "explaination": "Answer B - lowering the gear",
+        "imageName": ""
+      },
+      {
+        "question": "Before descending an incline, you must",
+        "answer": 0,
+        "choice0": "Know which gear to engage",
+        "choice1": "Step on the brakes",
+        "choice2": "Grip the steering wheel and lean forward",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when driving on a slippery road surface?",
+        "answer": 0,
+        "choice0": "Give more time and distance for slowing and stopping",
+        "choice1": "Applying brakes more frequently",
+        "choice2": "Slow down your vehicle and on the hazard lights",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When should you change tour vehicle's tyres?",
+        "answer": 2,
+        "choice0": "when new models are released",
+        "choice1": "when the threads are no longer visible",
+        "choice2": "when the threads are less than 1.6mm in depth",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Why should driver look far ahead when driving?",
+        "answer": 0,
+        "choice0": "to know when to adjust ther steering and speed",
+        "choice1": "to know when to turn",
+        "choice2": "to rely less on car mirrors",
+        "explaination": "Answer A - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "After changing from 2nd gear to 3rd gear, you should",
+        "answer": 1,
+        "choice0": "Release the clutch gradually",
+        "choice1": "Release the clutch quickly",
+        "choice2": "Continue stepping on the clutch pedal",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Blood alcohol concentration should not exceed _____ per 100ml of blood when driving",
+        "answer": 2,
+        "choice0": "60mg",
+        "choice1": "70mg",
+        "choice2": "80mg",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Where should you look when driving a bend?",
+        "answer": 2,
+        "choice0": "Mirrors",
+        "choice1": "In front of you",
+        "choice2": "look ahead as far as possible",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When you are parking and you are uanble to see what is behind you. You should",
+        "answer": 1,
+        "choice0": "Continue parking",
+        "choice1": "Come down the vehicle and look outside 1st",
+        "choice2": "Open the door and look behind",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which gear you you engage when driving down a gentle slope?",
+        "answer": 1,
+        "choice0": "1st or 2nd",
+        "choice1": "2nd or 3rd",
+        "choice2": "4th",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When should you use engine braking?",
+        "answer": 2,
+        "choice0": "Moving off",
+        "choice1": "Driving on level road",
+        "choice2": "Driving downhill",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When should you change to a higher gear?",
+        "answer": 2,
+        "choice0": "Approaching the bend",
+        "choice1": "In the bend",
+        "choice2": "Exiting the band",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What is the minimus distance you should keep when passing immovable obstalces",
+        "answer": 0,
+        "choice0": "0.5m",
+        "choice1": "1.5m",
+        "choice2": "2.5m",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When are you allow to cross the center-line of a two-way street?",
+        "answer": 2,
+        "choice0": "No traffic",
+        "choice1": "Speeding",
+        "choice2": "Passing road hazards",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When are you allowed to tailgate?",
+        "answer": 2,
+        "choice0": "When all the vehicle is travelling at the same speed",
+        "choice1": "When you are planning to overtake",
+        "choice2": "Never tailgate",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What other weather condition may affect the exposure of road surface apart from flood water?",
+        "answer": 0,
+        "choice0": "Strong crosswind",
+        "choice1": "Cloud cover",
+        "choice2": "Temperature",
+        "explaination": "Answer A - pull your vehicle onto other path ",
+        "imageName": ""
+      },
+      {
+        "question": "When doing parallel parking you start with the side of your vehicle _____m away from the kerb?",
+        "answer": 0,
+        "choice0": "1",
+        "choice1": "2",
+        "choice2": "3",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following emotion can affect driving?",
+        "answer": 1,
+        "choice0": "Depression",
+        "choice1": "Anger",
+        "choice2": "Happeiness",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Should you release release the steering wheel after you have made a turn?",
+        "answer": 0,
+        "choice0": "No",
+        "choice1": "Yes",
+        "choice2": "Depends",
+        "explaination": "Answer A - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "What must you do before overtaking",
+        "answer": 2,
+        "choice0": "Check if it safe",
+        "choice1": "Signal",
+        "choice2": "Both",
+        "explaination": "Answer C, check if it safe, signal and move to the next lane",
+        "imageName": ""
+      }
+    ]
+  },
+  {
+    "type": "Test 4 ",
+    "imageName": "four_circle",
+    "questions": [
+      {
+        "question": "On the slope, you are required to apply _______ pressure on the brake than usual.",
+        "answer": 1,
+        "choice0": "same",
+        "choice1": "more",
+        "choice2": "little",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is difficult to judge when overtaking?",
+        "answer": 2,
+        "choice0": "Speed of the vehicle behind you",
+        "choice1": "Distance of the vehicle beside you",
+        "choice2": "Speed and distance of oncoming vehicles",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "After overtaking",
+        "answer": 2,
+        "choice0": "Continue to speed up",
+        "choice1": "Move back into the left lane quickly",
+        "choice2": "Signal left and go back into your lane",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Are learner drivers allowed on expressways?",
+        "answer": 1,
+        "choice0": "At night only",
+        "choice1": "No",
+        "choice2": "Yes",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "A vehicle is parked along the kerb and it is considered as",
+        "answer": 2,
+        "choice0": "abandoned car",
+        "choice1": "illegally parked",
+        "choice2": "potentially a hazard",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which age category of pedestrains are most vulnerable to accidents?",
+        "answer": 2,
+        "choice0": "Below 15 years of age",
+        "choice1": "Above 50 years of age",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When should you use lights' indicator?",
+        "answer": 1,
+        "choice0": "When making a sharp turn",
+        "choice1": "Before turn is made",
+        "choice2": "Traffic jams",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What is aquaplaning?",
+        "answer": 2,
+        "choice0": "Wheel spinning",
+        "choice1": "Brake locking",
+        "choice2": "Tyre gliding",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "From the diagram",
+        "answer": 0,
+        "choice0": "Yellow car should give way and allow red car to proceed",
+        "choice1": "Red car should give way and allow yellow car to proceed",
+        "choice2": "Depending on which car reaching the stop line 1st",
+        "explaination": "Answer A",
+        "imageName": "twotwoseven"
+      },
+      {
+        "question": "What does P stands for in the small selector lever of most automatics car",
+        "answer": 1,
+        "choice0": "Power",
+        "choice1": "Park",
+        "choice2": "Pop",
+        "explaination": "Answer B - Park",
+        "imageName": ""
+      },
+      {
+        "question": "How should you hold your steering wheel?",
+        "answer": 2,
+        "choice0": "Hold it firmly",
+        "choice1": "Straightened your elbow",
+        "choice2": "Maintain a sutable grip and relaxed you elbow",
+        "explaination": "Answer C - No further explanation ",
+        "imageName": ""
+      },
+      {
+        "question": "An automatic transmission vehicle has no",
+        "answer": 0,
+        "choice0": "Gears",
+        "choice1": "Clotch pedal",
+        "choice2": "gears and clutch pedal",
+        "explaination": "Answer A - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "This image shows",
+        "answer": 1,
+        "choice0": "Fuel Guage",
+        "choice1": "Tachometer",
+        "choice2": "Speedometer",
+        "explaination": "Answer B - Indicates the number of engine recolutions per minute",
+        "imageName": "tachometer"
+      },
+      {
+        "question": "A lower gear results in a ",
+        "answer": 0,
+        "choice0": "More effective engine-brake",
+        "choice1": "Ineffective engine brake",
+        "choice2": "Powerful ineffective of engine brake",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Is there an engine braking effect if the clutch pedal is depressed?",
+        "answer": 0,
+        "choice0": "No",
+        "choice1": "Yes",
+        "choice2": "Depending on the speed of travel",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when your vehicle loses power when going up a slope?",
+        "answer": 1,
+        "choice0": "step on the accelerator",
+        "choice1": "change to a lower gear and accelerate",
+        "choice2": "change to a higher gear and accelerate",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which gear should you use to movee of a upslope?",
+        "answer": 0,
+        "choice0": "1st gear",
+        "choice1": "2nd gear",
+        "choice2": "5th gear",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following will affect your reaction time and devision making",
+        "answer": 2,
+        "choice0": "Hunger",
+        "choice1": "Toothache",
+        "choice2": "Fatigue",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which lane should Yellow car turn to",
+        "answer": 0,
+        "choice0": "2",
+        "choice1": "3",
+        "choice2": "4",
+        "explaination": "Answer A - lane 4",
+        "imageName": "twothreeseven"
+      },
+      {
+        "question": "Why should you signal in advance?",
+        "answer": 2,
+        "choice0": "Shoud not signal in advance as it will confuse other driver",
+        "choice1": "So that other driver will speed up and you are able to change lane",
+        "choice2": "To give others time and distance to react",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What are you required to do when moving off the hill?",
+        "answer": 2,
+        "choice0": "Check your mirrors and blind spots",
+        "choice1": "Signal",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When changing from 2nd to 3rd gear, you should",
+        "answer": 2,
+        "choice0": "Step on the accelerator and clutch pedal than change gears",
+        "choice1": "Step on the clutch pedal, release the accelerator pedal, brake slightly and then change gear",
+        "choice2": "Release the accelerator, step on the clutch pedal and then change gears at the same time",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which gear have the most effective engine-braking?",
+        "answer": 0,
+        "choice0": "1st gear",
+        "choice1": "2nd gear",
+        "choice2": "3rd gear",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Should you depress your clutch when driving around a bend?",
+        "answer": 1,
+        "choice0": "Yes",
+        "choice1": "No",
+        "choice2": "Depending whether are you changing speed",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When reversing it is a good habit to",
+        "answer": 2,
+        "choice0": "Off the radio or stereo",
+        "choice1": "Lower a window",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When driving, always position your vehicle so that you can see and observe",
+        "answer": 2,
+        "choice0": "Accidents on the road",
+        "choice1": "All around you",
+        "choice2": "Every vehicle",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which lane should slow moving vehicles position on an expressway?",
+        "answer": 1,
+        "choice0": "right lane",
+        "choice1": "left lane",
+        "choice2": "centre lane",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which lane should the red car turn to",
+        "answer": 1,
+        "choice0": "2",
+        "choice1": "3",
+        "choice2": "4",
+        "explaination": "Answer B - Lane 3",
+        "imageName": "twothreeeight"
+      },
+      {
+        "question": "When travelling behide a large vehicle, you should maintain a ______ following distance",
+        "answer": 0,
+        "choice0": "greater",
+        "choice1": "shorter",
+        "choice2": "accepetable",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do after drivig a flooded area?",
+        "answer": 2,
+        "choice0": "Engage handbrake and wait for it to dry",
+        "choice1": "Increase to speed to dry the brakes",
+        "choice2": "Pump the brake peadl repeatedly",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When being overtaken by a car, never",
+        "answer": 2,
+        "choice0": "Overtake another vehicle",
+        "choice1": "Stay near the center-line",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Changing lanes at juncrions is",
+        "answer": 0,
+        "choice0": "illegal and therefore an offence",
+        "choice1": "allowed if you are driving within the speed limit",
+        "choice2": "allowed if you remember to signal first.",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Where should you look when changing gears?",
+        "answer": 0,
+        "choice0": "Road ahead",
+        "choice1": "Gear lever",
+        "choice2": "Rear mirror",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "If you have decided to driving through a flooded area, you should",
+        "answer": 2,
+        "choice0": "Slow down and engage the neutral gear",
+        "choice1": "Accelerate and switch to a higher gear",
+        "choice2": "Slow down and switch to a lower gear",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What distance should there be between your vehicle and the vehicle in front if you are travelling at 50km/h?",
+        "answer": 0,
+        "choice0": "Three car lengths",
+        "choice1": "Four car lengths",
+        "choice2": "Five car lengths",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you engage when parking your vehicle facing uphill?",
+        "answer": 0,
+        "choice0": "1st gear",
+        "choice1": "4th gear",
+        "choice2": "reverse gear",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "The speed limit of your vehicle is 70km/h and the speed limit of the expressway is 90km/h. You are not allowed to drive more than",
+        "answer": 1,
+        "choice0": "60km/h",
+        "choice1": "70km/h",
+        "choice2": "90km/h",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Both yellow and red car are going straight. When the traffic light turns yellow,",
+        "answer": 1,
+        "choice0": "Both car should stop at the stop line",
+        "choice1": "Red car must stop while yellow car proceed",
+        "choice2": "Yellow car must stop while red car proceed",
+        "explaination": "Answer B",
+        "imageName": "twozerozero"
+      },
+      {
+        "question": "Damaged steering mechanisms will likely to cause",
+        "answer": 0,
+        "choice0": "The vehicle to swerve side to side",
+        "choice1": "Damage the engine",
+        "choice2": "Will cause tyres puncture",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Who have the right of away on a slope?",
+        "answer": 0,
+        "choice0": "Vehicles going up the slope",
+        "choice1": "Vehicles comig down the slope",
+        "choice2": "Depends on who drive the faster",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Red car signal to turn right",
+        "answer": 0,
+        "choice0": "Yellow and blue cars should continue to drive",
+        "choice1": "Blue car should stop",
+        "choice2": "Yellow and blue car should stop to let red car to turn",
+        "explaination": "Answer A",
+        "imageName": "twothreezero"
+      },
+      {
+        "question": "When reversing round a corner, you should",
+        "answer": 1,
+        "choice0": "allow for a wide gap so that the gap after reversing will be narrow",
+        "choice1": "allow for a narror gap so that the gao after reversing will be wide",
+        "choice2": "Allow for a wide gap so that you will be safe",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Why should you maintain a good safety distance?",
+        "answer": 0,
+        "choice0": "Because you will have enought distance to stop",
+        "choice1": "Because it is a rule and you must follow it",
+        "choice2": "Because you can change lane easily",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Should you go back into your orginal lane immediately after overtaking?",
+        "answer": 0,
+        "choice0": "No",
+        "choice1": "Yes",
+        "choice2": "Maybe",
+        "explaination": "Answer A - you should not cut in too soon",
+        "imageName": ""
+      },
+      {
+        "question": "When should you use your high beam?",
+        "answer": 1,
+        "choice0": "When the visbility is poor",
+        "choice1": "When approaching bends in poor vsibility",
+        "choice2": "When you want to be seen",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Why must you drive careful in the area near a playground?",
+        "answer": 0,
+        "choice0": "Children are seen and may have poor judgement of distance and vehicle speed",
+        "choice1": "Children are seen and it's hard to spot",
+        "choice2": "Children often play on road",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following car is inconsiderate?",
+        "answer": 0,
+        "choice0": "Red car",
+        "choice1": "Green Car",
+        "choice2": "Yellow car",
+        "explaination": "Answer A - Red car because it doen't siganl.",
+        "imageName": "oneninenine"
+      },
+      {
+        "question": "When the turn is complete,  what should you do to the direction indicator level",
+        "answer": 1,
+        "choice0": "Shift back to the orignial position",
+        "choice1": "Shift back to the orignial position if the lever does not shift back automatically",
+        "choice2": "Do nothing as it is automatical",
+        "explaination": "Answer B - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "How many hand(s) shouble be holding on the steering wheel at all times? ",
+        "answer": 1,
+        "choice0": "One",
+        "choice1": "Two",
+        "choice2": "Depend on situations",
+        "explaination": "Answer B - so that you are able to maintain balance and stability of the vehicle.",
+        "imageName": ""
+      },
+      {
+        "question": "Changing gear required the coordination of",
+        "answer": 1,
+        "choice0": "Handbrake, clutch and accelerator",
+        "choice1": "Clutch pedal and accelerator",
+        "choice2": "Clutch pedal and accelerator and signal indicators",
+        "explaination": "Answer A",
+        "imageName": ""
+      }
+    ]
+  },
+  {
+    "type": "Test 5 ",
+    "imageName": "five_circle",
+    "questions": [
+      {
+        "question": "How can you prevent your vehicle from moving back on the slope?",
+        "answer": 0,
+        "choice0": "Apply half-clutch technique",
+        "choice1": "Press the accelerator slightly",
+        "choice2": "Press on the brake and accelerator",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you always do when you have the right of way?",
+        "answer": 1,
+        "choice0": "never give way",
+        "choice1": "give way when necessary",
+        "choice2": "still give way",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "How should you react when the engine stall on a slope?",
+        "answer": 1,
+        "choice0": "Restart your engine 1st",
+        "choice1": "Step on the brake pedal 1st",
+        "choice2": "Pull the handbrake 1st",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "How should you react when you are beig tailgated?",
+        "answer": 2,
+        "choice0": "Speed up",
+        "choice1": "Ignore and continue driving",
+        "choice2": "Change lanes",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Comparing the stopping distance on a wet road and dry road. The stopping distance on a wet road is ______ than the dry road.",
+        "answer": 2,
+        "choice0": "the same as",
+        "choice1": "half",
+        "choice2": "much greater than",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which gear should you use when travelling short and steep slope?",
+        "answer": 0,
+        "choice0": "1st gear",
+        "choice1": "2nd gear",
+        "choice2": "3rd gear",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is false when you are stuck in traffic jam",
+        "answer": 1,
+        "choice0": "Do not sound your horn",
+        "choice1": "Cut in and out of traffic",
+        "choice2": "Stay in lane",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the follow is incorrect?",
+        "answer": 1,
+        "choice0": "Never overtake around a bends",
+        "choice1": "Never overtake on the left",
+        "choice2": "Never overtake near a junction",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following gear should you use when travelling downhill?",
+        "answer": 0,
+        "choice0": "1st gear",
+        "choice1": "2nd gear",
+        "choice2": "3rd gear",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "In a five speed manually driven vehicle, there are",
+        "answer": 0,
+        "choice0": "Six gears",
+        "choice1": "Five gears",
+        "choice2": "Seven gears",
+        "explaination": "Answer A - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "From the diagram",
+        "answer": 2,
+        "choice0": "Red car must give way to yellow, green and blue cars",
+        "choice1": "Blue car must give way to yellow, green and red cars",
+        "choice2": "Yellow car must give way to green, blue and green car",
+        "explaination": "Answer C",
+        "imageName": "twotwonine"
+      },
+      {
+        "question": "A good separation distance between your vehicle and the front vehicle is",
+        "answer": 0,
+        "choice0": "at least one car length for every 16km/h of speed",
+        "choice1": "half a car length for every 20km/h of speed",
+        "choice2": "one car length regardless of speed",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When should you change to a lower gear when driving a round a bend?",
+        "answer": 0,
+        "choice0": "Before entering",
+        "choice1": "In the middle of the bend",
+        "choice2": "Exiting the bend",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When should you change to a lower gear?",
+        "answer": 2,
+        "choice0": "Not enough engine power",
+        "choice1": "When engine-brake is needed",
+        "choice2": "Both A and B",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is the most effective way of braking?",
+        "answer": 2,
+        "choice0": "Using brake pedal only",
+        "choice1": "Using handbrake only",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Where should you observe when approaching a bend?",
+        "answer": 0,
+        "choice0": "Vehicle speed and distance before enetering the bend",
+        "choice1": "Road near the turning point",
+        "choice2": "Road immediately in front of your vehicle",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which lane should the red car turn to",
+        "answer": 2,
+        "choice0": "1",
+        "choice1": "2",
+        "choice2": "3",
+        "explaination": "Answer C - Lane 3",
+        "imageName": "twofourone"
+      },
+      {
+        "question": "You are intended to turn left into a minor road,",
+        "answer": 1,
+        "choice0": "swing out into a wide arc then turn",
+        "choice1": "give way to pedestrians crossing the minor road",
+        "choice2": "turn immediately to get off the main road",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "If you miss your exit when driving on the expressway, what should you dp?",
+        "answer": 0,
+        "choice0": "Drive to the next exit",
+        "choice1": "Stop and reverse",
+        "choice2": "Stop and cut into the exit point",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "How should you position your body when making a right turn?",
+        "answer": 0,
+        "choice0": "remain upright and straight",
+        "choice1": "lean to the left",
+        "choice2": "lean to the right",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When must you be familiarise with the controls of a vehicle?",
+        "answer": 0,
+        "choice0": "Before you drive",
+        "choice1": "Learn them as you driver",
+        "choice2": "Only need to know the main function",
+        "explaination": "Answer A - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "When should you start to shift your gear when going up a slope?",
+        "answer": 0,
+        "choice0": "While driving up the slope",
+        "choice1": "Before going up a slope",
+        "choice2": "After coming down a slope",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "The car is turning right. Where should you position your car at?",
+        "answer": 1,
+        "choice0": "Blue car's position",
+        "choice1": "Red car's position",
+        "choice2": "Green car's position",
+        "explaination": "Answer B - Blue car position",
+        "imageName": "oneninesix"
+      },
+      {
+        "question": "During the day, if the day light is reduced. Is driver allows to switch on the headlight?",
+        "answer": 0,
+        "choice0": "Yes",
+        "choice1": "No because you can only switch on between 7.00 pm to 7.00 am",
+        "choice2": "None of the above",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when you know that there is a traffic jam situation?",
+        "answer": 2,
+        "choice0": "Go ahead and wait in the jem",
+        "choice1": "Squeeze your way through",
+        "choice2": "Re-route your trip",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "How should you react when other driver make mistake?",
+        "answer": 2,
+        "choice0": "remain them to refresh themselves and read the highway code",
+        "choice1": "horn at them",
+        "choice2": "forgive them",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When should you change to a lower gear?",
+        "answer": 2,
+        "choice0": "Not enough engine power",
+        "choice1": "Engine-braking is need",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when driving around a bend?",
+        "answer": 2,
+        "choice0": "Slow down",
+        "choice1": "Speed up",
+        "choice2": "Maintain the same speed",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When the pedal is fully depressed, the clutch is disengage. Engine power is not transmitted to the gear-box.",
+        "answer": 0,
+        "choice0": "True",
+        "choice1": "False",
+        "choice2": "Depends on situation",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "The minimum distance between two passing vehciles is ___m",
+        "answer": 1,
+        "choice0": "0.5",
+        "choice1": "1.5",
+        "choice2": "2.5",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Why adverse weather condition will create challenging road conditions?",
+        "answer": 0,
+        "choice0": "Because it reduce visibility",
+        "choice1": "Because it always cause multi vehicle accidents",
+        "choice2": "Because it decrease drivers alertness",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "A learner driver must get",
+        "answer": 0,
+        "choice0": "The right and correct techniques",
+        "choice1": "Habits by other drivers",
+        "choice2": "Habits that suit him or her",
+        "explaination": "Answer A -  learner drivers cultivate the right qualities and learn the right techniques",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when the bonnet of the car becomes unlatched while driving?",
+        "answer": 2,
+        "choice0": "Speed up so that the wind will close it for u",
+        "choice1": "Stop immediately and align to close it",
+        "choice2": "Slow down, move to the side of the road and get out of the car safely to close it",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "The advantage of intermittent braking is",
+        "answer": 2,
+        "choice0": "Give adequate warning to motorists",
+        "choice1": "Prevent your wheel from locking",
+        "choice2": "All the above",
+        "explaination": "Answer C - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "When you are turning right, how should you postion your body?",
+        "answer": 2,
+        "choice0": "Slight to the right",
+        "choice1": "Slight to the left",
+        "choice2": "Not to move your body",
+        "explaination": "Answer C - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following pedal a automatic transmission vehicle do not have?",
+        "answer": 0,
+        "choice0": "Clutch",
+        "choice1": "Brake",
+        "choice2": "accelerator",
+        "explaination": "Answer A - clutch",
+        "imageName": ""
+      },
+      {
+        "question": "Which foot should you use when you are pressing the clutch pedal",
+        "answer": 1,
+        "choice0": "Right",
+        "choice1": "Left",
+        "choice2": "Right or left",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What is horn for?",
+        "answer": 0,
+        "choice0": "Warn others to prevent accident",
+        "choice1": "warn other if they are slow",
+        "choice2": "to express your frustration so that you will not cause accident",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when your car has overheated?",
+        "answer": 1,
+        "choice0": "Stop the car and turn off the engine and pour water on it",
+        "choice1": "drive quickly to the side of the road, stop and turn off the engine and unscree the radiator tank cap after the engine cool down",
+        "choice2": "drive to the nearest workshop",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when the visibility is poor due to bad weather?",
+        "answer": 2,
+        "choice0": "Switch on all your vehicle's light",
+        "choice1": "Sound horn and drive",
+        "choice2": "Stop at a safe spot and only drive when the visbility is clear",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should do when you approaching an area where there are road works?",
+        "answer": 2,
+        "choice0": "Speed up and pass quickly",
+        "choice1": "Switch on your hazard light",
+        "choice2": "Reduce speed and proceed with caution",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When should you apply the brakes when turning the bend",
+        "answer": 1,
+        "choice0": "When negotiating the bend",
+        "choice1": "When approaching the bend",
+        "choice2": "Both",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What shoukd you do when you see a stationary vehicle at the zebra crossing?",
+        "answer": 1,
+        "choice0": "Overtake it",
+        "choice1": "Slow down and prepare to stop",
+        "choice2": "Horn at the driver",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "You should look at the mirrors every",
+        "answer": 1,
+        "choice0": "second",
+        "choice1": "5-10 seconds",
+        "choice2": "few minutes",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When driving through a right shape bend, where should you position the vehicle?",
+        "answer": 0,
+        "choice0": "Left",
+        "choice1": "Center",
+        "choice2": "Right",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "One method to ensure safe reversing is to",
+        "answer": 1,
+        "choice0": "Use the brakes constantly",
+        "choice1": "Maintain the clutch at the biting point",
+        "choice2": "Use hand brake",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "You found that the brake is faulty. What should u do?",
+        "answer": 1,
+        "choice0": "Drive it to the workshop only",
+        "choice1": "Not to drive it",
+        "choice2": "Use handbrake only",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when driving through a junction?",
+        "answer": 1,
+        "choice0": "Stop at the stop-line",
+        "choice1": "Look left and right to make sure that it safe",
+        "choice2": "Look ahead and driving carefully",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "This image shows",
+        "answer": 2,
+        "choice0": "Fuel Guage",
+        "choice1": "Water Guage",
+        "choice2": "Temperature Gauge",
+        "explaination": "Answer C - Temperature Guage",
+        "imageName": "temperatureguage"
+      },
+      {
+        "question": "What should you do when you are dazzled by sunlight?",
+        "answer": 0,
+        "choice0": "Lower the sun visor",
+        "choice1": "Coat the windscreen",
+        "choice2": "Turn away from the sun and look at other locatioj",
+        "explaination": "Answer A",
+        "imageName": ""
+      }
+    ]
+  },
+  {
+    "type": "Test 6 ",
+    "imageName": "six_circle",
+    "questions": [
+      {
+        "question": "You are allowed to stop your vehicle and wait if",
+        "answer": 1,
+        "choice0": "it is convenient for you or your passengers",
+        "choice1": "the places that will not cause demerit points",
+        "choice2": "Not allowed as it causes inconveience to road user",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which foot should you use when you are pressing the clutch pedal",
+        "answer": 1,
+        "choice0": "Right",
+        "choice1": "Left",
+        "choice2": "Right or left",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "If you are unsure about the depth of the flooded area, you should",
+        "answer": 1,
+        "choice0": "Use your front wheel to test the depth",
+        "choice1": "Re-route",
+        "choice2": "Drive through it as quickly as possible",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Why is it more difficult to reverse than moving forward?",
+        "answer": 2,
+        "choice0": "reverse gear has a low speed",
+        "choice1": "reverse gear is less sensitive",
+        "choice2": "reverse steering requires time to take effect",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do before entering the car?",
+        "answer": 2,
+        "choice0": "Check the condition of the vehicle including registration plates and the lights",
+        "choice1": "Check the tyres",
+        "choice2": "A and B",
+        "explaination": "Answer C, Check the condition of the car and tyres before entering",
+        "imageName": ""
+      },
+      {
+        "question": "Driving on a bend the car is being pulled. What is it called?",
+        "answer": 0,
+        "choice0": "Centrifugal Force",
+        "choice1": "Frictional force",
+        "choice2": "Gravitational Force",
+        "explaination": "Centrifugal Force",
+        "imageName": ""
+      },
+      {
+        "question": "When you see a 'Give Way' sign at a junction",
+        "answer": 1,
+        "choice0": "you must always stop in order to give way",
+        "choice1": "you should slow down and proceed only if the road ahead is clear",
+        "choice2": "speed up as you have the right of way",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What is the distance you should keep when approaching a pedestrians facing the traffic?",
+        "answer": 0,
+        "choice0": "1.0m",
+        "choice1": "1.5m",
+        "choice2": "2.0m",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which lane should the red car turn to",
+        "answer": 1,
+        "choice0": "2",
+        "choice1": "3",
+        "choice2": "4",
+        "explaination": "Answer B - Lane 3",
+        "imageName": "twothreeeight"
+      },
+      {
+        "question": "When braking you should",
+        "answer": 1,
+        "choice0": "Apply pressure on the foot brake firmly first and increase the pressure gradually",
+        "choice1": "Apply pressure on the foot brake firmly first and decrease the pressure gradually",
+        "choice2": "Slam the foot-brake hard and increase pressure further",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "The speed limit of your vehicle is 70km/h and the speed limit of the expressway is 90km/h. You are not allowed to drive more than",
+        "answer": 1,
+        "choice0": "60km/h",
+        "choice1": "70km/h",
+        "choice2": "90km/h",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When seated inside the vehicle, your vehicle appears",
+        "answer": 0,
+        "choice0": "Wider",
+        "choice1": "Smaller",
+        "choice2": "Larger",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "How should you seat when driving through a bend",
+        "answer": 2,
+        "choice0": "Sit forward to have a better view",
+        "choice1": "Shift to the left or right",
+        "choice2": "Sit straight and upright without shifting",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Who has the right of way at the junction?",
+        "answer": 2,
+        "choice0": "Motorist",
+        "choice1": "Motorcyclists",
+        "choice2": "Pedestrians",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is the best way to learn how to drive?",
+        "answer": 1,
+        "choice0": "get a good driver to teach you",
+        "choice1": "get a qualified instructor",
+        "choice2": "get a good car",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Why should you signal in advance?",
+        "answer": 2,
+        "choice0": "Shoud not signal in advance as it will confuse other driver",
+        "choice1": "So that other driver will speed up and you are able to change lane",
+        "choice2": "To give others time and distance to react",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "The blue car should turn to which lane?",
+        "answer": 0,
+        "choice0": "Lane 1",
+        "choice1": "Lane 2",
+        "choice2": "Lanes 1 or 2",
+        "explaination": "Answer A - Lane 1",
+        "imageName": "twothreefour"
+      },
+      {
+        "question": "When should you stop at the stop line?",
+        "answer": 0,
+        "choice0": "close to the stopline",
+        "choice1": "within 2 car length from the stop line",
+        "choice2": "within 1 car length from the stop line",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "How should you react when a school bus has just stopped in front of you.",
+        "answer": 2,
+        "choice0": "Stop and sound your horn",
+        "choice1": "overtake it immediately",
+        "choice2": "Slow down and be prepared to stop",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Why you should dipping your vehicle's headlights at night when facing oncoming traffic?",
+        "answer": 2,
+        "choice0": "a safety requirement",
+        "choice1": "practisting courtesy",
+        "choice2": "avoid blinding the oncoming drivers",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "On a slope how should you park or stop your vehicle?",
+        "answer": 1,
+        "choice0": "Pull your handbrake",
+        "choice1": "Press on the brake first and than use handbrake",
+        "choice2": "Use handbrake 1st and the press on the brake pedal",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What will happen if you use high speed to drive around a bend",
+        "answer": 2,
+        "choice0": "reduces centrifugal force",
+        "choice1": "Making you easier to control the vehicle",
+        "choice2": "Loss control of your vehicle",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "One method to ensure safe reversing is to",
+        "answer": 1,
+        "choice0": "Use the brakes constantly",
+        "choice1": "Maintain the clutch at the biting point",
+        "choice2": "Use hand brake",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which lane should Yellow car turn to",
+        "answer": 0,
+        "choice0": "2",
+        "choice1": "3",
+        "choice2": "4",
+        "explaination": "Answer A - lane 4",
+        "imageName": "twothreeseven"
+      },
+      {
+        "question": "When should you apply the brakes when turning the bend",
+        "answer": 1,
+        "choice0": "When negotiating the bend",
+        "choice1": "When approaching the bend",
+        "choice2": "Both",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "You are at the major road and what should you do when you see a cehicle trying to move into the major road from a minor road?",
+        "answer": 2,
+        "choice0": "You have a right of way",
+        "choice1": "Continue the same speed",
+        "choice2": "Sloow down and allow it to filter in",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What is aquaplaning?",
+        "answer": 2,
+        "choice0": "Wheel spinning",
+        "choice1": "Brake locking",
+        "choice2": "Tyre gliding",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which type of vehicles are not allowed on the expressways?",
+        "answer": 0,
+        "choice0": "Trishaws",
+        "choice1": "Motorcycles",
+        "choice2": "Cars havig a red number plates",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "This indicator means",
+        "answer": 0,
+        "choice0": "Battery Warning light",
+        "choice1": "Battery Pressure Warning light",
+        "choice2": "Oil Pressure Warning light",
+        "explaination": "Answer A - Battery Warning Light",
+        "imageName": "batterywarninglight"
+      },
+      {
+        "question": "What is the L (Lock-up or Hold) position on the selector for?",
+        "answer": 1,
+        "choice0": "Prevent the selector from changing",
+        "choice1": "Enables you to keep in low gear",
+        "choice2": "Use when you are in a slope to prevent it to move down",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Both yellow and red car are going straight. When the traffic light turns yellow,",
+        "answer": 1,
+        "choice0": "Both car should stop at the stop line",
+        "choice1": "Red car must stop while yellow car proceed",
+        "choice2": "Yellow car must stop while red car proceed",
+        "explaination": "Answer B",
+        "imageName": "twozerozero"
+      },
+      {
+        "question": "Which of the following car is inconsiderate?",
+        "answer": 0,
+        "choice0": "Red car",
+        "choice1": "Green Car",
+        "choice2": "Yellow car",
+        "explaination": "Answer A - Red car because it doen't siganl.",
+        "imageName": "oneninenine"
+      },
+      {
+        "question": "How far should you place the vehicle breakdown sign behind the broken down vehicle?",
+        "answer": 2,
+        "choice0": "Not more than 10 metres away",
+        "choice1": "15 metres away",
+        "choice2": "20 metres or more",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "You are allowed to overtake",
+        "answer": 0,
+        "choice0": "On the right",
+        "choice1": "On the left",
+        "choice2": "At the road junctions",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do before exiting the car?",
+        "answer": 0,
+        "choice0": "Look out for traffic",
+        "choice1": "Look at the rear-view mirror",
+        "choice2": "Ensure that u have engaged the handbrake",
+        "explaination": "Answer A, Ensure that there is no pedestrians or vehicles before you exit and open the door",
+        "imageName": ""
+      },
+      {
+        "question": "A vehicle is parked along the kerb and it is considered as",
+        "answer": 2,
+        "choice0": "abandoned car",
+        "choice1": "illegally parked",
+        "choice2": "potentially a hazard",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Should you release release the steering wheel after you have made a turn?",
+        "answer": 0,
+        "choice0": "No",
+        "choice1": "Yes",
+        "choice2": "Depends",
+        "explaination": "Answer A - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "When are you allowed to tailgate?",
+        "answer": 2,
+        "choice0": "When all the vehicle is travelling at the same speed",
+        "choice1": "When you are planning to overtake",
+        "choice2": "Never tailgate",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "In a five speed manually driven vehicle, there are",
+        "answer": 0,
+        "choice0": "Six gears",
+        "choice1": "Five gears",
+        "choice2": "Seven gears",
+        "explaination": "Answer A - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "What is tailgating?",
+        "answer": 2,
+        "choice0": "A technique to drive close to the vehicle in front",
+        "choice1": "Blocking the entry on other vehicle forming a gate",
+        "choice2": "Following too closely behind another vehicle",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When should you change to a lower gear?",
+        "answer": 2,
+        "choice0": "Not enough engine power",
+        "choice1": "When engine-brake is needed",
+        "choice2": "Both A and B",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Where should you turn your steering wheel when reversing to the right?",
+        "answer": 1,
+        "choice0": "left",
+        "choice1": "right",
+        "choice2": "right tha left",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do after drivig a flooded area?",
+        "answer": 2,
+        "choice0": "Engage handbrake and wait for it to dry",
+        "choice1": "Increase to speed to dry the brakes",
+        "choice2": "Pump the brake peadl repeatedly",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which lane should slow moving vehicles position on an expressway?",
+        "answer": 1,
+        "choice0": "right lane",
+        "choice1": "left lane",
+        "choice2": "centre lane",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when the visibility is poor due to bad weather?",
+        "answer": 2,
+        "choice0": "Switch on all your vehicle's light",
+        "choice1": "Sound horn and drive",
+        "choice2": "Stop at a safe spot and only drive when the visbility is clear",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Why must you drive careful in the area near a playground?",
+        "answer": 0,
+        "choice0": "Children are seen and may have poor judgement of distance and vehicle speed",
+        "choice1": "Children are seen and it's hard to spot",
+        "choice2": "Children often play on road",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when you see a cyclist carrying a heavy weight?",
+        "answer": 0,
+        "choice0": "Slow down and keep a safe distance",
+        "choice1": "Overtake the cyclist quickly",
+        "choice2": "Flash your headlights at the cyclist",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When being overtaken by a car, never",
+        "answer": 2,
+        "choice0": "Overtake another vehicle",
+        "choice1": "Stay near the center-line",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When the turn is complete,  what should you do to the direction indicator level",
+        "answer": 1,
+        "choice0": "Shift back to the orignial position",
+        "choice1": "Shift back to the orignial position if the lever does not shift back automatically",
+        "choice2": "Do nothing as it is automatical",
+        "explaination": "Answer B - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "When doing parallel parking you start with the side of your vehicle _____m away from the kerb?",
+        "answer": 0,
+        "choice0": "1",
+        "choice1": "2",
+        "choice2": "3",
+        "explaination": "Answer A",
+        "imageName": ""
+      }
+    ]
+  },
+  {
+    "type": "Test 7 ",
+    "imageName": "seven_circle",
+    "questions": [
+      {
+        "question": "Centrifugal force will resulted in",
+        "answer": 2,
+        "choice0": "Smaller turning radius",
+        "choice1": "Smaller the travel path",
+        "choice2": "Wider the turning radius",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Hazard Warning witch turns on how many direction indicator lights simultaneously?",
+        "answer": 2,
+        "choice0": "2 front direction lights",
+        "choice1": "2 back direction lights",
+        "choice2": "All 4",
+        "explaination": "Answer C - four direction indicator lights",
+        "imageName": ""
+      },
+      {
+        "question": "Do you need to engage the handbrake when parking your vehicle facing uphill",
+        "answer": 1,
+        "choice0": "No",
+        "choice1": "Yes",
+        "choice2": "Depend on the steepness",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "A lower gear results in a ",
+        "answer": 0,
+        "choice0": "More effective engine-brake",
+        "choice1": "Ineffective engine brake",
+        "choice2": "Powerful ineffective of engine brake",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "In order to reverse towards the right, your should turn the steering wheel to the ",
+        "answer": 0,
+        "choice0": "Left",
+        "choice1": "Right",
+        "choice2": "Anti-closewise",
+        "explaination": "Answer A -  No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "A learner driver must get",
+        "answer": 0,
+        "choice0": "The right and correct techniques",
+        "choice1": "Habits by other drivers",
+        "choice2": "Habits that suit him or her",
+        "explaination": "Answer A -  learner drivers cultivate the right qualities and learn the right techniques",
+        "imageName": ""
+      },
+      {
+        "question": "You are the blue car and you signal to turn left, you should",
+        "answer": 1,
+        "choice0": "Speed up so you can turn quickly",
+        "choice1": "Slow down",
+        "choice2": "Look at for red vehicles",
+        "explaination": "Answer B",
+        "imageName": "twozeroone"
+      },
+      {
+        "question": "How many hand(s) shouble be holding on the steering wheel at all times? ",
+        "answer": 1,
+        "choice0": "One",
+        "choice1": "Two",
+        "choice2": "Depend on situations",
+        "explaination": "Answer B - so that you are able to maintain balance and stability of the vehicle.",
+        "imageName": ""
+      },
+      {
+        "question": "What should you depress when driving around a bend?",
+        "answer": 1,
+        "choice0": "Clutch pedal",
+        "choice1": "Accelerator pedal",
+        "choice2": "Both (A) and (B)",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do first after overtaking>",
+        "answer": 0,
+        "choice0": "Signak left",
+        "choice1": "Horn to thank the driver",
+        "choice2": "Brakes lightly",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What is a directional change?",
+        "answer": 0,
+        "choice0": "Manoeuvring your vehicle to face the opposite direction",
+        "choice1": "Manoeuvring your vehicle to face 90 degrees to the right",
+        "choice2": "Manoeuvring your vehicle to face 90 degrees to the left",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What might happen if you step on the brake pedal?",
+        "answer": 1,
+        "choice0": "Easy control",
+        "choice1": "Vehicle may skid",
+        "choice2": "Vehicle is easier to stop",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What causes your engine to stall while driving?",
+        "answer": 2,
+        "choice0": "Fully depress the accelerator",
+        "choice1": "Did not fully depress the brake",
+        "choice2": "Insufficiently depressed the accelerator pedal",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when the bonnet of the car becomes unlatched while driving?",
+        "answer": 2,
+        "choice0": "Speed up so that the wind will close it for u",
+        "choice1": "Stop immediately and align to close it",
+        "choice2": "Slow down, move to the side of the road and get out of the car safely to close it",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When should you change to a lower gear when driving a round a bend?",
+        "answer": 0,
+        "choice0": "Before entering",
+        "choice1": "In the middle of the bend",
+        "choice2": "Exiting the bend",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "How should you adjust the side mirror?",
+        "answer": 1,
+        "choice0": "Until the horizon is at the top.",
+        "choice1": "Until the horizon is slighly above the centre line.",
+        "choice2": "Until you see the back of the car.",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Who should give way",
+        "answer": 0,
+        "choice0": "Red car",
+        "choice1": "Green car",
+        "choice2": "Depending",
+        "explaination": "Answer A",
+        "imageName": "twothreeone"
+      },
+      {
+        "question": "What other weather condition may affect the exposure of road surface apart from flood water?",
+        "answer": 0,
+        "choice0": "Strong crosswind",
+        "choice1": "Cloud cover",
+        "choice2": "Temperature",
+        "explaination": "Answer A - pull your vehicle onto other path ",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is the correct way to hold your steering wheel?",
+        "answer": 2,
+        "choice0": "Ten to two position",
+        "choice1": "One to three Position",
+        "choice2": "Four to eight Position",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should do when you approaching an area where there are road works?",
+        "answer": 2,
+        "choice0": "Speed up and pass quickly",
+        "choice1": "Switch on your hazard light",
+        "choice2": "Reduce speed and proceed with caution",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "This image shows",
+        "answer": 1,
+        "choice0": "Brake Warning Light",
+        "choice1": "Signal Indicators",
+        "choice2": "Door Warning light",
+        "explaination": "Answer B - Indicator lights will flicker when the indicator is activated in the desired direction",
+        "imageName": "signalindicators"
+      },
+      {
+        "question": "If you miss your exit when driving on the expressway, what should you dp?",
+        "answer": 0,
+        "choice0": "Drive to the next exit",
+        "choice1": "Stop and reverse",
+        "choice2": "Stop and cut into the exit point",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when driving around a bend?",
+        "answer": 2,
+        "choice0": "Slow down",
+        "choice1": "Speed up",
+        "choice2": "Maintain the same speed",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When driving through a right shape bend, where should you position the vehicle?",
+        "answer": 0,
+        "choice0": "Left",
+        "choice1": "Center",
+        "choice2": "Right",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Why you should not maintain half-clutch position for a long time?",
+        "answer": 1,
+        "choice0": "May cause overheat",
+        "choice1": "Wear out the lining of the clutch",
+        "choice2": "Jam the clutch",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the followings are the correct way of holding",
+        "answer": 1,
+        "choice0": "Ten-to-six and six-to-six postion",
+        "choice1": "Ten-to-two and Quarter-to-three Position",
+        "choice2": "The way a good driver teach you",
+        "explaination": "Answer B - the two postions are Ten-to-two and Quarter-to-three Position",
+        "imageName": ""
+      },
+      {
+        "question": "What is the minimus distance you should keep when passing immovable obstalces",
+        "answer": 0,
+        "choice0": "0.5m",
+        "choice1": "1.5m",
+        "choice2": "2.5m",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "How should you react when other driver make mistake?",
+        "answer": 2,
+        "choice0": "remain them to refresh themselves and read the highway code",
+        "choice1": "horn at them",
+        "choice2": "forgive them",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When reversing it is a good habit to",
+        "answer": 2,
+        "choice0": "Off the radio or stereo",
+        "choice1": "Lower a window",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when changing lanes?",
+        "answer": 2,
+        "choice0": "Speed up",
+        "choice1": "Slow down",
+        "choice2": "Speed up or slow down depending of situation",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What is the distance you should keep when approaching a pedestrain who is facing the traffic?",
+        "answer": 1,
+        "choice0": "0.5m",
+        "choice1": "1.0m",
+        "choice2": "1.5m",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "On the slope, you are required to apply _______ pressure on the brake than usual.",
+        "answer": 1,
+        "choice0": "same",
+        "choice1": "more",
+        "choice2": "little",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "There is slow moving bus in front of you. Should you overtake it?",
+        "answer": 0,
+        "choice0": "No",
+        "choice1": "Yes if it is safe",
+        "choice2": "Yes because the bus is slow and there is enought time to do so",
+        "explaination": "Answer A - because you cannot see what is ahead of you as the bus is blocking the view",
+        "imageName": ""
+      },
+      {
+        "question": "Why are elderly prone to accidents?",
+        "answer": 0,
+        "choice0": "Slow reflexes",
+        "choice1": "Forgetful",
+        "choice2": "Medical proven",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What shoud you do before changing lanes in order?",
+        "answer": 1,
+        "choice0": "Check mirrors, blind spots and then signal",
+        "choice1": "Check mirrors, signals and then blind spots",
+        "choice2": "Signal, check mirrors and then blind spots",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "This image shows a steering wheel. What will happened to the vehicle if the steering wheel is turned to the left?",
+        "answer": 2,
+        "choice0": "The vehicle will move left.",
+        "choice1": "The vehicle will move forward or reverse to the left",
+        "choice2": "TThe vehicle will move forward or reverse to the right",
+        "explaination": "Answer C",
+        "imageName": "steering wheel left"
+      },
+      {
+        "question": "Traffic conditions are",
+        "answer": 2,
+        "choice0": "always the same during rush hours",
+        "choice1": "always the same under the same conditions",
+        "choice2": "Never the same",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when you know that there is a traffic jam situation?",
+        "answer": 2,
+        "choice0": "Go ahead and wait in the jem",
+        "choice1": "Squeeze your way through",
+        "choice2": "Re-route your trip",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when you see a pedestrians using a zebra crossing?",
+        "answer": 2,
+        "choice0": "Signal them to proceed",
+        "choice1": "Prepare to accelerate",
+        "choice2": "Slow down and stop before the stop line",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What is expected to happen if your released your clutch suddenly?",
+        "answer": 2,
+        "choice0": "Vehicle vibrates violently",
+        "choice1": "Engine vibrate violently",
+        "choice2": "Engine stalls",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "How should you hold your steering wheel?",
+        "answer": 2,
+        "choice0": "Hold it firmly",
+        "choice1": "Straightened your elbow",
+        "choice2": "Maintain a sutable grip and relaxed you elbow",
+        "explaination": "Answer C - No further explanation ",
+        "imageName": ""
+      },
+      {
+        "question": "Before descending an incline, you must",
+        "answer": 0,
+        "choice0": "Know which gear to engage",
+        "choice1": "Step on the brakes",
+        "choice2": "Grip the steering wheel and lean forward",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "This indicator means",
+        "answer": 2,
+        "choice0": "Battery Warning light",
+        "choice1": "Speed Warning light",
+        "choice2": "Brake Warning light",
+        "explaination": "Answer C - Brake Warning light",
+        "imageName": "brakewarninglight"
+      },
+      {
+        "question": "All the three car are going straight. Which car have the right of way?",
+        "answer": 1,
+        "choice0": "Red and yellow",
+        "choice1": "Red and green",
+        "choice2": "Yellow and green",
+        "explaination": "Answer B - yellow car need to give way to both red and green car",
+        "imageName": "twothreethree"
+      },
+      {
+        "question": "Making a turn without signalling your intention would",
+        "answer": 2,
+        "choice0": "help save time",
+        "choice1": "make no difference",
+        "choice2": "mislead other road drivers",
+        "explaination": "",
+        "imageName": ""
+      },
+      {
+        "question": "Damaged steering mechanisms will likely to cause",
+        "answer": 0,
+        "choice0": "The vehicle to swerve side to side",
+        "choice1": "Damage the engine",
+        "choice2": "Will cause tyres puncture",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Insurance is mandatory for",
+        "answer": 2,
+        "choice0": "motorcyclists only",
+        "choice1": "Large vehicle only",
+        "choice2": "All motorists",
+        "explaination": "Amswer C",
+        "imageName": ""
+      },
+      {
+        "question": "An automatic transmission vehicle has no",
+        "answer": 0,
+        "choice0": "Gears",
+        "choice1": "Clotch pedal",
+        "choice2": "gears and clutch pedal",
+        "explaination": "Answer A - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "Where should you look when changing gears?",
+        "answer": 0,
+        "choice0": "Road ahead",
+        "choice1": "Gear lever",
+        "choice2": "Rear mirror",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Comparing the stopping distance on a wet road and dry road. The stopping distance on a wet road is ______ than the dry road.",
+        "answer": 2,
+        "choice0": "the same as",
+        "choice1": "half",
+        "choice2": "much greater than",
+        "explaination": "Answer C",
+        "imageName": ""
+      }
+    ]
+  },
+  {
+    "type": "Test 8 ",
+    "imageName": "eight_circle",
+    "questions": [
+      {
+        "question": "How should you react when you are beig tailgated?",
+        "answer": 2,
+        "choice0": "Speed up",
+        "choice1": "Ignore and continue driving",
+        "choice2": "Change lanes",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "This indicator means",
+        "answer": 1,
+        "choice0": "Low beam indicator",
+        "choice1": "High beam indicator",
+        "choice2": "Light indicator",
+        "explaination": "Answer B - High beam indicator",
+        "imageName": "highbeamindicator"
+      },
+      {
+        "question": "Which technique should you use for reversing?",
+        "answer": 0,
+        "choice0": "Connecting and disconnecting",
+        "choice1": "Half clutch",
+        "choice2": "Engine braking",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when the car you are intended to overtake signal right?",
+        "answer": 2,
+        "choice0": "Pull back and stop",
+        "choice1": "Sound horn and overtake",
+        "choice2": "Overtake on the left if there is space to do so",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When someone overtake you. You should",
+        "answer": 2,
+        "choice0": "Speed up",
+        "choice1": "Horn and speed up",
+        "choice2": "Slow down and allow them to overtake you",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which gear have the most effective engine-braking?",
+        "answer": 0,
+        "choice0": "1st gear",
+        "choice1": "2nd gear",
+        "choice2": "3rd gear",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following gear should you use when travelling downhill?",
+        "answer": 0,
+        "choice0": "1st gear",
+        "choice1": "2nd gear",
+        "choice2": "3rd gear",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "How should you react when a stationary school bus is preparing to move off?",
+        "answer": 2,
+        "choice0": "Stop immediately and give way",
+        "choice1": "Speed up and pass it quickly",
+        "choice2": "Be ready to slow down or stop",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What is the function of the overdrive in an automatic vehicle?",
+        "answer": 0,
+        "choice0": "Save fuel",
+        "choice1": "Overtake other vehicles effectively",
+        "choice2": "Save on engine wear",
+        "explaination": "Answer A - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "At the zebra crossing, who has the right of way?",
+        "answer": 0,
+        "choice0": "Pedestrians",
+        "choice1": "Vehicles",
+        "choice2": "Whoever that arrives first",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When should you move back into the keft lane after overtaking?",
+        "answer": 2,
+        "choice0": "When you are able to see the overtaken vehicle on your side mirror",
+        "choice1": "As soon as you passed the vehicle",
+        "choice2": "When you are able to see the overtaken vehicle on your rear mirror",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the follow is incorrect?",
+        "answer": 1,
+        "choice0": "Never overtake around a bends",
+        "choice1": "Never overtake on the left",
+        "choice2": "Never overtake near a junction",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When reversing round a corner, you should",
+        "answer": 1,
+        "choice0": "allow for a wide gap so that the gap after reversing will be narrow",
+        "choice1": "allow for a narror gap so that the gao after reversing will be wide",
+        "choice2": "Allow for a wide gap so that you will be safe",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Centrifugal force affects",
+        "answer": 2,
+        "choice0": "Only cars",
+        "choice1": "Only heavy vehicles",
+        "choice2": "All tpes of vehicles",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Should you depress your clutch when driving around a bend?",
+        "answer": 1,
+        "choice0": "Yes",
+        "choice1": "No",
+        "choice2": "Depending whether are you changing speed",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "From the diagram",
+        "answer": 2,
+        "choice0": "Yellow car should give way to blue and red car",
+        "choice1": "Blue car should give way to both yellow and red car",
+        "choice2": "Red car should give way to both yellow and blue car",
+        "explaination": "Answer C",
+        "imageName": "twotwosix"
+      },
+      {
+        "question": "What should you do when you feel drowsy while driving?",
+        "answer": 0,
+        "choice0": "find a safe place and park and take a short break before driving",
+        "choice1": "Speed up and reach you location faster",
+        "choice2": "Stop driving, swicth on the hazard lights and take a nap",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Why is tailgating dangerous?",
+        "answer": 1,
+        "choice0": "Only skilled driver can handle it",
+        "choice1": "Because your view and range of vision are obstructed",
+        "choice2": "The exhaust fumes may block your view",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "How should you position your body when making a right turn?",
+        "answer": 0,
+        "choice0": "remain upright and straight",
+        "choice1": "lean to the left",
+        "choice2": "lean to the right",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following pedal a automatic transmission vehicle do not have?",
+        "answer": 0,
+        "choice0": "Clutch",
+        "choice1": "Brake",
+        "choice2": "accelerator",
+        "explaination": "Answer A - clutch",
+        "imageName": ""
+      },
+      {
+        "question": "When should you depress the clutch when you are about to stop?",
+        "answer": 0,
+        "choice0": "Before the engine vibrate",
+        "choice1": "When the vehicle stop",
+        "choice2": "When the brake pedal is fully depressed",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What does P stands for in the small selector lever of most automatics car",
+        "answer": 1,
+        "choice0": "Power",
+        "choice1": "Park",
+        "choice2": "Pop",
+        "explaination": "Answer B - Park",
+        "imageName": ""
+      },
+      {
+        "question": "What must u check before you overtake?",
+        "answer": 1,
+        "choice0": "whether you have the speed to do so",
+        "choice1": "it is legal to do so",
+        "choice2": "whether your car can do it",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Driving at a same speed with the traffic around you",
+        "answer": 0,
+        "choice0": "will not slow down traffic behind you",
+        "choice1": "is not recommended",
+        "choice2": "is applicable only when driving on expressways",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Bind spots is.",
+        "answer": 0,
+        "choice0": "The two areas on the right and left of your vehicle whcih cnanot be viewed from your mirror.",
+        "choice1": "The back areas of your vehicle whcih cnanot be viewed from your mirror",
+        "choice2": "The front areas of your vehicle whcih cnanot be viewed from your mirror",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do if you are unable to see the road clearly?",
+        "answer": 1,
+        "choice0": "Find the nearest car park and stop",
+        "choice1": "Move to a safe spot, stop and switch on the hazard lights",
+        "choice2": "Turn on the hazard lights and proceed",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when your car has overheated?",
+        "answer": 1,
+        "choice0": "Stop the car and turn off the engine and pour water on it",
+        "choice1": "drive quickly to the side of the road, stop and turn off the engine and unscree the radiator tank cap after the engine cool down",
+        "choice2": "drive to the nearest workshop",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Is there an engine braking effect if the clutch pedal is depressed?",
+        "answer": 0,
+        "choice0": "No",
+        "choice1": "Yes",
+        "choice2": "Depending on the speed of travel",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When clutch pedal is fully depressed, ",
+        "answer": 0,
+        "choice0": "The clutch is disengaged and engine power is not transmitted to the gear-box",
+        "choice1": "The clutch is disengaged and engine power is transmitted to the gear-box",
+        "choice2": "The clutch is engaged and engine power is transmitted to the gear-box",
+        "explaination": "Answer A - C happened when the pedal is fully released.",
+        "imageName": ""
+      },
+      {
+        "question": "When you are reaching an uncontrolled junctions, you",
+        "answer": 1,
+        "choice0": "have the right of way",
+        "choice1": "should slow down and apply the give way rule",
+        "choice2": "speed up to pass the other road",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When should you start to shift your gear when going up a slope?",
+        "answer": 0,
+        "choice0": "While driving up the slope",
+        "choice1": "Before going up a slope",
+        "choice2": "After coming down a slope",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What is horn for?",
+        "answer": 0,
+        "choice0": "Warn others to prevent accident",
+        "choice1": "warn other if they are slow",
+        "choice2": "to express your frustration so that you will not cause accident",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "How should you position your vehicle when driving around a two-way bend?",
+        "answer": 2,
+        "choice0": "Right side of the right bend",
+        "choice1": "Left side of the left bend",
+        "choice2": "Centre of the lane",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When are you allow to cross the center-line of a two-way street?",
+        "answer": 2,
+        "choice0": "No traffic",
+        "choice1": "Speeding",
+        "choice2": "Passing road hazards",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "You should be a good driver and a _______",
+        "answer": 2,
+        "choice0": "Smart driver",
+        "choice1": "instructor",
+        "choice2": "Safe driver",
+        "explaination": "Answer C - A good driver is must not only be skilful in handling his/her vehicle but more importantly is one who is safe",
+        "imageName": ""
+      },
+      {
+        "question": "Where should you turn your steering wheel when reversing to the left?",
+        "answer": 0,
+        "choice0": "left",
+        "choice1": "right",
+        "choice2": "right than left",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When should you use your high beam?",
+        "answer": 1,
+        "choice0": "When the visbility is poor",
+        "choice1": "When approaching bends in poor vsibility",
+        "choice2": "When you want to be seen",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Blue car wants to turn right while red car wants to turn left",
+        "answer": 1,
+        "choice0": "Blue car should proceed",
+        "choice1": "Blue car should wait for red car to turn 1st",
+        "choice2": "Both the blue and red car may turn",
+        "explaination": "Answer B",
+        "imageName": "twotwoeight"
+      },
+      {
+        "question": "You should overtake _________",
+        "answer": 0,
+        "choice0": "when it is necessary",
+        "choice1": "when you are in a traffic jam",
+        "choice2": "when everybody is doing it",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you engage when parking your vehicle facing uphill?",
+        "answer": 0,
+        "choice0": "1st gear",
+        "choice1": "4th gear",
+        "choice2": "reverse gear",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "After overtaking",
+        "answer": 2,
+        "choice0": "Continue to speed up",
+        "choice1": "Move back into the left lane quickly",
+        "choice2": "Signal left and go back into your lane",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What distance should you kept when a pedestrains is walking away from the traffic?",
+        "answer": 1,
+        "choice0": "1.0m",
+        "choice1": "1.5m",
+        "choice2": "2.0m",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which gear should you use when travelling short and steep slope?",
+        "answer": 0,
+        "choice0": "1st gear",
+        "choice1": "2nd gear",
+        "choice2": "3rd gear",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When should you use engine braking?",
+        "answer": 2,
+        "choice0": "Moving off",
+        "choice1": "Driving on level road",
+        "choice2": "Driving downhill",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Before changing lanes, you must",
+        "answer": 2,
+        "choice0": "Speed up",
+        "choice1": "Look at the rear mirror",
+        "choice2": "Give the correct signals",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When should you use lights' indicator?",
+        "answer": 1,
+        "choice0": "When making a sharp turn",
+        "choice1": "Before turn is made",
+        "choice2": "Traffic jams",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Where should you observe when approaching a bend?",
+        "answer": 0,
+        "choice0": "Vehicle speed and distance before enetering the bend",
+        "choice1": "Road near the turning point",
+        "choice2": "Road immediately in front of your vehicle",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "You should look at the mirrors every",
+        "answer": 1,
+        "choice0": "second",
+        "choice1": "5-10 seconds",
+        "choice2": "few minutes",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "In a five speed manually driven vehicle, there are",
+        "answer": 0,
+        "choice0": "six gears",
+        "choice1": "five gears",
+        "choice2": "seven gears",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Are learner drivers allowed on expressways?",
+        "answer": 1,
+        "choice0": "At night only",
+        "choice1": "No",
+        "choice2": "Yes",
+        "explaination": "Answer B",
+        "imageName": ""
+      }
+    ]
+  },
+  {
+    "type": "Test 9 ",
+    "imageName": "nine_circle",
+    "questions": [
+      {
+        "question": "What shoukd you do when you see a stationary vehicle at the zebra crossing?",
+        "answer": 1,
+        "choice0": "Overtake it",
+        "choice1": "Slow down and prepare to stop",
+        "choice2": "Horn at the driver",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do on an uneven surfaces?",
+        "answer": 1,
+        "choice0": "Speed up",
+        "choice1": "Reduce speed",
+        "choice2": "Use handbrake",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "In which situation overtaking is allowed but not recommended?",
+        "answer": 2,
+        "choice0": "On a steep slope",
+        "choice1": "Near or around a sharp bend",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following may resulted in engine overheating?",
+        "answer": 2,
+        "choice0": "Driving at gear 1 for too long",
+        "choice1": "Engine breaking for too long",
+        "choice2": "Water pup faulty",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What must you do before overtaking",
+        "answer": 2,
+        "choice0": "Check if it safe",
+        "choice1": "Signal",
+        "choice2": "Both",
+        "explaination": "Answer C, check if it safe, signal and move to the next lane",
+        "imageName": ""
+      },
+      {
+        "question": "Changing down means",
+        "answer": 1,
+        "choice0": "Changing from lower gear to higher gear",
+        "choice1": "Changing from higher gear to lower gear",
+        "choice2": "Changing from higher gear to park",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "How do you stop engine braking?",
+        "answer": 1,
+        "choice0": "Switching off the engine",
+        "choice1": "Stepping on the clutch",
+        "choice2": "Releasing the accelerator",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When turning into the side road, what should you do?",
+        "answer": 2,
+        "choice0": "Look out for pedestrians and overtake them if they jaywalk",
+        "choice1": "Look out for pedestrians and horn them if they jaywalking",
+        "choice2": "Look out for pedestrians and allow them to cross",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When is your vehicle more likely to aquaplane?",
+        "answer": 0,
+        "choice0": "When you increase the speed of driving",
+        "choice1": "When your brake is damaged",
+        "choice2": "When tyre are flat",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Should you go back into your orginal lane immediately after overtaking?",
+        "answer": 0,
+        "choice0": "No",
+        "choice1": "Yes",
+        "choice2": "Maybe",
+        "explaination": "Answer A - you should not cut in too soon",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is correct meaning for Changing-up ?",
+        "answer": 0,
+        "choice0": "Changing-up is the process of changing gear from 1st to 2nd, 2nd to 3rd and onwards",
+        "choice1": "Changing-up is the process of changing gear from 1st to 4th gear.",
+        "choice2": "Changing up is when you change gear from neutal to 1st gear",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Why motorcyclists are more likely to be involved in accidents?",
+        "answer": 1,
+        "choice0": "ride too slowly",
+        "choice1": "they are less visible",
+        "choice2": "they are unstable on two wheels",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When changing from 2nd to 3rd gear, you should",
+        "answer": 2,
+        "choice0": "Step on the accelerator and clutch pedal than change gears",
+        "choice1": "Step on the clutch pedal, release the accelerator pedal, brake slightly and then change gear",
+        "choice2": "Release the accelerator, step on the clutch pedal and then change gears at the same time",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Why should driver look far ahead when driving?",
+        "answer": 0,
+        "choice0": "to know when to adjust ther steering and speed",
+        "choice1": "to know when to turn",
+        "choice2": "to rely less on car mirrors",
+        "explaination": "Answer A - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "Can you turn on your headlight in daytime?",
+        "answer": 1,
+        "choice0": "No",
+        "choice1": "Yes to increase visiability",
+        "choice2": "Yes to drain the vehicle battery",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "You found that the brake is faulty. What should u do?",
+        "answer": 1,
+        "choice0": "Drive it to the workshop only",
+        "choice1": "Not to drive it",
+        "choice2": "Use handbrake only",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "The safe distance between vehicles going uphill should be _____  when travelling on the level road",
+        "answer": 1,
+        "choice0": "less than",
+        "choice1": "more than",
+        "choice2": "equal to",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "This image shows",
+        "answer": 1,
+        "choice0": "Fuel Guage",
+        "choice1": "Tachometer",
+        "choice2": "Speedometer",
+        "explaination": "Answer B - Indicates the number of engine recolutions per minute",
+        "imageName": "tachometer"
+      },
+      {
+        "question": "What distance should there be between your vehicle and the vehicle in front if you are travelling at 50km/h?",
+        "answer": 0,
+        "choice0": "Three car lengths",
+        "choice1": "Four car lengths",
+        "choice2": "Five car lengths",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which age category of pedestrains are most vulnerable to accidents?",
+        "answer": 2,
+        "choice0": "Below 15 years of age",
+        "choice1": "Above 50 years of age",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when driving through a junction?",
+        "answer": 1,
+        "choice0": "Stop at the stop-line",
+        "choice1": "Look left and right to make sure that it safe",
+        "choice2": "Look ahead and driving carefully",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Weaving in and out of slow moving traffic",
+        "answer": 2,
+        "choice0": "Helps in easing traffic jams",
+        "choice1": "is only for better drivers",
+        "choice2": "puts other road users in danger",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "You are the red car and you should look out of",
+        "answer": 2,
+        "choice0": "Blue car",
+        "choice1": "Yellow car",
+        "choice2": "Pedestrians",
+        "explaination": "Answer C",
+        "imageName": "twozerosix"
+      },
+      {
+        "question": "When you are planning to make a left turn, you should shift the direction indicator lever to the",
+        "answer": 0,
+        "choice0": "Left",
+        "choice1": "Right",
+        "choice2": "Pull out",
+        "explaination": "Answer A - When making a turn, shift the lever in the direction in which you wish to turn.",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following make up a good driver?",
+        "answer": 2,
+        "choice0": "Good juidgement and reaction",
+        "choice1": "Able to concentrate and keen observation",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "When travelling behide a large vehicle, you should maintain a ______ following distance",
+        "answer": 0,
+        "choice0": "greater",
+        "choice1": "shorter",
+        "choice2": "accepetable",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when parking your vehicle facing downhill?",
+        "answer": 0,
+        "choice0": "Turn your front wheel inward towards the kerb",
+        "choice1": "Turn your front wheel outward away from the kerb",
+        "choice2": "None",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following will impairs your ability to drive?",
+        "answer": 0,
+        "choice0": "Alcohol comsumption",
+        "choice1": "Mood",
+        "choice2": "Driving skill",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When the pedal is fully depressed, the clutch is disengage. Engine power is not transmitted to the gear-box.",
+        "answer": 0,
+        "choice0": "True",
+        "choice1": "False",
+        "choice2": "Depends on situation",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "You should change gear from ____ to ____ when approaching a bend?",
+        "answer": 1,
+        "choice0": "2nd to 3rd gear",
+        "choice1": "4th gear to 3rd gear",
+        "choice2": "4th gear to 5th gear",
+        "explaination": "Answer B - lowering the gear",
+        "imageName": ""
+      },
+      {
+        "question": "Red car can take which exits?",
+        "answer": 2,
+        "choice0": "3, 6 & 8",
+        "choice1": "2, 4, 6 & 8",
+        "choice2": "4, 6 & 8",
+        "explaination": "Answer C",
+        "imageName": "twotwofour"
+      },
+      {
+        "question": "All drivers are required to switch on their headlights from",
+        "answer": 0,
+        "choice0": "7.00 pm to 7.00 am",
+        "choice1": "7.15 pm to 7.15 am",
+        "choice2": "7.30 pm to 7.00 am",
+        "explaination": "Answer A - no further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "When should you change tour vehicle's tyres?",
+        "answer": 2,
+        "choice0": "when new models are released",
+        "choice1": "when the threads are no longer visible",
+        "choice2": "when the threads are less than 1.6mm in depth",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What are you required to do when moving off the hill?",
+        "answer": 2,
+        "choice0": "Check your mirrors and blind spots",
+        "choice1": "Signal",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "This image shows",
+        "answer": 2,
+        "choice0": "Fuel Guage",
+        "choice1": "Water Guage",
+        "choice2": "Temperature Gauge",
+        "explaination": "Answer C - Temperature Guage",
+        "imageName": "temperatureguage"
+      },
+      {
+        "question": "This image shows a steering wheel. What will happened to the vehicle if the steering wheel is turned to the left?",
+        "answer": 1,
+        "choice0": "The vehicle will move left.",
+        "choice1": "The vehicle will move forward or reverse to the left",
+        "choice2": "TThe vehicle will move forward or reverse to the right",
+        "explaination": "Answer B",
+        "imageName": "steering wheel right"
+      },
+      {
+        "question": "You are intended to turn left into a minor road,",
+        "answer": 1,
+        "choice0": "swing out into a wide arc then turn",
+        "choice1": "give way to pedestrians crossing the minor road",
+        "choice2": "turn immediately to get off the main road",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Why adverse weather condition will create challenging road conditions?",
+        "answer": 0,
+        "choice0": "Because it reduce visibility",
+        "choice1": "Because it always cause multi vehicle accidents",
+        "choice2": "Because it decrease drivers alertness",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When you tigten the grip on the steering wheel?",
+        "answer": 0,
+        "choice0": "Anytime when it required",
+        "choice1": "When turning",
+        "choice2": "To concentrate properly",
+        "explaination": "Answer A - No further explanation ",
+        "imageName": ""
+      },
+      {
+        "question": "When must you be familiarise with the controls of a vehicle?",
+        "answer": 0,
+        "choice0": "Before you drive",
+        "choice1": "Learn them as you driver",
+        "choice2": "Only need to know the main function",
+        "explaination": "Answer A - No further explanation",
+        "imageName": ""
+      },
+      {
+        "question": "What is the correct thing to do when there is an heavy traffic",
+        "answer": 0,
+        "choice0": "stay in your lane",
+        "choice1": "switch lane",
+        "choice2": "overtake",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Why should you always adjust your speed to the general flow of traffic and the situation on the road?",
+        "answer": 0,
+        "choice0": "Circumstances and traffic patterns change all the time",
+        "choice1": "Failing to do so puts yourself in danger",
+        "choice2": "Must be flexible and adaptable",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which pedal should you use when want to stop the vehicle?",
+        "answer": 2,
+        "choice0": "Brake pedal only",
+        "choice1": "Clutch pedal only",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when your vehicle loses power when going up a slope?",
+        "answer": 1,
+        "choice0": "step on the accelerator",
+        "choice1": "change to a lower gear and accelerate",
+        "choice2": "change to a higher gear and accelerate",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Changing lanes at juncrions is",
+        "answer": 0,
+        "choice0": "illegal and therefore an offence",
+        "choice1": "allowed if you are driving within the speed limit",
+        "choice2": "allowed if you remember to signal first.",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "How to activate engine braking?",
+        "answer": 0,
+        "choice0": "Releasing the accelerator pedal and clutch pedal",
+        "choice1": "Stepping on the foot-brake",
+        "choice2": "Using half clutch method",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which lane should the red car turn to",
+        "answer": 2,
+        "choice0": "1",
+        "choice1": "2",
+        "choice2": "3",
+        "explaination": "Answer C - lane 3",
+        "imageName": "twothreenine"
+      },
+      {
+        "question": "When you are passing stationary vehicle you should?",
+        "answer": 1,
+        "choice0": "Crash into the vehicle ",
+        "choice1": "Give way to oncoming vehicles",
+        "choice2": "Accelerate",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you always do when you have the right of way?",
+        "answer": 1,
+        "choice0": "never give way",
+        "choice1": "give way when necessary",
+        "choice2": "still give way",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Overtaking requires",
+        "answer": 0,
+        "choice0": "a combination of judgement and skill",
+        "choice1": "quick acceleration",
+        "choice2": "have a good car",
+        "explaination": "Answer A",
+        "imageName": ""
+      }
+    ]
+  },
+  {
+    "type": "Test 10 ",
+    "imageName": "ten_circle",
+    "questions": [
+      {
+        "question": "Cyclist are not allow to ride on _______",
+        "answer": 1,
+        "choice0": "private road",
+        "choice1": "expressway",
+        "choice2": "carpark",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What happened if you step on the clutch pedal fully?",
+        "answer": 1,
+        "choice0": "The engine will stall",
+        "choice1": "Free-wheeling",
+        "choice2": "The vehicle will stop",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "You are planning to turn right. At which position should you slow down?",
+        "answer": 2,
+        "choice0": "1",
+        "choice1": "2",
+        "choice2": "3",
+        "explaination": "Answer C",
+        "imageName": "twotwofive"
+      },
+      {
+        "question": "When travelling uphill, you should",
+        "answer": 2,
+        "choice0": "Accelerate immediately",
+        "choice1": "Change to higher gear and accelerate",
+        "choice2": "Change to lower gear and accelerate",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What is the benefit of route planning?",
+        "answer": 1,
+        "choice0": "Speed to your destination",
+        "choice1": "Have a smooth, safe and frustration free journey",
+        "choice2": "Take short cut",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which speed should you maintain when reversing to park?",
+        "answer": 0,
+        "choice0": "Very slow speed",
+        "choice1": "20km/h to 25km/h",
+        "choice2": "30km/h to 35km/h",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When travelling down a long slope, you should use a engine brake. Why?",
+        "answer": 0,
+        "choice0": "Prevent wearing out the brake lining",
+        "choice1": "Prevent unnecessary emergency braking",
+        "choice2": "Rest you foot",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when you are not able to see the oncoming vehicles over the top of the slope?",
+        "answer": 1,
+        "choice0": "You should then exercise greater caution",
+        "choice1": "Keep left and reduce speed when reaching the crest",
+        "choice2": "Drive normally",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When are you allowed to hold the steering wheel with only one hand?",
+        "answer": 1,
+        "choice0": "To relaxed of your arm",
+        "choice1": "When another control is being operate",
+        "choice2": "When travelling in slow speed",
+        "explaination": "Answer B - After operating another control, you must returned to the wheel immediately",
+        "imageName": ""
+      },
+      {
+        "question": "What will you suspect if you hear a loud noises from your car and it is moving from side to side?",
+        "answer": 1,
+        "choice0": "The brake is failling",
+        "choice1": "The wheel is loose",
+        "choice2": "The brake is broken",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Why should you maintain a good safety distance?",
+        "answer": 0,
+        "choice0": "Because you will have enought distance to stop",
+        "choice1": "Because it is a rule and you must follow it",
+        "choice2": "Because you can change lane easily",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When should you change to a higher gear?",
+        "answer": 2,
+        "choice0": "Approaching the bend",
+        "choice1": "In the bend",
+        "choice2": "Exiting the band",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is false when you are stuck in traffic jam",
+        "answer": 1,
+        "choice0": "Do not sound your horn",
+        "choice1": "Cut in and out of traffic",
+        "choice2": "Stay in lane",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "The car is turning right. Where should you position your car at?",
+        "answer": 1,
+        "choice0": "Blue car's position",
+        "choice1": "Red car's position",
+        "choice2": "Green car's position",
+        "explaination": "Answer B - Blue car position",
+        "imageName": "oneninesix"
+      },
+      {
+        "question": "What should you know before overtaking a long vehicles?",
+        "answer": 1,
+        "choice0": "Know when to speed up",
+        "choice1": "Know that you required a longer time to overtake than a shorter vehicles",
+        "choice2": "Know when to go fast or slow",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "The minimum distance between two passing vehciles is ___m",
+        "answer": 1,
+        "choice0": "0.5",
+        "choice1": "1.5",
+        "choice2": "2.5",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which gear should you use to movee of a upslope?",
+        "answer": 0,
+        "choice0": "1st gear",
+        "choice1": "2nd gear",
+        "choice2": "5th gear",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "This image shows",
+        "answer": 0,
+        "choice0": "Fuel Guage",
+        "choice1": "Water Guage",
+        "choice2": "Temperature Gauge",
+        "explaination": "Answer A - Fuel Guage",
+        "imageName": "fuelgauge"
+      },
+      {
+        "question": "Which of the following is incorrect to avoid getting into traffic jam ",
+        "answer": 2,
+        "choice0": "Plan your route",
+        "choice1": "Turn on car radio for announcement of accidents ,jam and etc",
+        "choice2": "Choose peak hour to go out ",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Overtaking requires",
+        "answer": 0,
+        "choice0": "a combination of judgement and skill",
+        "choice1": "quick acceleration",
+        "choice2": "need to have a good car",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "During the day, if the day light is reduced. Is driver allows to switch on the headlight?",
+        "answer": 0,
+        "choice0": "Yes",
+        "choice1": "No because you can only switch on between 7.00 pm to 7.00 am",
+        "choice2": "None of the above",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "How should you react when the engine stall on a slope?",
+        "answer": 1,
+        "choice0": "Restart your engine 1st",
+        "choice1": "Step on the brake pedal 1st",
+        "choice2": "Pull the handbrake 1st",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "How should you avoid the effect of the centrifugal force?",
+        "answer": 1,
+        "choice0": "speed up",
+        "choice1": "slow down",
+        "choice2": "brake on and off",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is difficult to judge when overtaking?",
+        "answer": 2,
+        "choice0": "Speed of the vehicle behind you",
+        "choice1": "Distance of the vehicle beside you",
+        "choice2": "Speed and distance of oncoming vehicles",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "You should reduce your speed by ____ on wet roads as compare to dry road",
+        "answer": 1,
+        "choice0": "25%",
+        "choice1": "50%",
+        "choice2": "75%",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "How should you apply the brake pedal?",
+        "answer": 0,
+        "choice0": "Use your ball of your right foot to depress while your heel touches the floor board",
+        "choice1": "Use your ball of your right foot to depress and your heel should not touch the floor board",
+        "choice2": "Use your ball of your left foot to depress while your heel touches the floor board",
+        "explaination": "Answer B - You should use the ball of your right foot and your sheel should not touch the board when the brake pedal is used.",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do after you changed lane?",
+        "answer": 1,
+        "choice0": "Look at the mirrors",
+        "choice1": "Off the signal",
+        "choice2": "Check blind spots",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When confronted with a punctured tyre, you should hold on firmly to the steering wheel and guide the vehicle",
+        "answer": 2,
+        "choice0": "forward",
+        "choice1": "towards the pull of the vehicle",
+        "choice2": "against the pull on the vehicle",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "How should you position your vehicles to the parking lot?",
+        "answer": 1,
+        "choice0": "close to the left line",
+        "choice1": "centre",
+        "choice2": "close to the right line",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is the correct techniques for braking?",
+        "answer": 1,
+        "choice0": "Step on the brake at the last moment and reduce the pressure after that",
+        "choice1": "Step on the brake early and firmly and reduce the pressure after that",
+        "choice2": "Step on the brake pedal quickly and hard and reduce pressure after that",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "On uneven surface, it is better to",
+        "answer": 0,
+        "choice0": "avoid turning your vehicle",
+        "choice1": "accelerate quickly",
+        "choice2": "hold on the steering loosely",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is the most effective way of braking?",
+        "answer": 2,
+        "choice0": "Using brake pedal only",
+        "choice1": "Using handbrake only",
+        "choice2": "Both",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when driving on a slippery road surface?",
+        "answer": 0,
+        "choice0": "Give more time and distance for slowing and stopping",
+        "choice1": "Applying brakes more frequently",
+        "choice2": "Slow down your vehicle and on the hazard lights",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "You have missed a lane which you wanted to turn into it. What should you do?",
+        "answer": 0,
+        "choice0": "Continue going and turn at the next turning lane",
+        "choice1": "Stop, reverse and make your turn",
+        "choice2": "Stop and swerve round into the lane",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What qualities do you need to be a good driver? ?",
+        "answer": 2,
+        "choice0": "Impulsive",
+        "choice1": "Raging",
+        "choice2": "Considerate",
+        "explaination": "Answer: C",
+        "imageName": ""
+      },
+      {
+        "question": "Red car signal to turn right",
+        "answer": 0,
+        "choice0": "Yellow and blue cars should continue to drive",
+        "choice1": "Blue car should stop",
+        "choice2": "Yellow and blue car should stop to let red car to turn",
+        "explaination": "Answer A",
+        "imageName": "twothreezero"
+      },
+      {
+        "question": "Which of the following will affect your reaction time and devision making",
+        "answer": 2,
+        "choice0": "Hunger",
+        "choice1": "Toothache",
+        "choice2": "Fatigue",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "The four most basic types of selection in automatics are",
+        "answer": 2,
+        "choice0": "P, F, N, D",
+        "choice1": "P, R, N, B",
+        "choice2": "P, R, N, D",
+        "explaination": "Answer C, Park, Reverse, Neutral, Drive",
+        "imageName": ""
+      },
+      {
+        "question": "Which gear you you engage when driving down a gentle slope?",
+        "answer": 1,
+        "choice0": "1st or 2nd",
+        "choice1": "2nd or 3rd",
+        "choice2": "4th",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "When the pedal is fully released, the clutch is ______. Engine power is transmitted to the ______.",
+        "answer": 0,
+        "choice0": "engaged, gear-box",
+        "choice1": "engaged, engine",
+        "choice2": "disengage, gear-box",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when going up a slope?",
+        "answer": 1,
+        "choice0": "Maintain the same distance when you are driving on a level road",
+        "choice1": "Give more distance then normal",
+        "choice2": "Drive close to the vehicle in front of you",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What force pulls your vehicle outwards when turning?",
+        "answer": 2,
+        "choice0": "Newton force",
+        "choice1": "Gravitational force",
+        "choice2": "Centrifugal force",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following emotion can affect driving?",
+        "answer": 1,
+        "choice0": "Depression",
+        "choice1": "Anger",
+        "choice2": "Happeiness",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Two second rule applies",
+        "answer": 1,
+        "choice0": "only to vehicles travelling at the same speeds",
+        "choice1": "to vehicles travelling at any speed",
+        "choice2": "to vehicles travelling above 60km/h",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when you are dazzled by sunlight?",
+        "answer": 0,
+        "choice0": "Lower the sun visor",
+        "choice1": "Coat the windscreen",
+        "choice2": "Turn away from the sun and look at other locatioj",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "When must you switch on your vehicle's headlights?",
+        "answer": 1,
+        "choice0": "6.30pm to 7am",
+        "choice1": "7pm to 7am",
+        "choice2": "7.30pm to 7am",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "You should keep a safe distance when passing a parked vehicle what is this distance?",
+        "answer": 1,
+        "choice0": "0.5m",
+        "choice1": "1.0m",
+        "choice2": "2.0m",
+        "explaination": "Answer B",
+        "imageName": ""
+      },
+      {
+        "question": "Which of the following is true?",
+        "answer": 0,
+        "choice0": "Sound your horn to prevent accident",
+        "choice1": "Sound your horn when in jam",
+        "choice2": "Never sound your horn at all",
+        "explaination": "Answer A",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when the windscreen of your car shatters while driving?",
+        "answer": 2,
+        "choice0": "Speed up so that the wind will blow the glass pieces away",
+        "choice1": "Stop immediately and align the car",
+        "choice2": "Slow down, move to the side of the road and stop.",
+        "explaination": "Answer C",
+        "imageName": ""
+      },
+      {
+        "question": "What should you do when you are near the top of a hill?",
+        "answer": 2,
+        "choice0": "Acclearate",
+        "choice1": "Slow down and keep right and stop if needed",
+        "choice2": "Slow down and keep left",
+        "explaination": "Answer C",
+        "imageName": ""
+      }
+    ]
+  }
+]

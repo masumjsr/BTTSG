@@ -1,0 +1,4051 @@
+[
+   {
+      "type":"Test 1",
+      "imageName":"one_circle",
+      "questions":[
+          {
+              "questionNo": 0,
+              "question": "This sign means that",
+              "answer": 1,
+              "choice0": "There is a one-way street on your right.",
+              "choice1": "You cannot proceed straight ahead or turn left.",
+              "choice2": "You must keep to the right hand side of the road.",
+              "explaination": "Answer B. ",
+              "imageName": "q1"
+          },
+          {
+              "questionNo": 1,
+              "question": "This sign means that",
+              "answer": 1,
+              "choice0": "You must keep left to allow other vehicles to overtake.",
+              "choice1": "You must turn left.",
+              "choice2": "You must look out for traffic from the right before proceeding straight ahead.",
+              "explaination": "Answer B. ",
+              "imageName": "q2"
+          },
+          {
+              "questionNo": 2,
+              "question": "This sign means that",
+              "answer": 2,
+              "choice0": "No stopping",
+              "choice1": "No waiting",
+              "choice2": "No entry.",
+              "explaination": "Answer C. ",
+              "imageName": "q3"
+          },
+          {
+              "questionNo": 3,
+              "question": "This sign means that",
+              "answer": 0,
+              "choice0": "You cannot drive beyond 50km/h",
+              "choice1": "You cannot drive slower than 50km/h",
+              "choice2": "You must maintain your speed at 50km/h",
+              "explaination": "Answer A. ",
+              "imageName": "q4"
+          },
+          {
+              "questionNo": 4,
+              "question": "When you see this sign, you should",
+              "answer": 1,
+              "choice0": "Now slow down as you have the right of way",
+              "choice1": "Slow down and beware of traffic from the left.",
+              "choice2": "Stop and give way to traffic from the right and left",
+              "explaination": "Answer B. ",
+              "imageName": "q5"
+          },
+          {
+              "questionNo": 5,
+              "question": "When you see this sign, you should",
+              "answer": 2,
+              "choice0": "Slow down and get ready to drive up a steep slope ahead.",
+              "choice1": "Slow down and give way to oncoming traffic before turning right.",
+              "choice2": "Slow down and keep left as you are approaching a right bend.",
+              "explaination": "Answer C. ",
+              "imageName": "q6"
+          },
+          {
+              "questionNo": 6,
+              "question": "When you see this sign, you should",
+              "answer": 2,
+              "choice0": "Not turn left or right but proceed in the directions as shown.",
+              "choice1": "Make a U-turn ahead.",
+              "choice2": "Keep left beware of oncoming traffic. ",
+              "explaination": "Answer C. ",
+              "imageName": "q7"
+          },
+          {
+              "questionNo": 7,
+              "question": "This sign indicates",
+              "answer": 0,
+              "choice0": "Two-way traffic across a one-way carriageway.",
+              "choice1": "Two-way traffic across a two-way carriageway.",
+              "choice2": "You must turn right or left.",
+              "explaination": "Answer A. ",
+              "imageName": "q8"
+          },
+          {
+              "questionNo": 8,
+              "question": "This sign means ",
+              "answer": 1,
+              "choice0": "Road closed on one side - slow down, stop and make a U-turn.",
+              "choice1": "Road narrows on one side - slow down and keep left, do not make a U-turn.",
+              "choice2": "Lanes merging - give way to vehicles in the right lane.",
+              "explaination": "Answer B. ",
+              "imageName": "q9"
+          },
+          {
+              "questionNo": 9,
+              "question": "This sign applies to ",
+              "answer": 2,
+              "choice0": "Motor-cycles only.",
+              "choice1": "Motor-cars only.",
+              "choice2": "All vehicles.",
+              "explaination": "Answer C. ",
+              "imageName": "q10"
+          },
+          {
+              "questionNo": 10,
+              "question": "This sign means that the road on the right is",
+              "answer": 1,
+              "choice0": "Rain shelter for motorcyclist is on the right",
+              "choice1": "A dead end road, you may enter if you wish.",
+              "choice2": "Road block is on the right. Do not enter.",
+              "explaination": "Answer B. ",
+              "imageName": "q11"
+          },
+          {
+              "questionNo": 11,
+              "question": "This sign means that",
+              "answer": 2,
+              "choice0": "The road is closed to traffic.",
+              "choice1": "There is an army barrack ahead, drive in the direction as directed.",
+              "choice2": "There is a barrier ahead, slow down and drive carefully.",
+              "explaination": "Answer C. ",
+              "imageName": "q12"
+          },
+          {
+              "questionNo": 12,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "Expressway ahead.",
+              "choice1": "Tunnel ahead.",
+              "choice2": "A rear view mirror.",
+              "explaination": "Answer B. ",
+              "imageName": "q13"
+          },
+          {
+              "questionNo": 13,
+              "question": "When you see this sign, you ",
+              "answer": 1,
+              "choice0": "Need not slow down if there is no pedestrian at the Crossing.",
+              "choice1": "Should slow down and be prepared to stop for pedestrains to cross the road.",
+              "choice2": "Should sound your horn to warn the pedestrians of your approach.",
+              "explaination": "Answer B. ",
+              "imageName": "q14"
+          },
+          {
+              "questionNo": 14,
+              "question": "These arrows marked on the road indicate that",
+              "answer": 1,
+              "choice0": "all vehicles must either turn right or left ahead.",
+              "choice1": "traffic from the two lanes will merge into a single lane ahead.",
+              "choice2": "there are two bends ahead; one to the right and another to the left",
+              "explaination": "Answer B. ",
+              "imageName": "q15"
+          },
+          {
+              "questionNo": 15,
+              "question": "When you see these zig-zag lines by the side of a road, you should",
+              "answer": 1,
+              "choice0": "Drive carefully as the road is leading to an underground bomb shelter.",
+              "choice1": "Slow down and be prepared to stop for pedestrians to cross the road at the crossing.",
+              "choice2": "Speed up so the pedestrians can cross the road at the crossing.",
+              "explaination": "Answer B. ",
+              "imageName": "q16"
+          },
+          {
+              "questionNo": 16,
+              "question": "This traffic light signal means",
+              "answer": 2,
+              "choice0": "'Go' for left turn vehicles only.",
+              "choice1": "All vehicles must get ready to stop.",
+              "choice2": "Vehicles turning right must get ready to stop.",
+              "explaination": "Answer C. ",
+              "imageName": "q17"
+          },
+          {
+              "questionNo": 17,
+              "question": "This traffic light signals means",
+              "answer": 2,
+              "choice0": "All turning vehicles must get ready to stop.",
+              "choice1": "All vehicles must stop.",
+              "choice2": "Vehicles turning right must stop.",
+              "explaination": "Answer C. ",
+              "imageName": "q18"
+          },
+          {
+              "questionNo": 18,
+              "question": "When you see green traffic light signal from a distance, you should",
+              "answer": 2,
+              "choice0": "Carry on at the same speed.",
+              "choice1": "Speed up.",
+              "choice2": "Slow down.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 19,
+              "question": "When approaching a traffic light junction with the amber light flashing, you should",
+              "answer": 0,
+              "choice0": "Slow down and proceed across the junction only when it is safe to do so.",
+              "choice1": "Speed up in order to pass the junction before the light changes.",
+              "choice2": "Stop at the stop-line and wait for the light to change.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 20,
+              "question": "The signal give by the policeman in the picture means",
+              "answer": 2,
+              "choice0": "Vehicles approaching from his right and left to stop.",
+              "choice1": "Vehicles approaching policeman from in front and behind him must stop.",
+              "choice2": "All vehicles must stop.",
+              "explaination": "Answer C. ",
+              "imageName": "q21"
+          },
+          {
+              "questionNo": 21,
+              "question": "This Police officer is signalling",
+              "answer": 2,
+              "choice0": "Driver from his left, front and rear to go.",
+              "choice1": "Drivers from his left, front and rear to stop.",
+              "choice2": "Drivers from his right, front and behind to stop.",
+              "explaination": "Answer C. ",
+              "imageName": "q22"
+          },
+          {
+              "questionNo": 22,
+              "question": "When a driver signals in this manner, it means",
+              "answer": 0,
+              "choice0": "He intends to move to the left or turn to the left.",
+              "choice1": "He intends to go around the round-about.",
+              "choice2": "He intends to make a U-turn.",
+              "explaination": "Answer A. ",
+              "imageName": "q23"
+          },
+          {
+              "questionNo": 23,
+              "question": "You may overtake another vehicle on the left ",
+              "answer": 0,
+              "choice0": "If the driver in front signals his intention to turn right.",
+              "choice1": "If it is a heavy vehicle.",
+              "choice2": "If you are certain that the vehicle would not change direction.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 24,
+              "question": "When should you start to keep left after overtaking?",
+              "answer": 2,
+              "choice0": "As soon as you are ahead of the overtaken vehicle.",
+              "choice1": "When you can see the overtaken vehicle in your left wing mirror.",
+              "choice2": "When you can see the overtaken vehicle in your rear view mirror inside the cabin.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 25,
+              "question": "This diagram shows Cars A,B and C turning in the directions indicated at an uncontrolled junction. Which car must give way?",
+              "answer": 1,
+              "choice0": "Car B must give way to cars A and C",
+              "choice1": "Car A must give way to cars B and C.",
+              "choice2": "Car C must give way to cars A and B",
+              "explaination": "Answer B. ",
+              "imageName": "q26"
+          },
+          {
+              "questionNo": 26,
+              "question": "This diagram shows Cars A,B and C going in the directions indicated at an uncontrolled junction. Which cars should give way?",
+              "answer": 0,
+              "choice0": "Cars A and C should give way to Car B.",
+              "choice1": "Cars A and B should give way to Car C.",
+              "choice2": "Cars B and C should give way to Car A.",
+              "explaination": "Answer A. Cars A and C should give way to Car B.",
+              "imageName": "q27"
+          },
+          {
+              "questionNo": 27,
+              "question": "Driving with a 'bald' tyre is dangerous because",
+              "answer": 2,
+              "choice0": "There is greater probability of punctures.",
+              "choice1": "It skids more easily. ",
+              "choice2": "Both answers.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 28,
+              "question": "When you are driving along, you must check your rear view mirror once every",
+              "answer": 0,
+              "choice0": "5 to 10 seconds.",
+              "choice1": "1 to 2 seconds.",
+              "choice2": "20 to 30 seconds",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 29,
+              "question": "Reversing from a side road into a main road is ",
+              "answer": 1,
+              "choice0": "Allowed if there is no vehicle around.",
+              "choice1": "Not allowed for it is unsafe and could cause road accident.",
+              "choice2": "Allowed during the daytime only.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 30,
+              "question": "Crossing the double continuous white lines along the centre of the road ",
+              "answer": 2,
+              "choice0": "Is not an offence if you do not cause inconvenience to others.",
+              "choice1": "Is not an offence if you are overtaking another vechicle.",
+              "choice2": "Is an offence because it is unsafe to do so.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 31,
+              "question": "Your reaction time could be affected when",
+              "answer": 1,
+              "choice0": "Your vehicle is old.",
+              "choice1": "You are tired.",
+              "choice2": "The traffic is heavy.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 32,
+              "question": "How does alcohol affect you?",
+              "answer": 1,
+              "choice0": "It increase your awareness.",
+              "choice1": "It reduces your concentration.",
+              "choice2": "It improves your co-ordination",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 33,
+              "question": "Drink driving",
+              "answer": 1,
+              "choice0": "Will not affect your reaction time.",
+              "choice1": "May affect your reaction time.",
+              "choice2": "May cause you to react faster.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 34,
+              "question": "Which of the following statements on alcohol and driving is true?",
+              "answer": 2,
+              "choice0": "It is safe to drive one hour after having the last drink.",
+              "choice1": "It is safe to drive as long as you think you are not drunk.",
+              "choice2": "It is unsafe to drive after consuming alcohol.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 35,
+              "question": "A person will be disqualified from driving if he is caught",
+              "answer": 0,
+              "choice0": "Driving with a blood alcohol concentration over 80mg of alcohol/100ml of blood.",
+              "choice1": "Failing to give way to an ambulance with its siren on.",
+              "choice2": "Failing to obey a 'Stop' traffic sign.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 36,
+              "question": "When passing the stationary bus at the bus-stop, you should",
+              "answer": 1,
+              "choice0": "Speed up to overtake the bus before it moves off.",
+              "choice1": "Slow down and be ready to stop for pedestrian who may cross the road in front of the bus.",
+              "choice2": "Sound the horn to warn the bus driver of presence.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 37,
+              "question": "When a car is stopping in front of a zebra crossing, you should",
+              "answer": 0,
+              "choice0": "Slow down and be ready to stop for pedestrians to cross the road.",
+              "choice1": "Sound the horn to warn pedestrians.",
+              "choice2": "Quickly pass the vehicle before any pedestrians come along.",
+              "explaination": "Answer A. ",
+              "imageName": "t1q38"
+          },
+          {
+              "questionNo": 38,
+              "question": "To check 'blind spot' when driving, you must",
+              "answer": 2,
+              "choice0": "Turn your head and look into the rear-view mirror.",
+              "choice1": "Turn your head and look into the wing mirrors.",
+              "choice2": "Turn your head and look over your shoulder.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 39,
+              "question": "The 'Two-second Rule' is a sufficient distance between your vehicle and the car in front when road condition is",
+              "answer": 2,
+              "choice0": "Hazy.",
+              "choice1": "Wet.",
+              "choice2": "Good.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 40,
+              "question": "When you hear the siren of an emergency vehicle, you should",
+              "answer": 2,
+              "choice0": "Sound your horn to warn the front vehicles to speed up.",
+              "choice1": "Stop immediately where you are in order to make way.",
+              "choice2": "Pull over to the left or right side of the road.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 41,
+              "question": "When you hear the siren of an emergency vehicle but are not sure where it is coming from, you should",
+              "answer": 2,
+              "choice0": "Drive faster so as not to obstruct the emergency vehicle.",
+              "choice1": "Continue to drive at the same speed.",
+              "choice2": "Move to the side and stop if necessary.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 42,
+              "question": "After driving through flood the brakes may malfunction. In order to correct this, you must",
+              "answer": 1,
+              "choice0": "Stop the vehicle on a slope to allow water to flow out from the brakes.",
+              "choice1": "Pump the brake pedal repeadtedly to dry the brakes.",
+              "choice2": "Drive at normal speed to spin-dry the brakes.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 43,
+              "question": "On a two-lane carriageway, you should",
+              "answer": 2,
+              "choice0": "Not overtake another vehicle.",
+              "choice1": "Keep to the outer lane.",
+              "choice2": "Keep to the left lane.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 44,
+              "question": "All drivers are required by law to switch on the vehicle's headlights whilst driving between",
+              "answer": 2,
+              "choice0": "7.30 pm and 7.30 am",
+              "choice1": "7.15 pm and 7.15 am",
+              "choice2": "7.00 pm and 7.00 am",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 45,
+              "question": "Switching on the headlights whilst driving in heavy rain during the daytime",
+              "answer": 2,
+              "choice0": "Is not advisable because the rain water will reflect the light.",
+              "choice1": "Is not advisable because it will shorten the battery life.",
+              "choice2": "Is advisable because you can be readily seen by others.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 46,
+              "question": "At night, when approaching a sharp left bend you should",
+              "answer": 1,
+              "choice0": "Speed up so as to pass the danger as quickly as possible.",
+              "choice1": "Flash your headlights to attract the attention of other road user.",
+              "choice2": "Keep more to the right to have a better view.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 47,
+              "question": "The right most outer lane on a three-lane carriageway is for ",
+              "answer": 0,
+              "choice0": "Emergency vehicles and overtaking only.",
+              "choice1": "Vehicles travelling at the maximum speed limit of the road.",
+              "choice2": "Vehicles which are capable of travelling at high speed.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 48,
+              "question": "During bus lane prohibited hours, motorist is allowed to use the bus lane when",
+              "answer": 2,
+              "choice0": "The other lanes are congested.",
+              "choice1": "It is empty",
+              "choice2": "The driver is trying to avoid a collision.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 49,
+              "question": "A passenger is exempted from wearing a seat belt if he is below",
+              "answer": 0,
+              "choice0": "1.5 metres in height.",
+              "choice1": "1.6 metres in height.",
+              "choice2": "1.7 metres in height.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          }
+      ]
+
+   },
+   {
+      "type":"Test 2",
+      "imageName":"two_circle",
+      "questions":[
+          {
+              "questionNo": 0,
+              "question": "This sign means you",
+              "answer": 1,
+              "choice0": "Need not stop and check as you have the right of way.",
+              "choice1": "Must stop and give way before turning left.",
+              "choice2": "Can turn left immediately upon reaching the junction.",
+              "explaination": "Answer B. ",
+              "imageName": "t2q1"
+          },
+          {
+              "questionNo": 1,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "One way traffic ahead - vehicles may turn right or left.",
+              "choice1": "Drive straight ahead only - vehicles are not allowed to turn right or left.",
+              "choice2": "Steep slope ahead - drive carefully and do not overtake.",
+              "explaination": "Answer B. ",
+              "imageName": "t2q2"
+          },
+          {
+              "questionNo": 2,
+              "question": "This sign means 'No Entry' for vehicles ",
+              "answer": 0,
+              "choice0": "With overall height exceeding 4.5 metres.",
+              "choice1": "With overall width exceeding 4.5 metres.",
+              "choice2": "With overall length exceeding 4.5 metres.",
+              "explaination": "Answer A. ",
+              "imageName": "t2q3"
+          },
+          {
+              "questionNo": 3,
+              "question": "This sign means",
+              "answer": 2,
+              "choice0": "You cannot park abreast another car",
+              "choice1": "'No Entry' for motor cars",
+              "choice2": "You cannot overtake another vehicle.",
+              "explaination": "Answer C. ",
+              "imageName": "t2q4"
+          },
+          {
+              "questionNo": 4,
+              "question": "When you see this sign, you should ",
+              "answer": 2,
+              "choice0": "Slow down and drive carefully - dual-carriageway ahead.",
+              "choice1": "Slow down and prepare to stop - road ends ahead.",
+              "choice2": "Slow down, do not overtake - road narrows ahead.",
+              "explaination": "Answer C. ",
+              "imageName": "t2q5"
+          },
+          {
+              "questionNo": 5,
+              "question": "When you see this sign, you should",
+              "answer": 2,
+              "choice0": "Not slow  down at all.",
+              "choice1": "Slow down and give way to traffic on the left.",
+              "choice2": "Slow down and give way to traffic on the right ",
+              "explaination": "Answer C. ",
+              "imageName": "t2q6"
+          },
+          {
+              "questionNo": 6,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "You must make a U-turn as the road is ending ahead.",
+              "choice1": "You should slow down, keep left and beware of oncoming traffic.",
+              "choice2": "Two lanes are merging - alternative vehicles have the right of way.",
+              "explaination": "Answer B. ",
+              "imageName": "t2q7"
+          },
+          {
+              "questionNo": 7,
+              "question": "This sign means",
+              "answer": 0,
+              "choice0": "Electronic Road Pricing zone ahead.",
+              "choice1": "Electronic Road Patrol ahead.",
+              "choice2": "Electronic Report Panel ahead.",
+              "explaination": "Answer A. ",
+              "imageName": "t2q8"
+          },
+          {
+              "questionNo": 8,
+              "question": "This sign indicates",
+              "answer": 0,
+              "choice0": "That there is a broken down vehicle ahead - slow down and drive carefully.",
+              "choice1": "That you should change lane and drive faster so as not to obstruct other traffic.",
+              "choice2": "You may drive on at any speed because the road ahead is clear.",
+              "explaination": "Answer A. ",
+              "imageName": "t2q9"
+          },
+          {
+              "questionNo": 9,
+              "question": "This designated shelter is for ",
+              "answer": 2,
+              "choice0": "Pedestrians",
+              "choice1": "Motor-car drivers.",
+              "choice2": "Motor-cyclists.",
+              "explaination": "Answer C. ",
+              "imageName": "t2q10"
+          },
+          {
+              "questionNo": 10,
+              "question": "This sign is applicable",
+              "answer": 1,
+              "choice0": "Only at night.",
+              "choice1": "At all times.",
+              "choice2": "Only during peak hours.",
+              "explaination": "Answer B. ",
+              "imageName": "t2q11"
+          },
+          {
+              "questionNo": 11,
+              "question": "When you see this sign whilst driving, you ",
+              "answer": 0,
+              "choice0": "Cannot turn right or left but must proceed straight ahead.",
+              "choice1": "May turn right or left if there are side roads.",
+              "choice2": "Are in a single lane traffic, keep left if you are not overtaking",
+              "explaination": "Answer A. ",
+              "imageName": "t2q12"
+          },
+          {
+              "questionNo": 12,
+              "question": "This light signal at the entrance of the tunnel means ",
+              "answer": 2,
+              "choice0": "The lane is reserved for emergency vehicles only.",
+              "choice1": "There is obstruction ahead, proceed slowly.",
+              "choice2": "The lane is closed to traffic.",
+              "explaination": "Answer C. ",
+              "imageName": "t2q13"
+          },
+          {
+              "questionNo": 13,
+              "question": "When you see this sign, you should ",
+              "answer": 0,
+              "choice0": "Slow down and drive carefully, beware of children crossing the road.",
+              "choice1": "Drive at the normal speed as the jogging track is on the opposite side of the road.",
+              "choice2": "Keep a lookout for a children playground ahead.",
+              "explaination": "Answer A. ",
+              "imageName": "t2q14"
+          },
+          {
+              "questionNo": 14,
+              "question": "When you see this sign, you should ",
+              "answer": 2,
+              "choice0": "Stop the car and help the handicapped person to cross the road.",
+              "choice1": "Keep a lookout as there is a school for the blind ahead.",
+              "choice2": "Slow down and beware of elderly people crossing the road.",
+              "explaination": "Answer C. ",
+              "imageName": "t2q15"
+          },
+          {
+              "questionNo": 15,
+              "question": "The markings (black arrows) indicated in the diagram mean",
+              "answer": 0,
+              "choice0": "Turning vehicles should remain within the pocket whilst waiting for oncoming traffic to clear.",
+              "choice1": "It is an offence to drive and wait there in any situation.",
+              "choice2": "You should only drive into the pocket when it is clear for you to turn right.",
+              "explaination": "Answer A. ",
+              "imageName": "t2q16"
+          },
+          {
+              "questionNo": 16,
+              "question": "When you see a triangular marking on the road, you should",
+              "answer": 0,
+              "choice0": "Slow down and give way to traffic on the major raod ahead.",
+              "choice1": "Keep left and beware of oncoming traffic.",
+              "choice2": "Drive past the marking on either side without crossing it.",
+              "explaination": "Answer A. ",
+              "imageName": "t2q17"
+          },
+          {
+              "questionNo": 17,
+              "question": "When you see the amber traffic light flashing at a junction, you should",
+              "answer": 0,
+              "choice0": "Slow down and proceed carefully.",
+              "choice1": "Maintain you speed.",
+              "choice2": "Go through the junction quickly.",
+              "explaination": "Answer A. ",
+              "imageName": "t2q18"
+          },
+          {
+              "questionNo": 18,
+              "question": "When the green arrow traffic light starts blinking, you should",
+              "answer": 2,
+              "choice0": "Drive on and stop only when the light goes off.",
+              "choice1": "Speed up to make the turn before the light stops blinking.",
+              "choice2": "Not proceed if you have not crossed the stop-line.",
+              "explaination": "Answer C. ",
+              "imageName": "t2q19"
+          },
+          {
+              "questionNo": 19,
+              "question": "When the traffic light turns green at a junction, you should",
+              "answer": 0,
+              "choice0": "Check traffic from right and left before moving off",
+              "choice1": "Depress the accelerator hard and move off quickly",
+              "choice2": "Only move off when other vehicles move.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 20,
+              "question": "A flashing amber traffic light signal means",
+              "answer": 1,
+              "choice0": "Stop unless you are so close to the stop-line that you cannot stop safely",
+              "choice1": "Traffic lights signals are out of order",
+              "choice2": "Signal is about to be cancelled",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 21,
+              "question": "The Police officer is signalling",
+              "answer": 2,
+              "choice0": "Drivers from his left to go and those from his right to stop.",
+              "choice1": "Drivers from his front and rear to go.",
+              "choice2": "Drivers from his right to go and those from his left to slow down and stop",
+              "explaination": "Answer C. ",
+              "imageName": "t2q22"
+          },
+          {
+              "questionNo": 22,
+              "question": "The driver is indicating that",
+              "answer": 0,
+              "choice0": "He wants to slow down.",
+              "choice1": "He wants to pull over to the right.",
+              "choice2": "He wants to stay alongside the next vehicle.",
+              "explaination": "Answer A. ",
+              "imageName": "t2q23"
+          },
+          {
+              "questionNo": 23,
+              "question": "The driver is indicating that",
+              "answer": 0,
+              "choice0": "He wants to stop the car.",
+              "choice1": "He wants you to overtake him.",
+              "choice2": "He wants to drive up to the multi-storey car park.",
+              "explaination": "Answer A. ",
+              "imageName": "t2q24"
+          },
+          {
+              "questionNo": 24,
+              "question": "Before overtaking another vehicle, you should signal for at least",
+              "answer": 0,
+              "choice0": "Three seconds",
+              "choice1": "Five seconds",
+              "choice2": "Seven seconds",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 25,
+              "question": "If a motorcyclist is trying to overtake you, you should",
+              "answer": 1,
+              "choice0": "Drive faster to prevent the rider from overtaking you.",
+              "choice1": "Slow down and assit the rider to overtaking safely",
+              "choice2": "Signal the driver to overtake on the left.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 26,
+              "question": "Which car has the right of way ? ",
+              "answer": 2,
+              "choice0": "Whoever gets to the intersection first.",
+              "choice1": "Car B.",
+              "choice2": "Car A.",
+              "explaination": "Answer C. ",
+              "imageName": "t2q27"
+          },
+          {
+              "questionNo": 27,
+              "question": "Crossing the double continuous white lines along the centre of the road",
+              "answer": 1,
+              "choice0": "Is not an offence if you are overtaking another vehicle.",
+              "choice1": "Is an offence because it is unsafe to do so.",
+              "choice2": "Is not an offence if you do not cause inconveience to others.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 28,
+              "question": "No parking is allowed within",
+              "answer": 0,
+              "choice0": "6 metres of a junction.",
+              "choice1": "12 metres of a junction.",
+              "choice2": "9 metres of a junction.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 29,
+              "question": "Parking of vehicle is prohibited within",
+              "answer": 1,
+              "choice0": "12 metres of a bus stop.",
+              "choice1": "9 metres of a bus stop.",
+              "choice2": "15 metres of a bus stop.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 30,
+              "question": "When approaching a sharp bend or a steep hill, you ",
+              "answer": 1,
+              "choice0": "May overtake other vehicles.",
+              "choice1": "Should not overtake other vehicles.",
+              "choice2": "Should stay close behind the front vehicle.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 31,
+              "question": "When the vehicle you are overtaking sudenly increases its speed, you should ",
+              "answer": 1,
+              "choice0": "Sound the horn and signal the driver to slow down.",
+              "choice1": "Reduce you speed and return to your original lane.",
+              "choice2": "increase you speed further.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 32,
+              "question": "When driving through puddles of water on the road, you should",
+              "answer": 0,
+              "choice0": "Drive slower.",
+              "choice1": "Drive faster.",
+              "choice2": "Not change speed.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 33,
+              "question": "A driver caught with a blood alcohol concentration over 80 mg of alcohol per 100 ml of blood will ",
+              "answer": 2,
+              "choice0": "Be jailed.",
+              "choice1": "Have to pay a fine.",
+              "choice2": "Be charged in court.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 34,
+              "question": "After consuming alcohol, you should",
+              "answer": 0,
+              "choice0": "Not drive.",
+              "choice1": "Drive slowly.",
+              "choice2": "Drive at normal speed.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 35,
+              "question": "Any person caught driving with blood alcohol content which exceeds the prescribed limit will",
+              "answer": 2,
+              "choice0": "Be give a warning.",
+              "choice1": "Have to pay a fine.",
+              "choice2": "Be charged in court.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 36,
+              "question": "Drink driving may cause ",
+              "answer": 1,
+              "choice0": "Faster reaction.",
+              "choice1": "Reduce the co-ordination of the control of vehicle.",
+              "choice2": "Increase alertness.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 37,
+              "question": "In the situation shown, the long vehicle is about to turn left and the car is going straight. The car should",
+              "answer": 0,
+              "choice0": "Slow down and stop if necessary.",
+              "choice1": "Maintain its speed and position.",
+              "choice2": "Proceed quickly to pass the junction.",
+              "explaination": "Answer A. ",
+              "imageName": "t2q38"
+          },
+          {
+              "questionNo": 38,
+              "question": "Car A intends to pass Car B near a side road on the left, Car A should",
+              "answer": 0,
+              "choice0": "Pass Car B only after the junction.",
+              "choice1": "Pass Car B on the right side.",
+              "choice2": "Drive faster to pass the junction.",
+              "explaination": "Answer A. ",
+              "imageName": "t2q39"
+          },
+          {
+              "questionNo": 39,
+              "question": "Before changing lanes, you should check your blind spots by",
+              "answer": 2,
+              "choice0": "Looking at the side mirrors.",
+              "choice1": "Looking into the rear view mirror.",
+              "choice2": "Looking over your shoulder.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 40,
+              "question": "You are on a clear and open road in good weather condition, the distance between you and the vehicle in front should be",
+              "answer": 2,
+              "choice0": "One car's length.",
+              "choice1": "Two car's length.",
+              "choice2": "Two second time gaps.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 41,
+              "question": "You should give way to emergency vehicles approaching from behind by  ",
+              "answer": 2,
+              "choice0": "Driving faster.",
+              "choice1": "Slowing down.",
+              "choice2": "Moving to the side.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 42,
+              "question": "When an emergency vehicle behind you sounds its siren, you should",
+              "answer": 0,
+              "choice0": "Pull to the side and stop if necessary.",
+              "choice1": "Slow down quickly.",
+              "choice2": "Increase your speed.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 43,
+              "question": "After your vehicle passed through a flood, you should",
+              "answer": 0,
+              "choice0": "Apply intermittent braking to dry the brake drums at low speed.",
+              "choice1": "Drive faster to allow the brakes to dry quickly.",
+              "choice2": "Stop on a slope to drain water out of the brakes",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 44,
+              "question": "Switching lanes suddenly or abruptly will",
+              "answer": 2,
+              "choice0": "Cause wear and tear to the vehicle.",
+              "choice1": "Improve the flow of traffic on the road.",
+              "choice2": "Cause inconvenience and danger to other motorists.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 45,
+              "question": "If the headlight of an oncoming vehicle is blinding you, you should",
+              "answer": 0,
+              "choice0": "Look to the left kerb.",
+              "choice1": "Look to the right kerb.",
+              "choice2": "Turn on the high beam.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 46,
+              "question": "At night you should switch on your headlights from",
+              "answer": 0,
+              "choice0": "7 pm to 7 am.",
+              "choice1": "7 pm to 6 am.",
+              "choice2": "6 pm to 7am.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 47,
+              "question": "When can you use the right lane of a two-lane carriageway?",
+              "answer": 1,
+              "choice0": "When your speed is higher that the speed limit for the road.",
+              "choice1": "When you path of travel is obstructed by road works or parked vehicles.",
+              "choice2": "When the right lane is free of traffic.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 48,
+              "question": "On saturday, all vehicles must avoid the normal bus lane between",
+              "answer": 0,
+              "choice0": "Not applicable",
+              "choice1": "11.00 am and 2.00 pm",
+              "choice2": "7:30am – 9:30am",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 49,
+              "question": "Children passenger below _____ of age are required to use a child restraint.",
+              "answer": 0,
+              "choice0": "8 years",
+              "choice1": "9 years ",
+              "choice2": "10 years ",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          }
+      ]
+   },
+   {
+      "type":"Test 3",
+      "imageName":"three_circle",
+      "questions":[
+          {
+              "questionNo": 0,
+              "question": "on seeing this sign, you",
+              "answer": 1,
+              "choice0": "May turn left or go straight if you wish.",
+              "choice1": "Must turn right ahead.",
+              "choice2": "Must make a U-turn as the road ends on the right.",
+              "explaination": "Answer B. ",
+              "imageName": "t3q1"
+          },
+          {
+              "questionNo": 1,
+              "question": "This sign means",
+              "answer": 0,
+              "choice0": "Keep to the left side of the road.",
+              "choice1": "You cannot go straight or turn right.",
+              "choice2": "There is a sharp bend on the left - drive carefully",
+              "explaination": "Answer A. ",
+              "imageName": "t3q2"
+          },
+          {
+              "questionNo": 2,
+              "question": "This sign means ",
+              "answer": 1,
+              "choice0": "'No Waiting' for lorries",
+              "choice1": "'No Entry' for lorries",
+              "choice2": "'No Parking' for lorries",
+              "explaination": "Answer B. ",
+              "imageName": "t3q3"
+          },
+          {
+              "questionNo": 3,
+              "question": "This sign means ",
+              "answer": 2,
+              "choice0": "You cannot stop even to let down or pick up passengers.",
+              "choice1": "You can wait for a short while if you loading or unloading",
+              "choice2": "You cannot wait but you can stop to let down or pick up passengers.",
+              "explaination": "Answer C. ",
+              "imageName": "t3q4"
+          },
+          {
+              "questionNo": 4,
+              "question": "This sign means",
+              "answer": 0,
+              "choice0": "You are about to enter the expressway",
+              "choice1": "You are about to pass an overhead bridge.",
+              "choice2": "You are about to pass an MRT line.",
+              "explaination": "Answer A. ",
+              "imageName": "t3q5"
+          },
+          {
+              "questionNo": 5,
+              "question": "When you see this sign, you should",
+              "answer": 2,
+              "choice0": "Switch lane and drive faster to avoid obstruction.",
+              "choice1": "Slow down and beware of open-air hawker stalls.",
+              "choice2": "Slow down and beware of labourers in front.",
+              "explaination": "Answer C. ",
+              "imageName": "t3q6"
+          },
+          {
+              "questionNo": 6,
+              "question": "This sign indicates that ",
+              "answer": 1,
+              "choice0": "Driver must look out for traffic from the right and left at cross-road in front.",
+              "choice1": "Driver must reduce speed and drive carefully to prevent skidding.",
+              "choice2": "Driver must slow down and look out for traffic merging from the right or left.",
+              "explaination": "Answer B. ",
+              "imageName": "t3q7"
+          },
+          {
+              "questionNo": 7,
+              "question": "on seeing this sign, you should ",
+              "answer": 1,
+              "choice0": "Slow down, do not overtake because there is a low hill ahead.",
+              "choice1": "Slow down, do not overtake because there is a road hump ahead.",
+              "choice2": "Slow down, do not overtake because there is a heap of sand ahead.",
+              "explaination": "Answer B. ",
+              "imageName": "t3q8"
+          },
+          {
+              "questionNo": 8,
+              "question": "When you see this sign, you should",
+              "answer": 0,
+              "choice0": "Keep left, do not overtake, beware of oncoming traffic",
+              "choice1": "Overtake slow moving vehicles and build up speed to go up the slope",
+              "choice2": "Overtake slow moving vehicles so that you will not lose speed.",
+              "explaination": "Answer A. ",
+              "imageName": "t3q9"
+          },
+          {
+              "questionNo": 9,
+              "question": "This sign means that",
+              "answer": 2,
+              "choice0": "No vehicle is allowed to remain in the yellow box under any circumstances.",
+              "choice1": "vehicle going straight are allowed to remain in the yellow box if they do not obstruct other vehicle.",
+              "choice2": "Turning vehicle are allowed to remain in the yellow box if they do not obstruct other vehicle.",
+              "explaination": "Answer C. ",
+              "imageName": "t3q10"
+          },
+          {
+              "questionNo": 10,
+              "question": "When you see this traffic sign, you should drive",
+              "answer": 0,
+              "choice0": "Within the speed limit of the road.",
+              "choice1": "At the maximum speed limit of the vehicle.",
+              "choice2": "Very slowly.",
+              "explaination": "Answer A. ",
+              "imageName": "t3q11"
+          },
+          {
+              "questionNo": 11,
+              "question": "This sign means ",
+              "answer": 2,
+              "choice0": "Explosive area ahead.",
+              "choice1": "No Entry to fire engines.",
+              "choice2": "No entry to vehicles carrying dangerous goods.",
+              "explaination": "Answer C. ",
+              "imageName": "t3q12"
+          },
+          {
+              "questionNo": 12,
+              "question": "Flashing amber light signal before the tunnel warns drivers",
+              "answer": 1,
+              "choice0": "That the said lane is closed to traffic.",
+              "choice1": "To slow down and be prepared to change lane.(possible obstruction ahead)",
+              "choice2": "That the lights are out of order.",
+              "explaination": "Answer B. ",
+              "imageName": "t3q13"
+          },
+          {
+              "questionNo": 13,
+              "question": "This signs means",
+              "answer": 0,
+              "choice0": "No entry for motorcycles and pedal cycles.",
+              "choice1": "No entry for motorcycles.",
+              "choice2": "No overtaking for these vehicles.",
+              "explaination": "Answer A. ",
+              "imageName": "t3q14"
+          },
+          {
+              "questionNo": 14,
+              "question": "This signs means",
+              "answer": 1,
+              "choice0": "Raised Zebra Crossing",
+              "choice1": "Designated pedestrian crossing",
+              "choice2": "Pedestrian signal",
+              "explaination": "Answer B. ",
+              "imageName": "t3q15"
+          },
+          {
+              "questionNo": 15,
+              "question": "A broken white line on the centre of the road as shown in this diagram means:",
+              "answer": 1,
+              "choice0": "Parking is not allowed on either side of the road.",
+              "choice1": "Keep to the left of this line.",
+              "choice2": "The area is dangerous, you must not overtake.",
+              "explaination": "Answer B. ",
+              "imageName": "t3q16"
+          },
+          {
+              "questionNo": 16,
+              "question": "The single continuous white line along the centre of a two-way road means",
+              "answer": 1,
+              "choice0": "No parking on both sides of the road between 7.00am and 7.00pm",
+              "choice1": "No parking on both sides of the road at all times.",
+              "choice2": "No parking on both sides of the road during week-days.",
+              "explaination": "Answer B. ",
+              "imageName": "t3q17"
+          },
+          {
+              "questionNo": 17,
+              "question": "At traffic light junctions, amber lights means",
+              "answer": 0,
+              "choice0": "Stop before the stop-line.",
+              "choice1": "Go if the way is clear.",
+              "choice2": "Prepare to go.",
+              "explaination": "Answer A. ",
+              "imageName": "t3q18"
+          },
+          {
+              "questionNo": 18,
+              "question": "What does this traffic light signal indicates?",
+              "answer": 1,
+              "choice0": "Only vehicles turning right can proceed.",
+              "choice1": "Vehicles may go straight and turn right.",
+              "choice2": "All vehicles must turn right.",
+              "explaination": "Answer B. ",
+              "imageName": "t3q19"
+          },
+          {
+              "questionNo": 19,
+              "question": "The light turns red as you approach a traffic junction, when stopping you should",
+              "answer": 1,
+              "choice0": "Shift to neutral and step on the brakes.",
+              "choice1": "Brake firmly and depress the clutch pedal as the car comes to a stop.",
+              "choice2": "Depress the brake and the clutch pedals simultaneously.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 20,
+              "question": "When approaching a junction and the traffic lights signal change from green to amber, you should",
+              "answer": 1,
+              "choice0": "Speed up to clear the intersection.",
+              "choice1": "Stop at the stop line unless you are so close that sudden or sharp braking might cause an accident.",
+              "choice2": "Stop only if a red light camera is in use.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 21,
+              "question": "The signal give by the policeman in the picture means",
+              "answer": 2,
+              "choice0": "Vehicles approaching from all directions to stop.",
+              "choice1": "Vehicles approaching from his left and right to stop.",
+              "choice2": "Vehicle approaching from in front and behind him to stop.",
+              "explaination": "Answer C. ",
+              "imageName": "t3q22"
+          },
+          {
+              "questionNo": 22,
+              "question": "The hand signal means",
+              "answer": 2,
+              "choice0": "I intend to stop",
+              "choice1": "I intend to slow down",
+              "choice2": "I intend to move in to the left or turn left",
+              "explaination": "Answer C. ",
+              "imageName": "t3q23"
+          },
+          {
+              "questionNo": 23,
+              "question": "The hand signal means",
+              "answer": 0,
+              "choice0": "I intend to move out to the right or turn right",
+              "choice1": "I intend to slow down",
+              "choice2": "I intend to stop",
+              "explaination": "Answer A. ",
+              "imageName": "t3q24"
+          },
+          {
+              "questionNo": 24,
+              "question": "If the car you are overtaking is drifting in its lane, you should",
+              "answer": 1,
+              "choice0": "Signal him with your hand.",
+              "choice1": "Use your horn to warn him.",
+              "choice2": "Overtake it quickly.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 25,
+              "question": "To drive in a way where other drivers will not find it necessary to overtake you, you should",
+              "answer": 2,
+              "choice0": "Drive on the extreme right lane all the time.",
+              "choice1": "Drive at the maximum speed limit of the road all the time.",
+              "choice2": "Always drive at a speed that match the traffic flow.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 26,
+              "question": "Which car has the right of way?",
+              "answer": 1,
+              "choice0": "Car M.",
+              "choice1": "Car A.",
+              "choice2": "Either car A or M",
+              "explaination": "Answer B. ",
+              "imageName": "t3q27"
+          },
+          {
+              "questionNo": 27,
+              "question": "In traffic hold-ups, you should",
+              "answer": 1,
+              "choice0": "Try to get ahead of others by overtaking them on the left.",
+              "choice1": "Stay in queue and follow the traffic flow.",
+              "choice2": "Try to get ahead of others by overtaking on the right.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 28,
+              "question": "When you see a vehicle slowing down before a Zebra Crossing, you should",
+              "answer": 0,
+              "choice0": "Slow down and be prepared to stop.",
+              "choice1": "Sound the horn before passing the slow moving vehicle.",
+              "choice2": "Maintain your speed.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 29,
+              "question": "Road hogging",
+              "answer": 1,
+              "choice0": "Allow others to overtake safely",
+              "choice1": "Holds up the flow of traffic.",
+              "choice2": "Reduces road accident.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 30,
+              "question": "you want to reverse into a side road. You are not sure that the area behind your vehicle is clear. What should you do?",
+              "answer": 2,
+              "choice0": "Carry on, assuming it is clear.",
+              "choice1": "Look through the rear window only.",
+              "choice2": "Get out and check.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 31,
+              "question": "Before entering a round about, you should",
+              "answer": 0,
+              "choice0": "Give way to traffic on your right.",
+              "choice1": "Stop first before entering.",
+              "choice2": "Accelerate to merge smoothly with traffic already in the roundabout.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 32,
+              "question": "Before moving off, you should",
+              "answer": 0,
+              "choice0": "Use your mirrors, check your blind spot and signal.",
+              "choice1": "Use your mirros and signal if necessary.",
+              "choice2": "Signal and move.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 33,
+              "question": "Drinking and driving may cause",
+              "answer": 0,
+              "choice0": "Loss of proper control of the vehicle.",
+              "choice1": "Increase confidence.",
+              "choice2": "Greater awareness of danger.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 34,
+              "question": "Generally a small amount of alchol can make you less safe on the road.",
+              "answer": 1,
+              "choice0": "False.",
+              "choice1": "True.",
+              "choice2": "Not true, if you were experience driver.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 35,
+              "question": "How does the consumption of alcohol affect a person's driving?",
+              "answer": 2,
+              "choice0": "It enables the driver to make better judgements.",
+              "choice1": "It enables the driver to have better vision of the road.",
+              "choice2": "It reduces the driver's reaction.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 36,
+              "question": "In this scenario Car A should",
+              "answer": 2,
+              "choice0": "Overtake the lorry on the left.",
+              "choice1": "Quickly overtake the lorry before the junction.",
+              "choice2": "Slow down and let the lorry complete the turn.",
+              "explaination": "Answer C. ",
+              "imageName": "t3q37"
+          },
+          {
+              "questionNo": 37,
+              "question": "Whic car (X or Y) should exit at points C and D?",
+              "answer": 0,
+              "choice0": "Car Y.",
+              "choice1": "Car X.",
+              "choice2": "Both vehicles.",
+              "explaination": "Answer A. ",
+              "imageName": "t3q38"
+          },
+          {
+              "questionNo": 38,
+              "question": "'Blind spots' of a vehicle is an area which cannot be viewed by",
+              "answer": 2,
+              "choice0": "The rear view mirror.",
+              "choice1": "Left and right wings mirrors.",
+              "choice2": "Both A and B.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 39,
+              "question": "The Two-second Rule is a simple check to ensure",
+              "answer": 0,
+              "choice0": "A safe distance between your vehicle and the vehicle in front.",
+              "choice1": "A safe distance for you to move off from a junction.",
+              "choice2": "A safe length of time to signal before your manoeuvre.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 40,
+              "question": "When you are following another vehicle on a wet road, you should keep",
+              "answer": 1,
+              "choice0": "Less than 2 seconds behind.",
+              "choice1": "More than 2 seconds behind.",
+              "choice2": "2 seconds behind.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 41,
+              "question": "If a fire engine behind you sounds the siren, you should",
+              "answer": 2,
+              "choice0": "Increase your speed and move to the side.",
+              "choice1": "Continue at normal speed.",
+              "choice2": "Move to the side, slow down or stop if necessary.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 42,
+              "question": "On a one way street, you hear the siren of an emergency vehicle behind you, you should",
+              "answer": 0,
+              "choice0": "Give way by moving to the left or right.",
+              "choice1": "Give way by moving to the left only.",
+              "choice2": "Stop immediately.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 43,
+              "question": "How should you deal with floods?",
+              "answer": 0,
+              "choice0": "Drive through slowly in 1st gear.",
+              "choice1": "Drive through in your highest gear.",
+              "choice2": "Drive through as fast as possible to avoid stopping.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 44,
+              "question": "To maintain good lane discipline, you should",
+              "answer": 2,
+              "choice0": "Follow closely to the vehicle in front.",
+              "choice1": "Drive between lanes so that you can switch lane easily.",
+              "choice2": "Form up correctly into the intended lane before reaching the junction.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 45,
+              "question": "In whic situation should you switch on the high beam?",
+              "answer": 2,
+              "choice0": "When driving on a bumpy road.",
+              "choice1": "When there are oncoming vehicles.",
+              "choice2": "When the road is poorly lighted and there is no traffic ahead.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 46,
+              "question": "on a sharp bend at night, to avoid dazzling oncoming traffic, you should",
+              "answer": 2,
+              "choice0": "Switch on high beam.",
+              "choice1": "Switch off your lights.",
+              "choice2": "Dip your headlights.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 47,
+              "question": "you may drive along the right-most lane when",
+              "answer": 0,
+              "choice0": "You are overtaking another vehicle.",
+              "choice1": "The traffic is not heavy.",
+              "choice2": "You are travelling at the speed limits.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 48,
+              "question": "you are not allowed to drive into a bus lane on Monday to Saturday from",
+              "answer": 1,
+              "choice0": "7.00 am to 9.30 am.",
+              "choice1": "7.30 am to 9.30 am.",
+              "choice2": "7.15 am to 10.00 am.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 49,
+              "question": "Fastening a seat belt can",
+              "answer": 2,
+              "choice0": "Reduce the chances of a collision.",
+              "choice1": "Control your body movement when you negotiate a sharp bend.",
+              "choice2": "Reduce the chances of being seriously injured or killed.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          }
+      ]
+   },
+   {
+      "type":"Test 4",
+      "imageName":"four_circle",
+      "questions":[
+          {
+              "questionNo": 0,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "To-way traffic - beware of traffic from right and left.",
+              "choice1": "Split traffic - vehicle may pass on either side.",
+              "choice2": "Turn either side - vehicle must turn right or left.",
+              "explaination": "Answer B. ",
+              "imageName": "t4q1"
+          },
+          {
+              "questionNo": 1,
+              "question": "When you see this sign,",
+              "answer": 0,
+              "choice0": "You must stop and give way to traffic on a major road.",
+              "choice1": "You need not stop if there is no traffic on a major road.",
+              "choice2": "You need not stop if you are turning left.",
+              "explaination": "Answer A. ",
+              "imageName": "t4q2"
+          },
+          {
+              "questionNo": 2,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "You cannot wait but you can stop to let down or pick up passengers.",
+              "choice1": "You cannot stop your vehicle at all.",
+              "choice2": "You may stop for a short while so long as you remain in the car.",
+              "explaination": "Answer B. ",
+              "imageName": "t4q3"
+          },
+          {
+              "questionNo": 3,
+              "question": "When you see this sign, you ",
+              "answer": 0,
+              "choice0": "Cannot turn left but may go straight or turn right.",
+              "choice1": "May turn left on Sundays and Public holidays.",
+              "choice2": "Must turn left as there are no other roads ahead.",
+              "explaination": "Answer A. ",
+              "imageName": "t4q4"
+          },
+          {
+              "questionNo": 4,
+              "question": "On seeing this sign, you should ",
+              "answer": 0,
+              "choice0": "Drive carefully and look out for level gate closing.",
+              "choice1": "Drive carefully as there is guard-rail along the road side.",
+              "choice2": "Slow down as there is an Army rocket launching range ahead.",
+              "explaination": "Answer A. ",
+              "imageName": "t4q5"
+          },
+          {
+              "questionNo": 5,
+              "question": "When you see this sign, you should",
+              "answer": 0,
+              "choice0": "Slow down and apply the 'Give way Rule' at the cross-ahead ahead.",
+              "choice1": "Drive carefully and give way to the 'Red Cross' ambulance.",
+              "choice2": "Slow down and drive carefully in the hospital area.",
+              "explaination": "Answer A. ",
+              "imageName": "t4q6"
+          },
+          {
+              "questionNo": 6,
+              "question": "When you see this sign, you should",
+              "answer": 2,
+              "choice0": "Slow down as there is a trailer parking area ahead.",
+              "choice1": "Slow down and make a U-turn - road ends ahead.",
+              "choice2": "Slow down and give way to traffic from right and left.",
+              "explaination": "Answer C. ",
+              "imageName": "t4q7"
+          },
+          {
+              "questionNo": 7,
+              "question": "When you see this sign, you should",
+              "answer": 1,
+              "choice0": "Not turn right as the road is closed to traffic.",
+              "choice1": "Slow down, beware of traffic from the right.",
+              "choice2": "Not slow down as you have the right of way.",
+              "explaination": "Answer B. ",
+              "imageName": "t4q8"
+          },
+          {
+              "questionNo": 8,
+              "question": "When you see this sign, you should",
+              "answer": 2,
+              "choice0": "Not turn left as the road is closed to traffic.",
+              "choice1": "Not slow down as you have the right of way.",
+              "choice2": "Slow down and beware of traffic from the left.",
+              "explaination": "Answer C. ",
+              "imageName": "t4q9"
+          },
+          {
+              "questionNo": 9,
+              "question": "This sign means that you are",
+              "answer": 2,
+              "choice0": "Appraoching a Pedestrian Overhead Bridge - beware of jay-walkers.",
+              "choice1": "Approaching an MRT station - beware of commuters in the vicinity.",
+              "choice2": "Entering an Expresswat - comply with the expressway rules.",
+              "explaination": "Answer C. ",
+              "imageName": "t4q10"
+          },
+          {
+              "questionNo": 10,
+              "question": "When you see this sign, you should",
+              "answer": 2,
+              "choice0": "Keep within the speed limit of the road.",
+              "choice1": "Reduce speed after the sign.",
+              "choice2": "Slow down on seeing the sign.",
+              "explaination": "Answer C. ",
+              "imageName": "t4q11"
+          },
+          {
+              "questionNo": 11,
+              "question": "The said lane is closed to traffic.",
+              "answer": 0,
+              "choice0": "The said lane is closed to traffic.",
+              "choice1": "Light out of order. Proceed with caution.",
+              "choice2": "Possible obstruction ahead, be prepared to change lane.",
+              "explaination": "Answer A. ",
+              "imageName": "t4q12"
+          },
+          {
+              "questionNo": 12,
+              "question": "When you see this sign, you ",
+              "answer": 2,
+              "choice0": "Should sound your horn to warn the pedestrians of your approach.",
+              "choice1": "Need not slow down if there is no pedestrian at the Crossing.",
+              "choice2": "Should slow down and be prepared to stop pedestrians to cross the road.",
+              "explaination": "Answer C. ",
+              "imageName": "t4q13"
+          },
+          {
+              "questionNo": 13,
+              "question": "When you see this sign, you should",
+              "answer": 2,
+              "choice0": "Keep a lookout for a children playground ahead.",
+              "choice1": "Drive at the normal speed as the jogging track is on the opposite side of the road.",
+              "choice2": "Slow down and drive carefully, beware of children crossing the road.",
+              "explaination": "Answer C. ",
+              "imageName": "t4q14"
+          },
+          {
+              "questionNo": 14,
+              "question": "What does a single yellow zig-zag line by the side of the road mean?",
+              "answer": 1,
+              "choice0": "Allowed to wait as long as the driver remains in the car.",
+              "choice1": "No Waiting except for the immediate picking up and letting down of passengers.",
+              "choice2": "No stopping at all times.",
+              "explaination": "Answer B. ",
+              "imageName": "t4q15"
+          },
+          {
+              "questionNo": 15,
+              "question": "Are you allowed to alight passengers along the road with double yellow zig-zag lines?",
+              "answer": 1,
+              "choice0": "No, except Sundays and Public Holidays.",
+              "choice1": "No.",
+              "choice2": "Yes.",
+              "explaination": "Answer B. ",
+              "imageName": "t4q16"
+          },
+          {
+              "questionNo": 16,
+              "question": "",
+              "answer": 2,
+              "choice0": "Means GO for straight ahead vehicles only. Vehicles turning right must stop behind the stop line.",
+              "choice1": "Means GO for straight ahead vehicles only. Vehicles turning right must get ready to STOP.",
+              "choice2": "Means GO for straight ahead vehicles and GO for right turn vehicles.",
+              "explaination": "Answer C. ",
+              "imageName": "t4q17"
+          },
+          {
+              "questionNo": 17,
+              "question": "When Approaching a traffic light signal that has turned to amber, you should",
+              "answer": 2,
+              "choice0": "Speed up.",
+              "choice1": "Maintain you speed.",
+              "choice2": "Slow down and stop.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 18,
+              "question": "When the amber traffic light is flashing continuously, you should",
+              "answer": 1,
+              "choice0": "Stop and wait for it to change to green.",
+              "choice1": "Slow down and proceed with caution.",
+              "choice2": "Drive through it quickly.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 19,
+              "question": "When the 'amber' traffic light signal is flashing, you should",
+              "answer": 0,
+              "choice0": "Slow down and look out for other vehicles before proceeding.",
+              "choice1": "Call the police.",
+              "choice2": "Carry on driving.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 20,
+              "question": "The signal of this policeman means vehicles approaching:",
+              "answer": 1,
+              "choice0": "From his front and behind to go.",
+              "choice1": "On his right and left to go.",
+              "choice2": "On his right and left to stop.",
+              "explaination": "Answer B. ",
+              "imageName": "t4q21"
+          },
+          {
+              "questionNo": 21,
+              "question": "On his right, front and behind to stop.",
+              "answer": 0,
+              "choice0": "On his right, front and behinc to stop.",
+              "choice1": "On his left to stop.",
+              "choice2": "On his right to get ready to stop.",
+              "explaination": "Answer A. ",
+              "imageName": "t4q22"
+          },
+          {
+              "questionNo": 22,
+              "question": "",
+              "answer": 1,
+              "choice0": "I intend to move out to the right or turn right",
+              "choice1": "I intend to move in to the left or turn left",
+              "choice2": "I intend to move out to the left or turn right",
+              "explaination": "Answer B. ",
+              "imageName": "t4q23"
+          },
+          {
+              "questionNo": 23,
+              "question": "When a motorcyclist tries to overtake you on the left, you should",
+              "answer": 1,
+              "choice0": "Increase your speed to race the rider.",
+              "choice1": "Reduce your speed and assist the rider overtake safely.",
+              "choice2": "Ignore the rider and continue driving at your normal speed.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 24,
+              "question": "When another vehicle is overtaking you, you should",
+              "answer": 0,
+              "choice0": "Not speed up but assist him overtake.",
+              "choice1": "Change lane and keep to the right.",
+              "choice2": "Increase your speed gradually.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 25,
+              "question": "Which car may proceed first ? ",
+              "answer": 0,
+              "choice0": "Car A.",
+              "choice1": "Car B.",
+              "choice2": "Car C.",
+              "explaination": "Answer A. ",
+              "imageName": "t4q26"
+          },
+          {
+              "questionNo": 26,
+              "question": "Which car should give way ? ",
+              "answer": 1,
+              "choice0": "Whoever gets to the intersection first.",
+              "choice1": "Car A.",
+              "choice2": "Car B.",
+              "explaination": "Answer B. ",
+              "imageName": "t4q27"
+          },
+          {
+              "questionNo": 27,
+              "question": "A tyre needs to be changed when",
+              "answer": 0,
+              "choice0": "The depeth of its tread is less than 1.6mm.",
+              "choice1": "It is two years old.",
+              "choice2": "It is completely bald.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 28,
+              "question": "The minimum age requirement for applying for a Basic Theory Test is",
+              "answer": 1,
+              "choice0": "17 years.",
+              "choice1": "18 years.",
+              "choice2": "16 years.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 29,
+              "question": "Unless otherwise stated, the maximum speed limit of all roads in Singapore is",
+              "answer": 1,
+              "choice0": "60 km/h",
+              "choice1": "50 km/h",
+              "choice2": "80 km/h",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 30,
+              "question": "When driving in the rain, you should",
+              "answer": 1,
+              "choice0": "Drive faster to get home.",
+              "choice1": "Reduce you speed.",
+              "choice2": "Drive at normal speed.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 31,
+              "question": "How does the car interior lights affect your driving?",
+              "answer": 1,
+              "choice0": "It makes you more alert.",
+              "choice1": "It reduce your visibility.",
+              "choice2": "It helps you to see better.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 32,
+              "question": "On a wet road, the braking distance will",
+              "answer": 1,
+              "choice0": "Not increase if the brakes are efficient.",
+              "choice1": "Increase despite good tyres.",
+              "choice2": "Not increase if the tyres are good.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 33,
+              "question": "If you failed to have a proper control of your vehicle, you could be charged for ____ even though your blood alcohol content is below the legal limit.",
+              "answer": 0,
+              "choice0": "Drink driving.",
+              "choice1": "Careless driving.",
+              "choice2": "Reckless driving.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 34,
+              "question": "If you consume alchohol, you should",
+              "answer": 2,
+              "choice0": "Drive home carefully.",
+              "choice1": "Have a coffee then drive home.",
+              "choice2": "Go home by public transport.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 35,
+              "question": "If had too much alcohol",
+              "answer": 1,
+              "choice0": "Your reactions are better.",
+              "choice1": "Your ability to  drive is impaired.",
+              "choice2": "Your vision is improved.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 36,
+              "question": "When passing the stationary bus at the bus-stop, you should",
+              "answer": 1,
+              "choice0": "Speed up to overtake the bus before it moves off.",
+              "choice1": "Slow down and be ready to stop for pedestrian who may cross the road in front of the bus.",
+              "choice2": "Sound the horn to warn the bus drive of your presence.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 37,
+              "question": "When a car is stopping in front of a zebra crossing, you should",
+              "answer": 0,
+              "choice0": "Slow down and be ready to stop for pedestrains to cross the road.",
+              "choice1": "Sound the horn to warn pedestrians.",
+              "choice2": "Quickly pass the vehicle before any pedestrians come along.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 38,
+              "question": "Motorcyclists will often look over their right shoulder just before turning right. This is because",
+              "answer": 2,
+              "choice0": "Looking around helps them balance as they turn.",
+              "choice1": "They need to listen for following traffic.",
+              "choice2": "They need to check for traffic in their blind area.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 39,
+              "question": "The 'Two-Second Rule' of safe following distance applies to all vehicles travelling at",
+              "answer": 2,
+              "choice0": "Slow speed only.",
+              "choice1": "Fast speed only.",
+              "choice2": "Any speed.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 40,
+              "question": "In order to avoid an accident with the vehicle in front while driving under normal conditions you shoul use the ",
+              "answer": 1,
+              "choice0": "Four-second rule.",
+              "choice1": "Two-second rule.",
+              "choice2": "Two metre rule.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 41,
+              "question": "What must you do when a police vehicle with its siren on is behind you?",
+              "answer": 1,
+              "choice0": "Continue to drive as normal.",
+              "choice1": "Slow down and move to the side.",
+              "choice2": "Speed up.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 42,
+              "question": "If you are in doubt of the depth of flood water (whether passable to vehicles), you should",
+              "answer": 1,
+              "choice0": "Drive through as quickly as possible.",
+              "choice1": "Take an alternative route.",
+              "choice2": "Drive through slowly.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 43,
+              "question": "To drive through a flood, you should increase acceleration and ",
+              "answer": 1,
+              "choice0": "Change to higher gear.",
+              "choice1": "Change to a lower gear.",
+              "choice2": "Apply half clutch.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 44,
+              "question": "Under what circumstances you may not follow the 'keep left rule'",
+              "answer": 0,
+              "choice0": "When your path is obstructed.",
+              "choice1": "When traffic is light.",
+              "choice2": "When travelling at the maximum speed limit of the road.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 45,
+              "question": "The purpose of using dipped headlights whilst driving is to",
+              "answer": 1,
+              "choice0": "To light up the road immediately in front of you.",
+              "choice1": "To avoid dazzling drivers of oncoming vehicles.",
+              "choice2": "To save the battery's electrical energy",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 46,
+              "question": "When blinded by the headlights of an oncoming vehicle at night, you should",
+              "answer": 0,
+              "choice0": "Slow down or stop.",
+              "choice1": "Close your eyes.",
+              "choice2": "Pull down the sun visor.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 47,
+              "question": "Road hogging",
+              "answer": 1,
+              "choice0": "Ensure a smoother flow of traffic.",
+              "choice1": "Causes other vehicles to overtake dangerously on the left.",
+              "choice2": "Causes other vehicles to overtake on the right.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 48,
+              "question": "You can drive on the bus lane",
+              "answer": 1,
+              "choice0": "When passing another vehicle on the left.",
+              "choice1": "Outside the restricted hours.",
+              "choice2": "When all other lanes are occupied.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 49,
+              "question": "Seatbelt must be worn at all times by ",
+              "answer": 2,
+              "choice0": "The driver only.",
+              "choice1": "The passengers only.",
+              "choice2": "The driver as well as the passengers.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          }
+      ]
+   },
+   {
+      "type":"Test 5",
+      "imageName":"five_circle",
+      "questions":[
+          {
+              "questionNo": 0,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "Children must not cross the road.",
+              "choice1": "You must stop for children to cross the road.",
+              "choice2": "You can proceed as only children have to stop.",
+              "explaination": "Answer B. ",
+              "imageName": "t5q1"
+          },
+          {
+              "questionNo": 1,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "Pedestrians must give way to traffic at the junction.",
+              "choice1": "You must give way to traffic on the major road.",
+              "choice2": "You must give way to pedestrians only.",
+              "explaination": "Answer B. ",
+              "imageName": "t5q2"
+          },
+          {
+              "questionNo": 2,
+              "question": "This sign means 'No Entry' for vehicles",
+              "answer": 0,
+              "choice0": "Wider than 2.3 metres.",
+              "choice1": "Longer than 2.3 metres.",
+              "choice2": "Higher than 2.3 metres.",
+              "explaination": "Answer A. ",
+              "imageName": "t5q3"
+          },
+          {
+              "questionNo": 3,
+              "question": "What does this sign mean?",
+              "answer": 0,
+              "choice0": "No right turn.",
+              "choice1": "Bend to the right.",
+              "choice2": "Road on the right closed.",
+              "explaination": "Answer A. ",
+              "imageName": "t5q4"
+          },
+          {
+              "questionNo": 4,
+              "question": "When you see this sign, you should",
+              "answer": 2,
+              "choice0": "Stop and give way to traffic from the right and left.",
+              "choice1": "Not slow down as you have the right of way.",
+              "choice2": "Slow down and beware of traffic from the left.",
+              "explaination": "Answer C. ",
+              "imageName": "t5q5"
+          },
+          {
+              "questionNo": 5,
+              "question": "When you see this sign, you should",
+              "answer": 2,
+              "choice0": "Slow and give way to traffic from the right and left.",
+              "choice1": "Not slow down as you have the right of way.",
+              "choice2": "Slow down and beware of traffic from the right.",
+              "explaination": "Answer C. ",
+              "imageName": "t5q6"
+          },
+          {
+              "questionNo": 6,
+              "question": "If you need to display the 'vehicle breakdown', it should be placed",
+              "answer": 2,
+              "choice0": "Just behind the vehicle.",
+              "choice1": "At least 10 metres behind your vehicle.",
+              "choice2": "At least 20 metres behind your vehicle.",
+              "explaination": "Answer C. ",
+              "imageName": "t5q7"
+          },
+          {
+              "questionNo": 7,
+              "question": "When you approached this warning sign, you should",
+              "answer": 2,
+              "choice0": "Increase speed to beat the lights.",
+              "choice1": "Increase speed to beat the lights.",
+              "choice2": "Slow down and be prepared to stop.",
+              "explaination": "Answer C. ",
+              "imageName": "t5q8"
+          },
+          {
+              "questionNo": 8,
+              "question": "This sign means",
+              "answer": 0,
+              "choice0": "Staggered junction",
+              "choice1": "Merging traffic",
+              "choice2": "Two-way traffic across a one-way carriagewa",
+              "explaination": "Answer A. ",
+              "imageName": "t5q9"
+          },
+          {
+              "questionNo": 9,
+              "question": "What does this sign mean?",
+              "answer": 0,
+              "choice0": "Parking place for all vehicles.",
+              "choice1": "Parking lot for police vehicle only.",
+              "choice2": "Parking place for season holders only.",
+              "explaination": "Answer A. ",
+              "imageName": "t5q10"
+          },
+          {
+              "questionNo": 10,
+              "question": "When you see this sign, you should",
+              "answer": 0,
+              "choice0": "Use the left lane of the road.",
+              "choice1": "Overtake vehicles on the left.",
+              "choice2": "Drive on the road shoulder.",
+              "explaination": "Answer A. ",
+              "imageName": "t5q11"
+          },
+          {
+              "questionNo": 11,
+              "question": "What does this traffic sign mean?",
+              "answer": 0,
+              "choice0": "Vehicle carrying dangerous goods are not allowed to enter.",
+              "choice1": "Lane closed - vehicle on fire in the tunnel.",
+              "choice2": "Fire engines are prohibited in the tunnel.",
+              "explaination": "Answer A. ",
+              "imageName": "t5q12"
+          },
+          {
+              "questionNo": 12,
+              "question": "When you see this sign, you should",
+              "answer": 1,
+              "choice0": "Keep a lookout as there is a school for the blind ahead.",
+              "choice1": "Slow down and beware of elderly people crossing the road.",
+              "choice2": "Stop the car and help the handicapped person to cross the road.",
+              "explaination": "Answer B. ",
+              "imageName": "t5q13"
+          },
+          {
+              "questionNo": 13,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "No overtaking for lorries",
+              "choice1": "No entry for lorries",
+              "choice2": "No sounding of horn for lorries",
+              "explaination": "Answer B. ",
+              "imageName": "t5q14"
+          },
+          {
+              "questionNo": 14,
+              "question": "The zig-zag lines on the road indicate that",
+              "answer": 0,
+              "choice0": "There is a zebra crossing ahead.",
+              "choice1": "The road is slippery.",
+              "choice2": "The road is not even.",
+              "explaination": "Answer A. ",
+              "imageName": "t5q15"
+          },
+          {
+              "questionNo": 15,
+              "question": "The parallel continuous yellow lines as shown in the diagram means",
+              "answer": 0,
+              "choice0": "No parking on that side of the road.",
+              "choice1": "No parking on the opposite side of the road.",
+              "choice2": "No overtaking allowed on this side of the road.",
+              "explaination": "Answer A. ",
+              "imageName": "t5q16"
+          },
+          {
+              "questionNo": 16,
+              "question": "The traffic light signal",
+              "answer": 2,
+              "choice0": "Means GO for straight ahead vehicles only. Vehicles turning right must stop behind the stop line.",
+              "choice1": "Means GO for straight ahead vehicles only. Vehicles turning right must get ready to STOP.",
+              "choice2": "Means GO for straight ahead vehicles and GO for right turn vehicles.",
+              "explaination": "Answer C. ",
+              "imageName": "t5q17"
+          },
+          {
+              "questionNo": 17,
+              "question": "When the traffic light signal turns 'green', you should check",
+              "answer": 1,
+              "choice0": "For oncoming traffic before moving off.",
+              "choice1": "For oncoming traffic and traffic from the right and left before moving off.",
+              "choice2": "The rear view mirror before moving off.",
+              "explaination": "Answer B. ",
+              "imageName": ""
+          },
+          {
+              "questionNo": 18,
+              "question": "When the traffic lights signal turns amber and you have already passed the stop line you should,",
+              "answer": 1,
+              "choice0": "Stop and reverse back to the stop line.",
+              "choice1": "Continue to drive through the junction.",
+              "choice2": "Stop immediately.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 19,
+              "question": "When the traffic lights signal turns amber, you should",
+              "answer": 2,
+              "choice0": "Proceed with caution as the traffic light signals are out of order.",
+              "choice1": "Accelerate and cross the junction.",
+              "choice2": "Slow down and be ready to stop.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 20,
+              "question": "This policeman is giving signal to vehicles approaching",
+              "answer": 2,
+              "choice0": "From front and behind to go.",
+              "choice1": "From the left may proceed.",
+              "choice2": "From the right may proceed.",
+              "explaination": "Answer C. ",
+              "imageName": "t5q21"
+          },
+          {
+              "questionNo": 21,
+              "question": "When you see a police officer giving this hand signal at a junction, you should",
+              "answer": 0,
+              "choice0": "Stop at the stop line.",
+              "choice1": "Turn right only.",
+              "choice2": "Turn left only.",
+              "explaination": "Answer A. ",
+              "imageName": "t5q22"
+          },
+          {
+              "questionNo": 22,
+              "question": "What should you do when you see this hand sign",
+              "answer": 2,
+              "choice0": "I intend to slow down",
+              "choice1": "I intend to move out to the right or turn right",
+              "choice2": "I intend to move in to the left or turn left",
+              "explaination": "Answer C. ",
+              "imageName": "t5q23"
+          },
+          {
+              "questionNo": 23,
+              "question": "When being overtaken,you should",
+              "answer": 2,
+              "choice0": "Speed up.",
+              "choice1": "Maintain your speed.",
+              "choice2": "Slow down.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 24,
+              "question": "When the mortorcycle you are overtaking suddenly increase speed, you should",
+              "answer": 0,
+              "choice0": "Slow down and abort overtaking it.",
+              "choice1": "Sound your horn to warn the driver.",
+              "choice2": "Accelerate more to overtake it quickly.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 25,
+              "question": "Which car should give way to Car A?",
+              "answer": 2,
+              "choice0": "Car B & C.",
+              "choice1": "Car C.",
+              "choice2": "Car B.",
+              "explaination": "Answer C. ",
+              "imageName": "t5q26"
+          },
+          {
+              "questionNo": 26,
+              "question": "Which car should give way?",
+              "answer": 2,
+              "choice0": "Car 'B' should stop to allow Car 'A' to merge smoothly.",
+              "choice1": "Car 'B' should speed up to allow Car 'A' to merge.",
+              "choice2": "Car 'A' should give way to Car 'B'.",
+              "explaination": "Answer C. ",
+              "imageName": "t5q27"
+          },
+          {
+              "questionNo": 27,
+              "question": "When driving pass pedestrians or cyclists, you should",
+              "answer": 2,
+              "choice0": "Drive at normal speed, close to them.",
+              "choice1": "Drive quickly past them.",
+              "choice2": "Slow down and always give ample side clearance.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 28,
+              "question": "When following a bus that pulls up at a bus stop, you should",
+              "answer": 2,
+              "choice0": "Sound the horn and overtake the bus.",
+              "choice1": "Accelerate past the bus quickly.",
+              "choice2": "Slow down and watch carefully for pedestrians.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 29,
+              "question": "When the 'Red man' signal is on and pedestrians are crossing, you should",
+              "answer": 1,
+              "choice0": "Proceed behind the pedestrians.",
+              "choice1": "Stop and allow pedestrians to cross.",
+              "choice2": "Horn the pedestrians to demand the right of way.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 30,
+              "question": "When you see children standing by the side of the road, you should",
+              "answer": 1,
+              "choice0": "Speed pass them.",
+              "choice1": "Slow down and be prepared to stop if necessary.",
+              "choice2": "Maintain your normal speed.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 31,
+              "question": "In which of these situations should you aviod overtaking?",
+              "answer": 0,
+              "choice0": "Approaching a dip in the road.",
+              "choice1": "On a 50 km/h road.",
+              "choice2": "In a one-way street. ",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 32,
+              "question": "What should you use the horn for ?",
+              "answer": 2,
+              "choice0": "To signal your annoyance.",
+              "choice1": "To greet other road users.",
+              "choice2": "To warn others of danger.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 33,
+              "question": "If you intend to drive after attending a function, you should",
+              "answer": 2,
+              "choice0": "Avoid mixxing your alcoholic drinks.",
+              "choice1": "Drink coffee before drinking alcohol.",
+              "choice2": "Avoid drinking alcohol.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 34,
+              "question": "The penalty for a repeat drink driving offender is ",
+              "answer": 0,
+              "choice0": "Fine, disqualification and a mandatory jail sentence.",
+              "choice1": "Disqualification only.",
+              "choice2": "Fine and disqualification only.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 35,
+              "question": "Drink driving can contribute to accidents because",
+              "answer": 1,
+              "choice0": "Drivers take shorter time to react.",
+              "choice1": "Driver' judgement is impaired.",
+              "choice2": "Drovers' vision is improved.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 36,
+              "question": "In this situation shown, the long vehicle is about to turn left and car is going straight. The car should",
+              "answer": 1,
+              "choice0": "Maintain its speed and position.",
+              "choice1": "Slow down and stop if necessary.",
+              "choice2": "Proceed quickly to pass the junction.",
+              "explaination": "Answer B. ",
+              "imageName": "t5q37"
+          },
+          {
+              "questionNo": 37,
+              "question": "Car A intends to pass Car B near a side road on the left, Car A should",
+              "answer": 0,
+              "choice0": "Pass Car B only after the junction.",
+              "choice1": "Pass Car B on the right side.",
+              "choice2": "Drive faster to pass the junction.",
+              "explaination": "Answer A. ",
+              "imageName": "t5q38"
+          },
+          {
+              "questionNo": 38,
+              "question": "Before you make a U-turn on the road, you should check your blind spot by",
+              "answer": 1,
+              "choice0": "Looking at the side mirrors.",
+              "choice1": "Looking over your shoulder.",
+              "choice2": "Looking at the rear view mirror.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 39,
+              "question": "The 'Two-second rule' is used in normal driving situation at",
+              "answer": 2,
+              "choice0": "Fixed speed only.",
+              "choice1": "Certain speed only.",
+              "choice2": "All speed.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 40,
+              "question": "In order to avoid an accident with the vehicle in front while driving under normal condition, you should use the",
+              "answer": 1,
+              "choice0": "Four- second rule.",
+              "choice1": "Two- second rule.",
+              "choice2": "Two metres rule.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 41,
+              "question": "When being followed by a police vehicle with its siren on, you should",
+              "answer": 2,
+              "choice0": "Brake quickly and stop to let it pass.",
+              "choice1": "Accelerate quickly to get away from it.",
+              "choice2": "Pull over safely, as soon as possible to let it pass.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 42,
+              "question": "When approaching a road that is flooded but passable to vehicles, you should",
+              "answer": 0,
+              "choice0": "Engage a lower gear to go through the flood.",
+              "choice1": "Engage a higher gear to go through the flood.",
+              "choice2": "Drive through as fast as possible.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 43,
+              "question": "When driving along a two-way street, you should",
+              "answer": 0,
+              "choice0": "Not cross the centre line at bends.",
+              "choice1": "Always keep near the centre line of the road.",
+              "choice2": "Not overtake at all times.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 44,
+              "question": "When turning right at a one-way street, you should position your vehicle",
+              "answer": 1,
+              "choice0": "Just left of the centre of the road.",
+              "choice1": "In the right hand lane.",
+              "choice2": "In any lane depending on the traffic conditions.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 45,
+              "question": "When driving at night, dip your headlights",
+              "answer": 2,
+              "choice0": "To light up the road immediately in front you.",
+              "choice1": "To prolong the life of the car battery.",
+              "choice2": "So as not to dazzle drivers of oncoming vehicles.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 46,
+              "question": "When driving at night, you should use",
+              "answer": 0,
+              "choice0": "Dipped headlight.",
+              "choice1": "High beam.",
+              "choice2": "Side lights only.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 47,
+              "question": "When should you use the right outer most lane of a carriageway?",
+              "answer": 1,
+              "choice0": "When driving at the maximum speed.",
+              "choice1": "When overtaking.",
+              "choice2": "When all other lanes are occupied.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 48,
+              "question": "During bus lane prohibited hours, motorist is allowed to use the bus lane when",
+              "answer": 0,
+              "choice0": "The driver is trying to avoid a collision.",
+              "choice1": "The other lanes are congested.",
+              "choice2": "It is empty.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 49,
+              "question": "A child is required to use a child restraint if the child is",
+              "answer": 2,
+              "choice0": "11 years old.",
+              "choice1": "9 years old.",
+              "choice2": "7 years old.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          }
+      ]
+   },
+   {
+      "type":"Test 6",
+      "imageName":"six_circle",
+      "questions":[
+          {
+              "questionNo": 0,
+              "question": "What does this sign mean?",
+              "answer": 1,
+              "choice0": "You are approaching a junction with a one-way street to the left.",
+              "choice1": "You must turn left ahead.",
+              "choice2": "Hazard ahead. Keep more to the left.",
+              "explaination": "Answer B. ",
+              "imageName": "t6q1"
+          },
+          {
+              "questionNo": 1,
+              "question": "What does this sign mean?",
+              "answer": 1,
+              "choice0": "Turn right ahead",
+              "choice1": "Turn right only",
+              "choice2": "Keep left",
+              "explaination": "Answer B. ",
+              "imageName": "t6q2"
+          },
+          {
+              "questionNo": 2,
+              "question": "What does this sign mean?",
+              "answer": 0,
+              "choice0": "Cannot drive beyond 80 km/h.",
+              "choice1": "Cannot drive Slower 80 km/h.",
+              "choice2": "Maintain you speed at 80 km/h.",
+              "explaination": "Answer A. ",
+              "imageName": "t6q3"
+          },
+          {
+              "questionNo": 3,
+              "question": "What does this sign mean?",
+              "answer": 2,
+              "choice0": "No right turn ahead",
+              "choice1": "No left turn",
+              "choice2": "No left turn ahead",
+              "explaination": "Answer C. ",
+              "imageName": "t6q4"
+          },
+          {
+              "questionNo": 4,
+              "question": "What does this sign mean?",
+              "answer": 2,
+              "choice0": "One-way right turn",
+              "choice1": "One-way traffic",
+              "choice2": "One-way street",
+              "explaination": "Answer C. ",
+              "imageName": "t6q5"
+          },
+          {
+              "questionNo": 5,
+              "question": "What does this sign mean?",
+              "answer": 1,
+              "choice0": "Two-way traffic across a one-way carriageway",
+              "choice1": "Lanes merging",
+              "choice2": "Two-way traffic ahead",
+              "explaination": "Answer B. ",
+              "imageName": "t6q6"
+          },
+          {
+              "questionNo": 6,
+              "question": "What does this sign mean?",
+              "answer": 2,
+              "choice0": "Right bend",
+              "choice1": "Left bend",
+              "choice2": "Series of bends",
+              "explaination": "Answer C. ",
+              "imageName": "t6q7"
+          },
+          {
+              "questionNo": 7,
+              "question": "What does this sign mean?",
+              "answer": 2,
+              "choice0": "Ungated level crossing",
+              "choice1": "Road hump ahead",
+              "choice2": "Uneven road",
+              "explaination": "Answer C. ",
+              "imageName": "t6q8"
+          },
+          {
+              "questionNo": 8,
+              "question": "What does this sign means?",
+              "answer": 1,
+              "choice0": "Bus terminus ahead.",
+              "choice1": "Bus stop.",
+              "choice2": "Parking place for buses only.",
+              "explaination": "Answer B. ",
+              "imageName": "t6q9"
+          },
+          {
+              "questionNo": 9,
+              "question": "When you approached this traffic sign, you should",
+              "answer": 2,
+              "choice0": "Stop and make a U-turn as road is ending.",
+              "choice1": "Speed up to merge with traffic on the expressway.",
+              "choice2": "Slow down as you are leaving the expressway.",
+              "explaination": "Answer C. ",
+              "imageName": "t6q10"
+          },
+          {
+              "questionNo": 10,
+              "question": "What does this sign means?",
+              "answer": 0,
+              "choice0": "Sharp deviation",
+              "choice1": "Barrier",
+              "choice2": "Curve Alignment Markers",
+              "explaination": "Answer A. ",
+              "imageName": "t6q11"
+          },
+          {
+              "questionNo": 11,
+              "question": "What does this sign means?",
+              "answer": 1,
+              "choice0": "Overpass",
+              "choice1": "Tunnel Ahead",
+              "choice2": "Underpass",
+              "explaination": "Answer B. ",
+              "imageName": "t6q12"
+          },
+          {
+              "questionNo": 12,
+              "question": "When you see this sign, you",
+              "answer": 2,
+              "choice0": "Should sound your horn to warn the pedestrians of your approach.",
+              "choice1": "Need not slow down if there is no pedestrian at the crossing.",
+              "choice2": "Should slow down and be prepared to stop for pedestrians to cross the road.",
+              "explaination": "Answer C. ",
+              "imageName": "t6q13"
+          },
+          {
+              "questionNo": 13,
+              "question": "What does this sign means?",
+              "answer": 0,
+              "choice0": "Designated pedestrian crossing",
+              "choice1": "Pedestrian signal Green Man",
+              "choice2": "Pedestrian crossing Prohibition",
+              "explaination": "Answer A. ",
+              "imageName": "t6q14"
+          },
+          {
+              "questionNo": 14,
+              "question": "What does this road marking in this diagram means?",
+              "answer": 0,
+              "choice0": "Do not cross the lines.",
+              "choice1": "No stopping allowed.",
+              "choice2": "Parking allowed on Sundays and Public holidays only.",
+              "explaination": "Answer A. ",
+              "imageName": "t6q15"
+          },
+          {
+              "questionNo": 15,
+              "question": "You are driving towards a zebra crossing. Pedestrians are waiting to cross, you should",
+              "answer": 2,
+              "choice0": "Continue on your way.",
+              "choice1": "Wave to the people to wait.",
+              "choice2": "Be prepared to stop.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 16,
+              "question": "What does this signal means?",
+              "answer": 0,
+              "choice0": "Means GO for straight ahead vehicles only. Vehicles turning right must stop behind the stop line.",
+              "choice1": "Means GO for straight ahead vehicles only. Vehicles turning right must get ready to STOP.",
+              "choice2": "Means GO for straight ahead vehicles and “GO” for right turn vehicles.",
+              "explaination": "Answer A. ",
+              "imageName": "t6q17"
+          },
+          {
+              "questionNo": 17,
+              "question": "When you approach a 'green' traffic light signal at a junction, you should",
+              "answer": 0,
+              "choice0": "Slow down and be ready to stop.",
+              "choice1": "Accelerate hard.",
+              "choice2": "Maintain your speed.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 18,
+              "question": "When you approach this traffic light junction, you should",
+              "answer": 0,
+              "choice0": "Slow down and be ready to stop when the light changes.",
+              "choice1": "Speed up to pass the junction before the light changes.",
+              "choice2": "Maintain a high speed so as not to disrupt the traffic flow.",
+              "explaination": "Answer A. ",
+              "imageName": "t6q19"
+          },
+          {
+              "questionNo": 19,
+              "question": "The signal give by the policeman in the picture means",
+              "answer": 2,
+              "choice0": "Vehicles approaching from his right and left to stop.",
+              "choice1": "Vehicles approaching policeman from in front and behind him must stop.",
+              "choice2": "All vehicle must stop.",
+              "explaination": "Answer C. ",
+              "imageName": "t6q20"
+          },
+          {
+              "questionNo": 20,
+              "question": "This police officer is signalling",
+              "answer": 2,
+              "choice0": "Drivers from his left, front and rear to go.",
+              "choice1": "Drivers from his left, front and rear to stop.",
+              "choice2": "Drivers from his right, front and behind to stop.",
+              "explaination": "Answer C. ",
+              "imageName": "t6q21"
+          },
+          {
+              "questionNo": 21,
+              "question": "When a driver signals in this manner, it means",
+              "answer": 2,
+              "choice0": "He intends to make a U-turn.",
+              "choice1": "He intends to go around the round-about.",
+              "choice2": "He intends to move to the left or turn to the left.",
+              "explaination": "Answer C. ",
+              "imageName": "t6q22"
+          },
+          {
+              "questionNo": 22,
+              "question": "When a motorist signals in this manner, it means",
+              "answer": 2,
+              "choice0": "I intend to move in to the Right then turn left",
+              "choice1": "I intend to move in to the left or turn left",
+              "choice2": "I intend to move out to the right or turn right",
+              "explaination": "Answer C. ",
+              "imageName": "t6q23"
+          },
+          {
+              "questionNo": 23,
+              "question": "When you have moved to the right hand side of the road to overtake another vehicle, you should",
+              "answer": 1,
+              "choice0": "Maintain you normal speed and overtake as usual.",
+              "choice1": "Accelerate and overtake as quickly as possible.",
+              "choice2": "Decelerate and change to a higher gear.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 24,
+              "question": "While overtaking another vehicle, the vehicle suddenly goes faster, you should",
+              "answer": 0,
+              "choice0": "Slow down and move safely back to your lane.",
+              "choice1": "Sound the horn continuously to warn the other driver.",
+              "choice2": "Accelerate hard to overtake quickly.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 25,
+              "question": "Which car should go first?",
+              "answer": 0,
+              "choice0": "Car A.",
+              "choice1": "Car B.",
+              "choice2": "Car C.",
+              "explaination": "Answer A. ",
+              "imageName": "t6q26"
+          },
+          {
+              "questionNo": 26,
+              "question": "Which car(s) should give way to car B?",
+              "answer": 0,
+              "choice0": "Neither Car A or C to give way to Car B.",
+              "choice1": "Car A only.",
+              "choice2": "Car C only.",
+              "explaination": "Answer A. ",
+              "imageName": "t6q27"
+          },
+          {
+              "questionNo": 27,
+              "question": "You are driving pass a line of parked cars. You notice a ball bouncing out into the road ahead, you should",
+              "answer": 0,
+              "choice0": "Slow down and be prepared to stop for children.",
+              "choice1": "Continue driving at the same speed and try to avoid the ball.",
+              "choice2": "Continue driving at the same speed and sound your horn.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 28,
+              "question": "You are turning left into a side road. Pedestrians are crossing the road near the junction. You should",
+              "answer": 0,
+              "choice0": "Wait for them to cross.",
+              "choice1": "Wave them on.",
+              "choice2": "Sound your horn.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 29,
+              "question": "You need a longer distance to stop your vehicle when driving",
+              "answer": 0,
+              "choice0": "On a wet road.",
+              "choice1": "On a dry road.",
+              "choice2": "On a hard and dry ground.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 30,
+              "question": "You see two elderly pedestrians about to cross the road ahead, you should",
+              "answer": 2,
+              "choice0": "Expect them to wait for you to pass.",
+              "choice1": "Speed up to pass them quickly.",
+              "choice2": "Be careful , they may misjudge your speed.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 31,
+              "question": "When driving in heavy rain, you should turn on",
+              "answer": 1,
+              "choice0": "The headlights and hazard lights.",
+              "choice1": "The headlights and tail lights.",
+              "choice2": "The hazard lights.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 32,
+              "question": "you must signal your intention at least",
+              "answer": 0,
+              "choice0": "3 seconds in advance.",
+              "choice1": "2 seconds in advance.",
+              "choice2": "5 seconds in advance.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 33,
+              "question": "What advice should you give to a driver who has a few alcoholic drinks at a party?",
+              "answer": 2,
+              "choice0": "Drive home carefully and slowly.",
+              "choice1": "Wait for a short while and then drive home.",
+              "choice2": "Go home by public transport.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 34,
+              "question": "Which of the following sentences is TRUE?",
+              "answer": 1,
+              "choice0": "Alcohol has no effect on the way you drive.",
+              "choice1": "Alcohol slow downs your reaction when driving.",
+              "choice2": "Alcohol makes you a better driver.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 35,
+              "question": "Which of the following statement on alcohol is true?",
+              "answer": 2,
+              "choice0": "You may decline a breath or blood test.",
+              "choice1": "Alcohol will not be detected by the breath test after peppermints have been eaten.",
+              "choice2": "Even a small amount of alcohol tends to increase the chance of an accident.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 36,
+              "question": "Which of these can affect your reaction time?",
+              "answer": 0,
+              "choice0": "Drugs.",
+              "choice1": "Contact lenses.",
+              "choice2": "Tinted windows.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 37,
+              "question": "In this scenario Car A should",
+              "answer": 0,
+              "choice0": "Slow down and let the lorry complete the turn.",
+              "choice1": "Quickly overtake the lorry before the junction.",
+              "choice2": "Overtake the lorry on the left.",
+              "explaination": "Answer A. ",
+              "imageName": "t6q38"
+          },
+          {
+              "questionNo": 38,
+              "question": "Which car (X or Y) should exit at points C and D?",
+              "answer": 0,
+              "choice0": "Car Y.",
+              "choice1": "Car X.",
+              "choice2": "Both vehicles.",
+              "explaination": "Answer A. ",
+              "imageName": "t6q39"
+          },
+          {
+              "questionNo": 39,
+              "question": "It is important to check the 'blind spot' before",
+              "answer": 0,
+              "choice0": "Changing lanes.",
+              "choice1": "Changing gears.",
+              "choice2": "Slowing down.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 40,
+              "question": "The 'Two second rule' is used in normal driving situation at",
+              "answer": 0,
+              "choice0": "All speed.",
+              "choice1": "Fixed speed only.",
+              "choice2": "Certain speed only.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 41,
+              "question": "When you cannot confirm the direction of the approach of an emergency vehicle, you should",
+              "answer": 0,
+              "choice0": "Slow down your speed and move to the left lane.",
+              "choice1": "Increase the speed of your vehicle.",
+              "choice2": "Maintain you speed and position.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 42,
+              "question": "While driving and hear the siren of an ambulance behind you, you should",
+              "answer": 1,
+              "choice0": "Speed up in order not to obstruct the ambulance.",
+              "choice1": "Keep left, slow down and stop if necessary.",
+              "choice2": "Stop immediately to let the ambulance overtake or pass.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 43,
+              "question": "When driving in heavy rain and passing through water, you should gently test your ",
+              "answer": 1,
+              "choice0": "Signals.",
+              "choice1": "Brakes from time to time.",
+              "choice2": "Horn.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 44,
+              "question": "You are driving on a three-lane carriageway at 80 km/h. There is no traffic ahead. Which lane should you use?",
+              "answer": 2,
+              "choice0": "Any lane.",
+              "choice1": "Middle lane.",
+              "choice2": "Left lane.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 45,
+              "question": "When facing oncoming traffic at night, which lights should you use?",
+              "answer": 1,
+              "choice0": "High beam headlights.",
+              "choice1": "Dipped headlights.",
+              "choice2": "Spot lights.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 46,
+              "question": "When the oncoming car refuses to dim its headlights, you should",
+              "answer": 2,
+              "choice0": "Maintain you speed and the headlight status.",
+              "choice1": "Retaliate by turning on your high beam.",
+              "choice2": "Slow down and look at the left side of the kerb.",
+              "explaination": "Answer C. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 47,
+              "question": "You should dip your headlights when",
+              "answer": 0,
+              "choice0": "Facing oncoming traffic.",
+              "choice1": "Approaching a blind corner.",
+              "choice2": "Driving in a dark area.",
+              "explaination": "Answer A. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 48,
+              "question": "You are permitted to use the outer most right lane on a three-lane dual carriageway when",
+              "answer": 1,
+              "choice0": "Emergency vehicles are not using it.",
+              "choice1": "You intend to turn right ahead.",
+              "choice2": "You are travelling at the maximum legal speed limit of the road.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          },
+          {
+              "questionNo": 49,
+              "question": "On saturday, all vehicles must avoid the bus lane betweeen",
+              "answer": 1,
+              "choice0": "11.00 am and 2.00 pm.",
+              "choice1": "11.30 am and 2.00 pm.",
+              "choice2": "11.30 am and 2.30 pm.",
+              "explaination": "Answer B. ",
+              "imageName": "."
+          }
+      ]
+   },
+   {
+      "type":"Test 7",
+      "imageName":"seven_circle",
+      "questions":[
+          {
+              "questionNo": 3,
+              "question": "Which part of the car is the arrow pointing to?",
+              "answer": 0,
+              "choice0": "Bumper",
+              "choice1": "Muffler",
+              "choice2": "Boot",
+              "explaination": "Answer A. Bumper",
+              "imageName": "bumper"
+          },
+          {
+              "questionNo": 10,
+              "question": "What is road hogging?",
+              "answer": 2,
+              "choice0": "Road-Hogging is driving on the right-hand of the road. ",
+              "choice1": "Road-Hogging is driving at an unreasonably fast speed on the road especially on the right-hand of the road.",
+              "choice2": "Road-Hogging is driving at an unreasonably slow speed on the road especially on the right-hand or along the centre of the road.",
+              "explaination": "Answer C. Road-Hogging is driving at an unreasonably slow speed on the road especially on the right-hand or along the centre of the road.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 19,
+              "question": "This work zone signs means",
+              "answer": 1,
+              "choice0": "Road Merging on right",
+              "choice1": "Road Narrow on right",
+              "choice2": "Road Spliting on right",
+              "explaination": "Answer B. Road Narrow on right",
+              "imageName": "road_narrows_on_right"
+          },
+          {
+              "questionNo": 5,
+              "question": "When should you check your blind spots?",
+              "answer": 2,
+              "choice0": "Turning",
+              "choice1": "Overtaking",
+              "choice2": "All of the above",
+              "explaination": "Answer C. All of the above",
+              "imageName": ""
+          },
+          {
+              "questionNo": 8,
+              "question": "This work zone signs means",
+              "answer": 0,
+              "choice0": "Road Shoulder Closed",
+              "choice1": "Keep Shoulder Below the window",
+              "choice2": "Work Access Ahead",
+              "explaination": "Answer A. Road Shoulder Closeddistance_supplemetary_plate",
+              "imageName": "shoulder_lane_closed_ahaed"
+          },
+          {
+              "questionNo": 11,
+              "question": "This sign means",
+              "answer": 2,
+              "choice0": "No waiting and no loading and unleading during weekdays and saturday.",
+              "choice1": "No waiting and vehicles are not allowed to stop for boarding and alighting.",
+              "choice2": "No waiting but vehicles may stop to allow boarding or alighting only.",
+              "explaination": "Answer C. No waiting (Vehicles may stop to allow boarding or alighting only).",
+              "imageName": "no_waiting"
+          },
+          {
+              "questionNo": 0,
+              "question": "This sign",
+              "answer": 1,
+              "choice0": "Allows the entry of vehciles with an over height in excess of 4.5m",
+              "choice1": "Prohibits the entry of vehicles with an overall height in excess of 4.5m",
+              "choice2": "Prohibits the entry of vehicles with an overall width of 4.5m",
+              "explaination": "Answer B. This is height limit. Anyone who drives a vehicle with overall height exceeding 4.5m without police escort is committing an offence.",
+              "imageName": "height_limit"
+          },
+          {
+              "questionNo": 20,
+              "question": "A full bus lane means no driving or parking of vehicles in the bus lane during",
+              "answer": 1,
+              "choice0": "Weekday 7.30am to 11.00pm, except Public Holidays.",
+              "choice1": "Monday to Saturday 7.30am to 11.00pm, except Public Holidays.",
+              "choice2": "Monday to Sunday 7.30am to 11.00pm, except Public Holidays.",
+              "explaination": "Answer B. Monday to Saturday 7.30am to 11.00pm, except Public Holidays.",
+              "imageName": "road_lane_21"
+          },
+          {
+              "questionNo": 6,
+              "question": "Which part of the dashboard is the arrow pointing to?",
+              "answer": 2,
+              "choice0": "Tripmeter",
+              "choice1": "Speedometer",
+              "choice2": "Odometer",
+              "explaination": "Answer C. Odometer",
+              "imageName": "odometer"
+          },
+          {
+              "questionNo": 1,
+              "question": "After you have passed your FTT, you are required to pass the Practical Driving Test within _________ years.",
+              "answer": 0,
+              "choice0": "2",
+              "choice1": "1",
+              "choice2": "3",
+              "explaination": "After you have passed your FTT, you are required to pass the Practical Driving Test within two years, failing which, you will have to retake and pass your FTT again before you can apply for another Practical Driving Test.",
+              "imageName": "."
+          },
+          {
+              "questionNo": 1,
+              "question": "The single white line indicate that",
+              "answer": 0,
+              "choice0": "The traffic is required to stop and must stop close to and before this line.",
+              "choice1": "The traffic on the major road must give way to traffic approaching these lines.",
+              "choice2": "The traffic approaching these lines must give way to traffic on a major road.",
+              "explaination": "Answer A. The traffic is required to stop and must stop close to and before this line",
+              "imageName": "road_lane_2"
+          },
+          {
+              "questionNo": 21,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "Traffic signals not operating hours",
+              "choice1": "Traffic signals operating hours",
+              "choice2": "Traffic signals hours",
+              "explaination": "Answer B. Traffic signals operating hours",
+              "imageName": "traffic_signals_operating_hours"
+          },
+          {
+              "questionNo": 20,
+              "question": "What should you do when you are immediately behind another vehicle",
+              "answer": 2,
+              "choice0": "On high beam",
+              "choice1": "Off your headlights",
+              "choice2": "Dip your headlights",
+              "explaination": "Answer C. Dip your headlights",
+              "imageName": ""
+          },
+          {
+              "questionNo": 15,
+              "question": "This sign means",
+              "answer": 0,
+              "choice0": "Do not exceed 70 km/h.",
+              "choice1": "Drive at 70 km/h.",
+              "choice2": "Drive above 70 km/h.",
+              "explaination": "Answer A. Speed limit. Do not exceed 70 km/h.",
+              "imageName": "speed_limit_70"
+          },
+          {
+              "questionNo": 2,
+              "question": "What should you do when there is a collision with the animal?",
+              "answer": 1,
+              "choice0": "If it is casuing an obstruction to ther road users, you should stop your vehicle, turn on your hazard light and call 995",
+              "choice1": "If it is casuing an obstruction to ther road users, you should stop your vehicle, turn on your hazard light and call 999",
+              "choice2": "If it is casuing an obstruction to ther road users, you should stop your vehicle, turn on your hazard light and call the vet",
+              "explaination": "Answer B. If you have a collision with an animal and it is causing an obstruction to other road users; you are required to stop your vehicle, turn on your hazard light and notify the Traffic Police at 999.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 3,
+              "question": "When you see a Zebra crossing, you should",
+              "answer": 0,
+              "choice0": "Slow down and stop if there are pedestrians or cyclists crossing or about to cross.",
+              "choice1": "Speed up so that the pedestrians or cyclists crossing after that you have pass over them.",
+              "choice2": "Slow down, horn the pedestrians to let them know that they are safe to cross.",
+              "explaination": "Answer A. Slow down and stop if there are pedestrians or cyclists crossing or about to cross.",
+              "imageName": "road_lane_4"
+          },
+          {
+              "questionNo": 10,
+              "question": "Which of the following is/are adverse weather?",
+              "answer": 0,
+              "choice0": "Strong Winds",
+              "choice1": "Wet road",
+              "choice2": "All of the above",
+              "explaination": "Answer A. Strong Winds is adverse weather condition.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 32,
+              "question": "How many demerit points are given if a rider/driver gets caught driving or riding against the flow of traffic as indicated by traffic signs? ",
+              "answer": 2,
+              "choice0": "5 demerit points and fine $200 for light vehicle and $250 for heavy vehicle.",
+              "choice1": "4 demerit points and fine $200 for light vehicle and $250 for heavy vehicle.",
+              "choice2": "6 demerit points and fine $200 for light vehicle and $250 for heavy vehicle.",
+              "explaination": "Answer C. Under the Driver Improvement Points (DIPS), 6 demerit points are given and a fine of $200 for light vehicles and $250 for heavy vehicles.. ",
+              "imageName": ""
+          },
+          {
+              "questionNo": 3,
+              "question": "The symbols on the EMAS signboard means",
+              "answer": 2,
+              "choice0": "Vehicle Breakdown",
+              "choice1": "Accident",
+              "choice2": "Congestion",
+              "explaination": "Answer C. Congestion",
+              "imageName": "congestion"
+          },
+          {
+              "questionNo": 1,
+              "question": "When are you able to apply for a Provisional Driving License (PDL)?",
+              "answer": 0,
+              "choice0": "After passing BTT.",
+              "choice1": "After passing BTT and FTT/RTT.",
+              "choice2": "Before passing BTT and FTT/RTT.",
+              "explaination": "After passing your BTT, you can apply for PDL.",
+              "imageName": "."
+          },
+          {
+              "questionNo": 4,
+              "question": "Which part of the dashboard is the arrow pointing to?",
+              "answer": 2,
+              "choice0": "High Beam Inidcator",
+              "choice1": "Empty Fuel Tank Warning Light",
+              "choice2": "Engine Check Light",
+              "explaination": "Answer C. Engine Check Light",
+              "imageName": "engine_check_light"
+          },
+          {
+              "questionNo": 15,
+              "question": "What does the traffic police means when he shows this?",
+              "answer": 1,
+              "choice0": "Right-turning vehicles in front of Police Officer may proceed.",
+              "choice1": "Vehicles approaching Police Officer from his/her left, front and behind to stop and from his/her right be ready to stop. Signal is about to change.",
+              "choice2": "Vehicles approaching Police Officer from front and behind to stop, from his/her right may proceed and his/her left be ready to stop - signal is about to change",
+              "explaination": "Answer B. ",
+              "imageName": "traffic_police_5"
+          },
+          {
+              "questionNo": 13,
+              "question": "After you pass through the water, you should",
+              "answer": 0,
+              "choice0": "Pump the brake pedal repeatedly to dry the brakes",
+              "choice1": "Pump the brake hard to dry the brakes",
+              "choice2": "Speed up and brake hard to dry the brakes",
+              "explaination": "Answer A. To dry the brakes, pump the brake pedal repeatedly until braking action returns.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 9,
+              "question": "This work zone signs means",
+              "answer": 2,
+              "choice0": "Work Access in 200 m",
+              "choice1": "Project Information Ahead",
+              "choice2": "Distance Supplementary Plate",
+              "explaination": "Answer C. Distance Supplementary Plate",
+              "imageName": "distance_supplemetary_plate"
+          },
+          {
+              "questionNo": 20,
+              "question": "How many demerit points are given if a rider/driver gets caught crossing a road divider  ? ",
+              "answer": 1,
+              "choice0": "3 demerit points and fine $150 for light vehicle and $200 for heavy vehicle.",
+              "choice1": "4 demerit points and fine $150 for light vehicle and $200 for heavy vehicle.",
+              "choice2": "5 demerit points and fine $150 for light vehicle and $200 for heavy vehicle.",
+              "explaination": "Answer B. Under the Driver Improvement Points (DIPS), 4 demerit points are given and a fine of $150 for light vehicles and $200 for heavy vehicles. Refer to page 7 of Online Basic Theory of Driving: The Official Handbook published by Traffic Police. ",
+              "imageName": ""
+          },
+          {
+              "questionNo": 0,
+              "question": "Which part of the car is the arrow pointing to?",
+              "answer": 1,
+              "choice0": "Bumper",
+              "choice1": "Bonnet",
+              "choice2": "Windscreen",
+              "explaination": "Answer B. Bonnet",
+              "imageName": "bonnet"
+          },
+          {
+              "questionNo": 44,
+              "question": "How many demerit points are given if a rider/driver gets caught driving without due care or reasonable consideration for other road users ?  ",
+              "answer": 1,
+              "choice0": "8 demerit points and fine $300 for light vehicle and $400 for heavy vehicle.",
+              "choice1": "9 demerit points and fine $300 for light vehicle and $400 for heavy vehicle.",
+              "choice2": "10 demerit points and fine $300 for light vehicle and $400 for heavy vehicle.",
+              "explaination": "Answer B. Under the Driver Improvement Points (DIPS), 9 demerit points are given and a fine of $300 for light vehicles and $400 for heavy vehicles.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 14,
+              "question": "What should you do when you see this sign?",
+              "answer": 0,
+              "choice0": "Slow down and beware of pedestrians crossing the road ahead.",
+              "choice1": "Slow down and beware of children crossing the read ahead.",
+              "choice2": "Start of silver zone.",
+              "explaination": "Answer A. Pedestrian in road ahead. (Slow down. Beware of pedestrians Crossing the road ahead).",
+              "imageName": "pedestrian_in_road_ahead"
+          },
+          {
+              "questionNo": 4,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "No entry to expressway",
+              "choice1": "End of expressway",
+              "choice2": "Start of expressway",
+              "explaination": "Answer B. End of expressway",
+              "imageName": "end_of_expressway"
+          },
+          {
+              "questionNo": 7,
+              "question": "What should you do when you see this sign?",
+              "answer": 1,
+              "choice0": "Get ready to turn left",
+              "choice1": "Signal and filter to the correct lane",
+              "choice2": "Stop and move to the correct lane",
+              "explaination": "Answer B. Exclusive left turn and shared left turn lane ahead. Signal and filter to the correct lane.",
+              "imageName": "exclusive_left_turn_and_shared_left_turn_ahead"
+          },
+          {
+              "questionNo": 0,
+              "question": "Which persons(s) should be belted up when travelling in vehicle?",
+              "answer": 1,
+              "choice0": "Front seats only",
+              "choice1": "All persons irrespective of their age",
+              "choice2": "Driver only",
+              "explaination": "Answer B. All persons travelling in vehicles, irrespective of their age, should be appropriately belted up.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 25,
+              "question": "How many demerit points are given if a rider/driver gets caught driving while carrying a load on a motor vehicle in a dangerous manner? ",
+              "answer": 1,
+              "choice0": "3 demerit points and fine $150 for light vehicle and $200 for heavy vehicle.",
+              "choice1": "4 demerit points and fine $150 for light vehicle and $200 for heavy vehicle.",
+              "choice2": "5 demerit points and fine $150 for light vehicle and $200 for heavy vehicle.",
+              "explaination": "Answer B Under the Driver Improvement Points (DIPS), 4 demerit points are given and a fine of $150 for light vehicles and $200 for heavy vehicles. Refer to page 7 of Online Basic Theory of Driving: The Official Handbook published by Traffic Police. ",
+              "imageName": ""
+          },
+          {
+              "questionNo": 7,
+              "question": "What does the motorist means when he shows this?",
+              "answer": 2,
+              "choice0": "Motorist want to turn left",
+              "choice1": "Motorist want to stop",
+              "choice2": "Motorist want to slow down",
+              "explaination": "Answer C. ",
+              "imageName": "motor_2"
+          },
+          {
+              "questionNo": 7,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "Wait",
+              "choice1": "Stop",
+              "choice2": "Slow down.",
+              "explaination": "Answer B. Stop. Refer to page 10 of Online Basic Theory of Driving The Official Handbook published by Traffic Police.",
+              "imageName": "stop"
+          },
+          {
+              "questionNo": 26,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "Right bend.",
+              "choice1": "Series of bends.",
+              "choice2": "Left bend.",
+              "explaination": "Answer B. Series of bends.",
+              "imageName": "series_bends_two"
+          },
+          {
+              "questionNo": 2,
+              "question": "A sign with Yellow letters on green backgrounds with yellow borders means",
+              "answer": 0,
+              "choice0": "Roads leading to destinations along expressways",
+              "choice1": "Nothing it is the same as the one shown in white letter with white borders",
+              "choice2": "Warning road work is in the area stated at the sign box.",
+              "explaination": "Answer A. On all roads leading to destinations along expressways, the signs have Yellow letters on green backgrounds with yellow borders.",
+              "imageName": "confirmation_directional_express_yellow"
+          },
+          {
+              "questionNo": 6,
+              "question": "When are you allowed to overtake on the left?",
+              "answer": 0,
+              "choice0": "When the driver in front has signalled his/her intention to turn right.",
+              "choice1": "When the driver in front of you signalled you to do so",
+              "choice2": "You are not allowed to overtake on the left at all times.",
+              "explaination": "Answer A. When the driver in front has signalled his/her intention to turn right.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 2,
+              "question": "Fill in the blank. Long vehicles are required to display at least ____ yellow reflective markings on each side of the vehicle.",
+              "answer": 2,
+              "choice0": "1",
+              "choice1": "2",
+              "choice2": "3",
+              "explaination": "Answer C. ",
+              "imageName": ""
+          },
+          {
+              "questionNo": 5,
+              "question": "When driving behind other vehicles in an unlit road, you should",
+              "answer": 2,
+              "choice0": "Turn off your headlights",
+              "choice1": "Switch to high beam",
+              "choice2": "Dip your headlights",
+              "explaination": "Answer C. Dip your headlights when driving behind other vehicles.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 14,
+              "question": "The prescribed legal limit for breath is",
+              "answer": 2,
+              "choice0": "35 microgrammes (ug) of alcohol per 80 millilitres (ml) of breath",
+              "choice1": "50 microgrammes (ug) of alcohol per 100 millilitres (ml) of breath",
+              "choice2": "35 microgrammes (ug) of alcohol per 100 millilitres (ml) of breath",
+              "explaination": "Answer C. 35 microgrammes (ug) of alcohol per 100 millilitres (ml) of breath",
+              "imageName": ""
+          },
+          {
+              "questionNo": 12,
+              "question": "With small quantity consumed, should you drive?",
+              "answer": 0,
+              "choice0": "No",
+              "choice1": "Yes",
+              "choice2": "Depends on your own judgment",
+              "explaination": "Answer A. when even a small quantity has been consumed, makes you less safe on the roads",
+              "imageName": ""
+          },
+          {
+              "questionNo": 10,
+              "question": "What should you do when you see this sign?",
+              "answer": 1,
+              "choice0": "Vehicles waiting to turn may take any of the four waiting lanes. Vehicle can move without stopping",
+              "choice1": "Vehicles waiting to turn may take any of the four waiting lanes. Stop for pedestrians crossing the road",
+              "choice2": "Signal and filter to the correct lane",
+              "explaination": "Answer B. Vehicles waiting to turn may take any of the four waiting lanes. Stop for pedestrians crossing the road",
+              "imageName": "four_waiting_lanes_ahead"
+          },
+          {
+              "questionNo": 11,
+              "question": "This sign means?",
+              "answer": 2,
+              "choice0": "Switch turn on radio",
+              "choice1": "Radio zone. Only able to play radio.",
+              "choice2": "Switch on headlights and turn on radio",
+              "explaination": "Answer C. Switch on headlights and turn on radio",
+              "imageName": "switch_on_headlights_and_radio"
+          },
+          {
+              "questionNo": 46,
+              "question": "How many demerit points are given if a rider/driver gets caught using a mobile telephone while driving for the first time ?  ",
+              "answer": 1,
+              "choice0": "8 demerit points and fine not exceeding 900 or both . ",
+              "choice1": "12 demerit points and fine not exceeding 1000 or both  .",
+              "choice2": "10 demerit points and fine not exceeding 1000or both  .",
+              "explaination": "Answer B. Under the Driver Improvement Points (DIPS), 12 demerit points are given and a fine not exceeding 1000 or both . ",
+              "imageName": ""
+          },
+          {
+              "questionNo": 1,
+              "question": "Who does not qualify for a driving license?",
+              "answer": 0,
+              "choice0": "An applicant who his age is 17 years old.",
+              "choice1": "An applicant who his age is 18 years old.",
+              "choice2": "An applicant who his age is 16 years old.",
+              "explaination": "In order to qualify for a driving license to drive or ride in Singapore, an applicant must be at least 18 years old. There are still other requirement apart from this",
+              "imageName": "."
+          },
+          {
+              "questionNo": 15,
+              "question": "When should you do when your rear mirror view is restricted when reversing?",
+              "answer": 1,
+              "choice0": "Continue to reverse and stop and check by opening the door",
+              "choice1": "Get help from someone",
+              "choice2": "Use the side mirror to see",
+              "explaination": "Answer B. Get help from someone",
+              "imageName": ""
+          },
+          {
+              "questionNo": 13,
+              "question": "Double yellow Zig-Zag lines means",
+              "answer": 1,
+              "choice0": "No Parking at all times on that side of the road where the lines are drawn.",
+              "choice1": "No Stopping at all times on that side of the road where the lines are drawn.",
+              "choice2": "No Stopping between 7.00am and 7.00pm on that side of the road where the lines are drawn.",
+              "explaination": "Answer B. No Stopping at all times on that side of the road where the lines are drawn. Violation of this rule attracts demerit points and a fine.",
+              "imageName": "road_lane_14"
+          },
+          {
+              "questionNo": 8,
+              "question": "What should you do when you see this sign?",
+              "answer": 2,
+              "choice0": "Slow down. Beware of traffic merging from left.",
+              "choice1": "Slow down. Beware of traffic merging from right.",
+              "choice2": "Slow down. Beware of traffic merging from right or left.",
+              "explaination": "Answer C. Slow down. Beware of traffic merging from right or left.",
+              "imageName": "lanes_merging"
+          },
+          {
+              "questionNo": 5,
+              "question": "The traffic signal means",
+              "answer": 0,
+              "choice0": "Go for straight. Vehicles turning right must stop.",
+              "choice1": "Stop for straight. Vehicles turning right must stop.",
+              "choice2": "Go for straight. Vehicles turning right must go.",
+              "explaination": "Answer A. ",
+              "imageName": "go_stop"
+          },
+          {
+              "questionNo": 13,
+              "question": "The symbols on the EMAS signboard means",
+              "answer": 0,
+              "choice0": "Obstruction at lane 3",
+              "choice1": "Obstruction at lane 1",
+              "choice2": "Obstruction at lane 4",
+              "explaination": "Answer A. Obstruction at lane 3",
+              "imageName": "lane_reduction_1"
+          }
+      ]
+   },
+   {
+      "type":"Test 8",
+      "imageName":"eight_circle",
+      "questions":[
+          {
+              "questionNo": 34,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "Split lane",
+              "choice1": "Two-way traffic across a one way carriageway.",
+              "choice2": "Two-way traffic ahead.",
+              "explaination": "Answer B. Two-way traffic across a one-way carriageway",
+              "imageName": "two_way_traffic_accross"
+          },
+          {
+              "questionNo": 8,
+              "question": "The EMAS signboard means",
+              "answer": 2,
+              "choice0": "Traffic sign display (TSD)",
+              "choice1": "Travel Time Display (TTD)",
+              "choice2": "Traffic Information Display (TID)",
+              "explaination": "Answer C. Traffic Information Display (TID)",
+              "imageName": "display5"
+          },
+          {
+              "questionNo": 16,
+              "question": "What does the traffic police means when he shows this?",
+              "answer": 2,
+              "choice0": "Vehicles approaching Police Officer from his/her left, front and behind to stop and from his/her right be ready to stop. Signal is about to change.",
+              "choice1": "Left-turning vehicles in front of Police Officer may proceed.",
+              "choice2": "Right-turning vehicles in front of Police Officer may proceed.",
+              "explaination": "Answer C. ",
+              "imageName": "traffic_police_6"
+          },
+          {
+              "questionNo": 4,
+              "question": "How do you check for traffic in the blind spots?",
+              "answer": 0,
+              "choice0": "Look over your shoulder to the left or the right to check for traffic in the blind spots",
+              "choice1": "Look at the right and left of mirror of your vehicle to check for traffic in the blind spots",
+              "choice2": "Look down and up to check for traffic in the blind spots",
+              "explaination": "Answer A. Look over your shoulder to the left or the right to check for traffic in the blind spots",
+              "imageName": ""
+          },
+          {
+              "questionNo": 17,
+              "question": "When you about to reach the lane with a yellow box and there is no space after the yellow box. You should",
+              "answer": 1,
+              "choice0": "Stop at the yellow box.",
+              "choice1": "Not stop at the yellow box so that you can give way to vehicles from the side road entering the main road.",
+              "choice2": "Stop at the yellow box if there is no vehicle at the side road.",
+              "explaination": "Answer B. Do not drive into the yellow box when traffic has come to a standstill. Give way to vehicles from the side road entering the main road.",
+              "imageName": "road_lane_18"
+          },
+          {
+              "questionNo": 22,
+              "question": "This sign means",
+              "answer": 0,
+              "choice0": "U-turn facility ahead",
+              "choice1": "U-turn sign with vehicle weight restriction",
+              "choice2": "Opposite U-turn facility ahead",
+              "explaination": "Answer A. U-turn facility ahead",
+              "imageName": "u_turn_facility_ahead"
+          },
+          {
+              "questionNo": 27,
+              "question": "What should you do when you see this sign?",
+              "answer": 1,
+              "choice0": "Slow down and Keep left. Do not overtake and make a U-turn. Parking is allowed at the side of the road.",
+              "choice1": "Slow down and Keep left. Do not overtake, make a U-turn or park your vehicles.",
+              "choice2": "Slow down and Keep left. May allow boarding or alighting only.",
+              "explaination": "Answer B. Slow down. Keep left. Do not overtake, make a U-turn or park your vehicle.",
+              "imageName": "series_of_bends_one"
+          },
+          {
+              "questionNo": 0,
+              "question": "Who are required to display this sign?",
+              "answer": 1,
+              "choice0": "Vehicle that might be carrying dangerous goods or any goods",
+              "choice1": "Vehicle carrying dangerous goods",
+              "choice2": "Long vehicle",
+              "explaination": "Answer B. Vehicles carrying dangerous goods are required to display hazard information signs.",
+              "imageName": "danger_highly_flammable"
+          },
+          {
+              "questionNo": 3,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "No parking or stopping within 6 metres of the bus stop or within the bus bay except omnibuses)",
+              "choice1": "No parking or stopping within 9 metres of the bus stop or within the bus bay except omnibuses)",
+              "choice2": "No parking or stopping within 3 metres of the bus stop or within the bus bay except omnibuses)",
+              "explaination": "Answer B. No parking or stopping within 9 metres of the bus stop or within the bus bay except omnibuses)",
+              "imageName": "bus_stop"
+          },
+          {
+              "questionNo": 20,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "Merging lanes",
+              "choice1": "Road narrows on both sides.",
+              "choice2": "Road narrows on one side.",
+              "explaination": "Answer B. Road narrows on both sides",
+              "imageName": "road_narrows_on_both_sides"
+          },
+          {
+              "questionNo": 6,
+              "question": "Who are requied to put the yellow and red reflective markings?",
+              "answer": 2,
+              "choice0": "Trailers with length exceeding 1 metre",
+              "choice1": "Trailers with length exceeding 3 metre",
+              "choice2": "Trailers with length exceeding 5 metre.",
+              "explaination": "Answer C. Trailers with length exceeding 5 metre.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 0,
+              "question": "What is an Intelligent Road Studs?",
+              "answer": 1,
+              "choice0": "Blinking devices that are activated when the red traffic signal comes on",
+              "choice1": "Blinking devices that are activated when the green man signal comes on",
+              "choice2": "Blinking devices that are activated when the yellow traffic signal comes on",
+              "explaination": "Answer B. Blinking devices that are activated when the green man signal comes on. Turning vehicles should watch out and give way to pedestrians crossing the road.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 17,
+              "question": "When an ambulances with no sirens or flashing beacon light on, you should",
+              "answer": 2,
+              "choice0": "Stop your vehicles",
+              "choice1": "Give way by pulling in to the left or right side of the road depending on the circumstances",
+              "choice2": "Continue driving your normal path",
+              "explaination": "Answer C. ",
+              "imageName": ""
+          },
+          {
+              "questionNo": 0,
+              "question": "What should you do when you see this sign?",
+              "answer": 1,
+              "choice0": "Speed up and animals are approaching.",
+              "choice1": "Slow down and beware of animals.",
+              "choice2": "Slow down and get ready you camera.",
+              "explaination": "Answer B. Slow down and beware of animals.",
+              "imageName": "animals"
+          },
+          {
+              "questionNo": 6,
+              "question": "This work zone signs means",
+              "answer": 1,
+              "choice0": "Left Bend Ahead",
+              "choice1": "Lateral Shift Marker",
+              "choice2": "Left Turn Ahead",
+              "explaination": "Answer B. Lateral Shift Marker",
+              "imageName": "lateral_shift_marker"
+          },
+          {
+              "questionNo": 0,
+              "question": "This sign means?",
+              "answer": 1,
+              "choice0": "Pedestrian signal Green Man",
+              "choice1": "Countdown timer",
+              "choice2": "Remaining time for vehicles.",
+              "explaination": "Answer B. Countdown timer",
+              "imageName": "countdown_timer"
+          },
+          {
+              "questionNo": 45,
+              "question": "How many demerit points are given if a rider/driver gets caught carrying passengers on a goods vehicle in a dangerous manner ?  ",
+              "answer": 1,
+              "choice0": "8 demerit points and fine $300 for light vehicle and $400 for heavy vehicle.",
+              "choice1": "9 demerit points and fine $300 for light vehicle and $400 for heavy vehicle.",
+              "choice2": "10 demerit points and fine $300 for light vehicle and $400 for heavy vehicle.",
+              "explaination": "Answer B. Under the Driver Improvement Points (DIPS), 9 demerit points are given and a fine of $300 for light vehicles and $400 for heavy vehicles.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 32,
+              "question": "What should you do when you see this sign?",
+              "answer": 2,
+              "choice0": "Slow down. Beware of road ending ahead.",
+              "choice1": "Keep left. Change to a lower gear. Overtake and U-turn or park your vehicle are allowed..",
+              "choice2": "Keep left. Change to a lower gear. Do not overtake, make a U-turn or park your vehicle.",
+              "explaination": "Answer C. Keep left. Change to a lower gear. Do not overtake, make a U-turn or park your vehicle.",
+              "imageName": "steep_upward_slope"
+          },
+          {
+              "questionNo": 35,
+              "question": "This sign means",
+              "answer": 2,
+              "choice0": "Two lanes road",
+              "choice1": "Two-way traffic across a one way carriageway.",
+              "choice2": "Two-way traffic ahead.",
+              "explaination": "Answer C. Two-way traffic ahead.",
+              "imageName": "two_way_traffic_ahead"
+          },
+          {
+              "questionNo": 13,
+              "question": "At an uncontrolled junction, which car have the right of way?",
+              "answer": 0,
+              "choice0": "Car B",
+              "choice1": "Car A",
+              "choice2": "Depends",
+              "explaination": "Answer A. Car B because driver must give way to traffic going straight from the right.",
+              "imageName": "lane_1"
+          },
+          {
+              "questionNo": 42,
+              "question": "This sign means",
+              "answer": 2,
+              "choice0": "Slow down. Beware of traffic joining from the right and left",
+              "choice1": "Slow down. Beware of traffic joining from the right.",
+              "choice2": "Slow down. Beware of traffic joining from the left.",
+              "explaination": "Answer C. Slow down. Beware of traffic joining from the left.",
+              "imageName": "y_junction_three"
+          },
+          {
+              "questionNo": 6,
+              "question": "This diagram shows",
+              "answer": 1,
+              "choice0": "Zebra Crossing",
+              "choice1": "Bus-Friendly Hump",
+              "choice2": "Hump",
+              "explaination": "Answer B. Bus-Friendly Hump",
+              "imageName": "road_lane_7"
+          },
+          {
+              "questionNo": 23,
+              "question": "Dashed Pedestrian Crossing Lines means",
+              "answer": 1,
+              "choice0": "One vehicle should stop in the dashed line.",
+              "choice1": "The crossing area for pedestrains.",
+              "choice2": "Motorists not stop at the stop line for pedestrians to cross.",
+              "explaination": "Answer B. The crossing area for pedestrians. Motorists should comply with the stop line for pedestrians to cross.",
+              "imageName": "road_lane_24"
+          },
+          {
+              "questionNo": 9,
+              "question": "Which is the following is the correct step when overtaking?",
+              "answer": 2,
+              "choice0": "1) Check traffic ahead. 2) Check traffic behind. 3) Check bind Spot. 4) Signal right. 5) Move right. 6) Accelerate. 7) Tap horn (if neccessary). 8) Check mirror. 9) Signal left. 10) move left. 11) Cancel signal. 12) Resume normal speed.",
+              "choice1": "1) Check traffic ahead. 2) Check traffic behind. 3) Signal right. 4) Check bind Spot. 5) Move right. 6) Accelerate. 7) Check mirror. 8) Signal left. 9) move left. 10) Cancel signal. 11) Resume normal speed.",
+              "choice2": "1) Check traffic ahead. 2) Check traffic behind. 3) Signal right. 4) Check bind Spot. 5) Move right. 6) Accelerate. 7) Tap horn (if neccessary). 8) Check mirror. 9) Signal left. 10) move left. 11) Cancel signal. 12) Resume normal speed.",
+              "explaination": "Answer C. The 12 steps are 1) Check traffic ahead. 2) Check traffic behind. 3) Signal right. 4) Check bind Spot. 5) Move right. 6) Accelerate. 7) Tap horn (if neccessary). 8) Check mirror. 9) Signal left. 10) move left. 11) Cancel signal. 12) Resume normal speed.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 21,
+              "question": "When you are appraching a roundabout, you should",
+              "answer": 1,
+              "choice0": "Slow down and give way to traffic on your left",
+              "choice1": "Slow down and give way to traffic on your right",
+              "choice2": "Slow down and do not give way",
+              "explaination": "Answer B. Slow down when approaching a roundabout and give way to traffic on your right.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 12,
+              "question": "When approaching a road that is flooded but passable to vehicles, engage a ___ gear to go through the flood",
+              "answer": 0,
+              "choice0": "lower",
+              "choice1": "higher",
+              "choice2": "same",
+              "explaination": "Answer A. lower",
+              "imageName": ""
+          },
+          {
+              "questionNo": 2,
+              "question": "When your path of travel get obstructed by road works or parked vehicles, you should",
+              "answer": 1,
+              "choice0": "Take extra care before moving right and you are not allow to cross the centre line if the roads are narrow.",
+              "choice1": "Take extra care before moving right and you can cross the centre line if the roads are narrow.",
+              "choice2": "Take extra care before moving left and you can cross the centre line if the roads are narrow.",
+              "explaination": "Answer B. Take extra care before moving right and you can cross the centre line if the roads are narrow.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 13,
+              "question": "The prescribed legal limit for blood alcohol content is ",
+              "answer": 0,
+              "choice0": "80 milligrammes (mg) of alcohol per 100 millilitres (ml) of blood",
+              "choice1": "100 milligrammes (mg) of alcohol per 100 millilitres (ml) of blood",
+              "choice2": "100 milligrammes (mg) of alcohol per 80 millilitres (ml) of blood",
+              "explaination": "Answer A. 80 milligrammes (mg) of alcohol per 100 millilitres (ml) of blood",
+              "imageName": ""
+          },
+          {
+              "questionNo": 2,
+              "question": "When you see this sign, you should",
+              "answer": 2,
+              "choice0": "Slow down before the white line. Give way to traffic from the right and left.",
+              "choice1": "Slow down and stop.",
+              "choice2": "Slow down. Stop if necessary. Give way to traffic on major road.",
+              "explaination": "Answer C. When you see a Give Way sign, you should Slow down. Stop if necessary. Give way to traffic on major roads.  Refer to page 9 of Online Basic Theory of Driving The Official Handbook published by Traffic Police.",
+              "imageName": "give_way"
+          },
+          {
+              "questionNo": 9,
+              "question": "The encased blue background with yellow letter and borders means",
+              "answer": 1,
+              "choice0": "Speed up and get ready to enter expressway",
+              "choice1": "The same as the one without yellow letter and borders.",
+              "choice2": "Slow down",
+              "explaination": "Answer B. Expressway destination",
+              "imageName": "confirmation_directional_express_yellow"
+          },
+          {
+              "questionNo": 13,
+              "question": "What does the traffic police means when he shows this?",
+              "answer": 1,
+              "choice0": "Vehicles approaching Police Officer from all directions to stop.",
+              "choice1": "Vehicles approaching Police Officer from his/her right, front and behind to stop and his/her left may proceed.",
+              "choice2": "Vehicles approaching Police Officer from all directions to go.",
+              "explaination": "Answer B. ",
+              "imageName": "traffic_police_3"
+          },
+          {
+              "questionNo": 2,
+              "question": "How many demerit points are given if a rider gets caught for  failing to wear, or wears a protective helmet insecurely?",
+              "answer": 0,
+              "choice0": "3 demerit points and fine $150 for light vehicle and $200 for heavy vehicle.",
+              "choice1": "4 demerit points and fine $150 for light vehicle and $200 for heavy vehicle.",
+              "choice2": "6 demerit points and fine $150 for light vehicle and $200 for heavy vehicle.",
+              "explaination": "Answer A. Under the Driver Improvement Points (DIPS), 3 demerit points are given and a fine of $150 for light vehicles and $200 for heavy vehicles. ",
+              "imageName": ""
+          },
+          {
+              "questionNo": 4,
+              "question": "Which of the following is correct when you are on a three-lane carriageway?",
+              "answer": 0,
+              "choice0": "You can keep to the centre lane when the left-hand is occupied by slower moving vehicles.",
+              "choice1": "You should drive at the left lane as you should always keep to your left.",
+              "choice2": "You should keep to the left lane as the middle and right are for emergency vehicles only.",
+              "explaination": "Answer A. You can keep to the centre lane when the left-hand is occupied by slower moving vehicles.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 8,
+              "question": "What does the motorist means when he shows this?",
+              "answer": 1,
+              "choice0": "Motorist want to stop",
+              "choice1": "Motorist want to turn left",
+              "choice2": "Motorist want to right",
+              "explaination": "Answer B. ",
+              "imageName": "motor_3"
+          },
+          {
+              "questionNo": 5,
+              "question": "This sign means",
+              "answer": 0,
+              "choice0": "No entry for motorcyles.",
+              "choice1": "No entry for motorcyles and pedal cycles.",
+              "choice2": "No sound of horn for motorcyles.",
+              "explaination": "Answer A. No entry for motorcycles and pedal cycles.",
+              "imageName": "no_entry_for_motorcycles"
+          },
+          {
+              "questionNo": 8,
+              "question": "Continuous White Line means",
+              "answer": 1,
+              "choice0": "Vehicles should keep to left of this line. You cannot cross this line when the road ahead is clear.",
+              "choice1": "Vehicles should keep to right of this line and parking is not allowed.",
+              "choice2": "Vehicles should keep to right of this line no parking between 7.00am and 7.00pm ",
+              "explaination": "Answer B. ",
+              "imageName": "road_lane_9"
+          },
+          {
+              "questionNo": 25,
+              "question": "This sign means",
+              "answer": 0,
+              "choice0": "Start of school zone.",
+              "choice1": "End of school zone.",
+              "choice2": "Raised zebra crossing ahead.",
+              "explaination": "Answer A. Start of school zone.",
+              "imageName": "school_zone"
+          },
+          {
+              "questionNo": 5,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "End of zone",
+              "choice1": "End of school zone",
+              "choice2": "End of school",
+              "explaination": "Answer B. End of school zone",
+              "imageName": "end_of_school_zone"
+          },
+          {
+              "questionNo": 7,
+              "question": "This sign means",
+              "answer": 2,
+              "choice0": "Fence ahead.",
+              "choice1": "Ungated level crossing.",
+              "choice2": "Gated level crossing.",
+              "explaination": "Answer C. Gated level crossing (Slow down. Beware of gate closing)",
+              "imageName": "gated_level_crossing"
+          },
+          {
+              "questionNo": 34,
+              "question": "How many demerit points are given if a rider/driver gets caught for carrying passengers on a motor vehicle or trailer in a dangerous manner? ",
+              "answer": 2,
+              "choice0": "5 demerit points and fine $200 for light vehicle and $250 for heavy vehicle.",
+              "choice1": "4 demerit points and fine $200 for light vehicle and $250 for heavy vehicle.",
+              "choice2": "6 demerit points and fine $200 for light vehicle and $250 for heavy vehicle.",
+              "explaination": "Answer C. Under the Driver Improvement Points (DIPS), 6 demerit points are given and a fine of $200 for light vehicles and $250 for heavy vehicles. ",
+              "imageName": ""
+          },
+          {
+              "questionNo": 28,
+              "question": "What should you do when you see this sign?",
+              "answer": 1,
+              "choice0": "Slow down. Beware of vehicles from the left.",
+              "choice1": "Slow down. Beware of vehicles from the right.",
+              "choice2": "Slow down. Beware of vehicles from the left and right.",
+              "explaination": "Answer B. Slow down. Beware of vehicles from the right.",
+              "imageName": "side_road_one"
+          },
+          {
+              "questionNo": 3,
+              "question": "When should you use horn?",
+              "answer": 1,
+              "choice0": "Express anger or frustration",
+              "choice1": "Warn other road users of dangers such as a likely collision",
+              "choice2": "Demand the right-of-way or bull doze your way through crowded places.",
+              "explaination": "Answer B. Warn other road users of dangers such as a likely collision.",
+              "imageName": ""
+          },
+          {
+              "questionNo": 6,
+              "question": "Always give clear signals well in advance of your intentions at least ___ seconds before your manoeuvre ",
+              "answer": 2,
+              "choice0": "6",
+              "choice1": "4",
+              "choice2": "2",
+              "explaination": "Answer C. 2",
+              "imageName": ""
+          },
+          {
+              "questionNo": 1,
+              "question": "When you see this sign, you should",
+              "answer": 2,
+              "choice0": "Slow down and give way as traffic converges into single lane.",
+              "choice1": "Drive within the speed limit.",
+              "choice2": "Slow down and beware of obstruction ahead.",
+              "explaination": "Answer C. Caution road works ahead. Slow down and beware of obstruction ahead.",
+              "imageName": "caution_road_work_ahead"
+          },
+          {
+              "questionNo": 10,
+              "question": "This sign means",
+              "answer": 0,
+              "choice0": "Turn right only.",
+              "choice1": "Keep right",
+              "choice2": "Turn left only.",
+              "explaination": "Answer A. Turn right only. Refer to page 9 of Online Basic Theory of Driving The Official Handbook published by Traffic Police.",
+              "imageName": "turn_right_ahead"
+          },
+          {
+              "questionNo": 41,
+              "question": "What should you do when you see this sign?",
+              "answer": 0,
+              "choice0": "Slow down. Beware of traffic joining from the right and left.",
+              "choice1": "Slow down. Beware of traffic joining from the right.",
+              "choice2": "Slow down. Beware of traffic joining from the left.",
+              "explaination": "Answer A. Slow down. Beware of traffic joining from the right and left.",
+              "imageName": "y_junction_one"
+          },
+          {
+              "questionNo": 15,
+              "question": "How many demerit points are given if a rider/driver fails to give way to oncoming traffic at a controlled junction ? ",
+              "answer": 1,
+              "choice0": "3 demerit points and fine $150 for light vehicle and $200 for heavy vehicle.",
+              "choice1": "4 demerit points and fine $150 for light vehicle and $200 for heavy vehicle.",
+              "choice2": "5 demerit points and fine $150 for light vehicle and $200 for heavy vehicle.",
+              "explaination": "Answer B. Under the Driver Improvement Points (DIPS), 4 demerit points are given and a fine of $150 for light vehicles and $200 for heavy vehicles. Refer to page 7 of Online Basic Theory of Driving: The Official Handbook published by Traffic Police. ",
+              "imageName": ""
+          },
+          {
+              "questionNo": 24,
+              "question": "Which lane(s) is/are car allowed to go?",
+              "answer": 0,
+              "choice0": "Lane B",
+              "choice1": "Lane C",
+              "choice2": "Lane A",
+              "explaination": "Answer A. Lane B",
+              "imageName": "lane_6"
+          },
+          {
+              "questionNo": 4,
+              "question": "This sign means?",
+              "answer": 1,
+              "choice0": "Pedestrian signal Red Man",
+              "choice1": "Pedestrian signal Green Man",
+              "choice2": "Vehical signal Green Man",
+              "explaination": "Answer B. Pedestrian signal Green Man",
+              "imageName": "green_man"
+          },
+          {
+              "questionNo": 17,
+              "question": "This sign means",
+              "answer": 1,
+              "choice0": "Drive at 90 km/h.",
+              "choice1": "Do not exceed 90 km/h.",
+              "choice2": "Drive above 90 km/h.",
+              "explaination": "Answer B. Speed limit. Do not exceed 90 km/h.",
+              "imageName": "speed_limit_90"
+          }
+      ]
+   }
+]

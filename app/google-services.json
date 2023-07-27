@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703147529902",
+    "project_id": "btt-sg-38e70",
+    "storage_bucket": "btt-sg-38e70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703147529902:android:8f1374f148ceded1e67f3f",
+        "android_client_info": {
+          "package_name": "com.mssoftinc.bttsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703147529902-lqftoa34ih9dmjpjvbu1pjt0tkm1b3m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhVNX2gpbiULsvjJGILADZn9fkxtSi9tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703147529902-lqftoa34ih9dmjpjvbu1pjt0tkm1b3m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
